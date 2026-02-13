@@ -1,0 +1,401 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CANAL+ DOCS.png" group-title="FR DOCUMENTAIRES",FR CANAL+ DOCS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941631&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CRIME DISTRICT.png" group-title="FR DOCUMENTAIRES",FR CRIME DISTRICT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941629&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NATIONAL GEO.png" group-title="FR DOCUMENTAIRES",FR NATIONAL GEO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941639&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NATIONAL GEO.png" group-title="FR DOCUMENTAIRES",FR NATIONAL GEO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941640&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NAT GEO WILD.png" group-title="FR DOCUMENTAIRES",FR NAT GEO WILD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941642&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NAT GEO WILD.png" group-title="FR DOCUMENTAIRES",FR NAT GEO WILD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941643&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY CHANNEL.png" group-title="FR DOCUMENTAIRES",FR DISCOVERY CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941632&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/DISCOVERY ID.png" group-title="FR DOCUMENTAIRES",FR DISCOVERY ID HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941637&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/HISTOIRE.png" group-title="FR DOCUMENTAIRES",FR HISTOIRE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941645&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/HISTOIRE.png" group-title="FR DOCUMENTAIRES",FR HISTOIRE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941646&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TOUTE L'HISTOIRE.png" group-title="FR DOCUMENTAIRES",FR TOUTE L HISTOIRE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941648&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TOUTE L'HISTOIRE.png" group-title="FR DOCUMENTAIRES",FR TOUTE L'HISTOIRE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941649&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TLC.png" group-title="FR DOCUMENTAIRES",FR TLC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941634&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TREK.png" group-title="FR DOCUMENTAIRES",FR TREK HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941659&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TREK.png" group-title="FR DOCUMENTAIRES",FR TREK
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941660&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+.png" group-title="FR DOCUMENTAIRES",FR PLANETE+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941651&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+.png" group-title="FR DOCUMENTAIRES",FR PLANETE+
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941652&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ CRIME.png" group-title="FR DOCUMENTAIRES",FR PLANETE+ CRIME HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941656&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ CRIME.png" group-title="FR DOCUMENTAIRES",FR PLANETE+ CRIME
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941657&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/PLANETE+ AVENTURE.png" group-title="FR DOCUMENTAIRES",FR PLANETE+ AVENTURE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941654&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SCIENCE & VIE.png" group-title="FR DOCUMENTAIRES",FR SCIENCE & VIE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941665&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SCIENCE & VIE.png" group-title="FR DOCUMENTAIRES",FR SCIENCE & VIE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941666&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/RMC DECOUVERTE.png" group-title="FR DOCUMENTAIRES",FR RMC DECOUVERTE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941668&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/RMC DECOUVERTE.png" group-title="FR DOCUMENTAIRES",FR RMC DECOUVERTE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941669&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SEASONS.png" group-title="FR DOCUMENTAIRES",FR SEASONS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941662&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/SEASONS.png" group-title="FR DOCUMENTAIRES",FR SEASONS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941663&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/USHUAIA.png" group-title="FR DOCUMENTAIRES",FR USHUAIA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941671&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/USHUAIA.png" group-title="FR DOCUMENTAIRES",FR USHUAIA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941672&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/ANIMAUX.png" group-title="FR DOCUMENTAIRES",FR ANIMAUX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941674&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/ANIMAUX.png" group-title="FR DOCUMENTAIRES",FR ANIMAUX
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941675&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CHASSE & PECHE.png" group-title="FR DOCUMENTAIRES",FR CHASSE & PECHE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941677&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/CHASSE & PECHE.png" group-title="FR DOCUMENTAIRES",FR CHASSE & PECHE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941678&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/MUSEUM.png" group-title="FR DOCUMENTAIRES",FR MUSEUM FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941679&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/MUSEUM.png" group-title="FR DOCUMENTAIRES",FR MUSEUM HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941680&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/MUSEUM.png" group-title="FR DOCUMENTAIRES",FR MUSEUM
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941681&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/NAUTICAL CHANNEL.png" group-title="FR DOCUMENTAIRES",FR NAUTICAL CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941687&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/TV8 MONT-BLANC.png" group-title="FR DOCUMENTAIRES",FR TV8 MONT-BLANC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941688&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/MY ZEN TV.png" group-title="FR DOCUMENTAIRES",FR MY ZEN TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941682&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/MY ZEN NATURE.png" group-title="FR DOCUMENTAIRES",FR MY ZEN NATURE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941685&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR DOCUMENTAIRES/MY ZEN NATURE.png" group-title="FR DOCUMENTAIRES",FR MY ZEN NATURE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941683&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/FRANCE INFO.png" group-title="FR INFORMATIONS",FR FRANCE INFO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941752&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/FRANCE 24.png" group-title="FR INFORMATIONS",FR FRANCE 24 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941754&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/FRANCE 24.png" group-title="FR INFORMATIONS",FR FRANCE 24
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941755&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/EURONEWS FRENCH.png" group-title="FR INFORMATIONS",FR EURONEWS FRENCH HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941759&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/EURONEWS FRENCH.png" group-title="FR INFORMATIONS",FR EURONEWS FRENCH
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941760&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/C NEWS.png" group-title="FR INFORMATIONS",FR C NEWS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941757&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/I24 NEWS.png" group-title="FR INFORMATIONS",FR I24 NEWS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941783&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/I24 NEWS.png" group-title="FR INFORMATIONS",FR I24 NEWS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941784&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/LCI.png" group-title="FR INFORMATIONS",FR LCI FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941776&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/LCI.png" group-title="FR INFORMATIONS",FR LCI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941777&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/LCI.png" group-title="FR INFORMATIONS",FR LCI
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941778&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/LCP.png" group-title="FR INFORMATIONS",FR LCP HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941780&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/LCP.png" group-title="FR INFORMATIONS",FR LCP
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941781&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/BFM TV.png" group-title="FR INFORMATIONS",FR BFM TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941762&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/BFM TV.png" group-title="FR INFORMATIONS",FR BFM TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941763&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/BFM BUSINESS.png" group-title="FR INFORMATIONS",FR BFM BUSINESS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941765&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/BFM BUSINESS.png" group-title="FR INFORMATIONS",FR BFM BUSINESS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941766&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/BFM PARIS.png" group-title="FR INFORMATIONS",FR BFM PARIS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941768&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/BFM PARIS.png" group-title="FR INFORMATIONS",FR BFM PARIS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941769&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/BFM LYON.png" group-title="FR INFORMATIONS",FR BFM LYON HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941774&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/BFM ALPES SUD.png" group-title="FR INFORMATIONS",FR BFM ALPES SUD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941771&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/BFM COTE D'AZUR.png" group-title="FR INFORMATIONS",FR BFM COTE D'AZUR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941772&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/BFM GRAND LILLE.png" group-title="FR INFORMATIONS",FR BFM GRAND LILLE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941770&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/BFM HAUTE PROVINCE.png" group-title="FR INFORMATIONS",FR BFM HAUTE PROVINCE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941775&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR INFORMATIONS/BFM TOULON VAR.png" group-title="FR INFORMATIONS",FR BFM TOULON VAR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=941773&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/CANAL+ CINEMA.png" group-title="FR OD NETFLIX PREMIERE",FR CANAL+ CINEMA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936874&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/CANAL+ CINEMA.png" group-title="FR OD NETFLIX PREMIERE",FR CANAL+ CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936875&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/CANAL+ CINEMA.png" group-title="FR OD NETFLIX PREMIERE",FR CANAL+ CINEMA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936876&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/CANAL+ SERIES.png" group-title="FR OD NETFLIX PREMIERE",FR CANAL+ SERIES FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936877&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/CANAL+ SERIES.png" group-title="FR OD NETFLIX PREMIERE",FR CANAL+ SERIES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936878&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/CANAL+ SERIES.png" group-title="FR OD NETFLIX PREMIERE",FR CANAL+ SERIES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936879&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/CANAL+ BOX OFFICE.png" group-title="FR OD NETFLIX PREMIERE",FR CANAL+ BOX OFFICE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936872&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/CANAL+ BOX OFFICE.png" group-title="FR OD NETFLIX PREMIERE",FR CANAL+ BOX OFFICE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936873&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/CANAL+ GRAND ECRAN.png" group-title="FR OD NETFLIX PREMIERE",FR CANAL+ GRAND ECRAN FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936880&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/CANAL+ GRAND ECRAN.png" group-title="FR OD NETFLIX PREMIERE",FR CANAL+ GRAND ECRAN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936881&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/ACTION.png" group-title="FR OD NETFLIX PREMIERE",FR ACTION FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936882&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/ACTION.png" group-title="FR OD NETFLIX PREMIERE",FR ACTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936884&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/ACTION.png" group-title="FR OD NETFLIX PREMIERE",FR ACTION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936883&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/CINE+ PREMIER.png" group-title="FR OD NETFLIX PREMIERE",FR CINE+ PREMIER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936885&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/CINE+ Club.png" group-title="FR OD NETFLIX PREMIERE",FR CINE+ Club HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936886&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/CINE+ Famiz.png" group-title="FR OD NETFLIX PREMIERE",FR CINE+ Famiz HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936887&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/CINE+ Emotion.png" group-title="FR OD NETFLIX PREMIERE",FR CINE+ Emotion HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936888&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/CINE+ Frisson.png" group-title="FR OD NETFLIX PREMIERE",FR CINE+ Frisson HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936889&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/CINE+ Classic.png" group-title="FR OD NETFLIX PREMIERE",FR CINE+ Classic HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936890&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/PARAMOUNT CHANNEL.png" group-title="FR OD NETFLIX PREMIERE",FR PARAMOUNT CHANNEL FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936891&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/PARAMOUNT CHANNEL.png" group-title="FR OD NETFLIX PREMIERE",FR PARAMOUNT CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936892&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/PARAMOUNT CHANNEL.png" group-title="FR OD NETFLIX PREMIERE",FR PARAMOUNT CHANNEL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936893&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/PARAMOUNT DECALE.png" group-title="FR OD NETFLIX PREMIERE",FR PARAMOUNT DECALE FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936894&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/PARAMOUNT DECALE.png" group-title="FR OD NETFLIX PREMIERE",FR PARAMOUNT DECALE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936895&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/TCM CINEMA.png" group-title="FR OD NETFLIX PREMIERE",FR TCM CINEMA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936896&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/TCM CINEMA.png" group-title="FR OD NETFLIX PREMIERE",FR TCM CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936897&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR MY CANAL+/TCM CINEMA.png" group-title="FR OD NETFLIX PREMIERE",FR TCM CINEMA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936898&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942020&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942019&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942018&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942017&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942016&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942015&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942014&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942013&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942012&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 10 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942011&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 11 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942010&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 12 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942009&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 13 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942008&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 14 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942007&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 15 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942006&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 16 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942005&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 17 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942004&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 18 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942003&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 19 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942002&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE INFO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942043&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942042&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942041&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942040&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942039&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942038&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942037&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942036&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942035&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942034&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 10 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942033&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 11 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942032&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 12 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942031&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 13 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942030&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE INFO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942062&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942061&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942060&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942059&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942058&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942057&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR NETFLIX PREMIERE 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942056&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR PLAY BOX OFFICE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942054&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR PLAY NETFLIX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942053&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR PLAY ACTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942050&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR PLAY ACTION +1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942049&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR PLAY BEST OF HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942052&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR PLAY COMEDIE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942048&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR PLAY EMOTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942046&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR PLAY HORREUR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942047&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR PLAY COLLECTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942051&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR OD NETFLIX PREMIERE/NETFLIX PREMIERE.png" group-title="FR OD NETFLIX PREMIERE",FR PLAY EXTRA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=942055&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/TF1.png" group-title="FR TÉLÉVISION DE BASE+",FR TF1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936754&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/TF1.png" group-title="FR TÉLÉVISION DE BASE+",FR TF1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936755&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/FRANCE 2.png" group-title="FR TÉLÉVISION DE BASE+",FR FRANCE 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936757&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/FRANCE 2.png" group-title="FR TÉLÉVISION DE BASE+",FR FRANCE 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936758&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/FRANCE 3.png" group-title="FR TÉLÉVISION DE BASE+",FR FRANCE 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936760&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/FRANCE 3.png" group-title="FR TÉLÉVISION DE BASE+",FR FRANCE 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936761&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/FRANCE 4.png" group-title="FR TÉLÉVISION DE BASE+",FR FRANCE 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936763&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/FRANCE 4.png" group-title="FR TÉLÉVISION DE BASE+",FR FRANCE 4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936764&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/FRANCE 5.png" group-title="FR TÉLÉVISION DE BASE+",FR FRANCE 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936766&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/FRANCE 5.png" group-title="FR TÉLÉVISION DE BASE+",FR FRANCE 5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936767&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/STAR ACADEMY.png" group-title="FR TÉLÉVISION DE BASE+",FR STAR ACADEMY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936770&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/STAR ACADEMY.png" group-title="FR TÉLÉVISION DE BASE+",FR STAR ACADEMY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936771&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/6TER.png" group-title="FR TÉLÉVISION DE BASE+",FR 6TER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936773&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/6TER.png" group-title="FR TÉLÉVISION DE BASE+",FR 6TER
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936774&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/M6.png" group-title="FR TÉLÉVISION DE BASE+",FR M6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936776&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/M6.png" group-title="FR TÉLÉVISION DE BASE+",FR M6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936777&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/M6 INTERNATIONAL.png" group-title="FR TÉLÉVISION DE BASE+",FR M6 INTERNATIONAL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936778&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/TF1 SERIES-FILMS.png" group-title="FR TÉLÉVISION DE BASE+",FR TF1 SERIES-FILMS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936780&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/TF1 SERIES-FILMS.png" group-title="FR TÉLÉVISION DE BASE+",FR TF1 SERIES-FILMS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936781&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/TFX.png" group-title="FR TÉLÉVISION DE BASE+",FR TFX FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936782&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/TFX.png" group-title="FR TÉLÉVISION DE BASE+",FR TFX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936783&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/TFX.png" group-title="FR TÉLÉVISION DE BASE+",FR TFX
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936784&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/RTL 9.png" group-title="FR TÉLÉVISION DE BASE+",FR RTL 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936786&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/RTL 9.png" group-title="FR TÉLÉVISION DE BASE+",FR RTL 9
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936787&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/TEVA.png" group-title="FR TÉLÉVISION DE BASE+",FR TEVA FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936788&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/TEVA.png" group-title="FR TÉLÉVISION DE BASE+",FR TEVA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936789&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/TEVA.png" group-title="FR TÉLÉVISION DE BASE+",FR TEVA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936790&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/TMC.png" group-title="FR TÉLÉVISION DE BASE+",FR TMC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936792&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/TMC PLUS 1.png" group-title="FR TÉLÉVISION DE BASE+",FR TMC PLUS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936794&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/TMC PLUS 1.png" group-title="FR TÉLÉVISION DE BASE+",FR TMC PLUS 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936795&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/C8.png" group-title="FR TÉLÉVISION DE BASE+",FR C8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936797&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/C8.png" group-title="FR TÉLÉVISION DE BASE+",FR C8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936798&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/W9.png" group-title="FR TÉLÉVISION DE BASE+",FR W9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936800&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/W9.png" group-title="FR TÉLÉVISION DE BASE+",FR W9
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936801&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/ARTE.png" group-title="FR TÉLÉVISION DE BASE+",FR ARTE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936803&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/ARTE.png" group-title="FR TÉLÉVISION DE BASE+",FR ARTE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936804&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/NOVELAS TV.png" group-title="FR TÉLÉVISION DE BASE+",FR NOVELAS TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936806&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/NOVELAS TV.png" group-title="FR TÉLÉVISION DE BASE+",FR NOVELAS TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936807&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/C STAR.png" group-title="FR TÉLÉVISION DE BASE+",FR C STAR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936809&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/C STAR.png" group-title="FR TÉLÉVISION DE BASE+",FR C STAR
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936810&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/IDF 1.png" group-title="FR TÉLÉVISION DE BASE+",FR IDF 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936812&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/IDF 1.png" group-title="FR TÉLÉVISION DE BASE+",FR IDF 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936813&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/OLYMPIA.png" group-title="FR TÉLÉVISION DE BASE+",FR OLYMPIA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936815&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/OLYMPIA.png" group-title="FR TÉLÉVISION DE BASE+",FR OLYMPIA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936816&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/FRANCE 3 NOA.png" group-title="FR TÉLÉVISION DE BASE+",FR FRANCE 3 NOA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936818&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/FRANCE 3.png" group-title="FR TÉLÉVISION DE BASE+",FR FRANCE 3 NOA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936819&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/LA CHAINE METEO.png" group-title="FR TÉLÉVISION DE BASE+",FR LA CHAINE METEO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936821&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/LA CHAINE METEO.png" group-title="FR TÉLÉVISION DE BASE+",FR LA CHAINE METEO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936822&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/ONE TV.png" group-title="FR TÉLÉVISION DE BASE+",FR ONE TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936828&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/MGGTV.png" group-title="FR TÉLÉVISION DE BASE+",FR MGGTV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936832&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/TL7.png" group-title="FR TÉLÉVISION DE BASE+",FR TL7
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936837&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/WEO.png" group-title="FR TÉLÉVISION DE BASE+",FR WEO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936841&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/ZOUK TV.png" group-title="FR TÉLÉVISION DE BASE+",FR ZOUK TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936845&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/LUXE TV.png" group-title="FR TÉLÉVISION DE BASE+",FR LUXE TV FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936846&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/LUCKY JACK.png" group-title="FR TÉLÉVISION DE BASE+",FR LUCKY JACK TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936847&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/PITCHOUN.png" group-title="FR TÉLÉVISION DE BASE+",FR PITCHOUN
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936848&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/CGTN.png" group-title="FR TÉLÉVISION DE BASE+",FR CGTN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936855&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FR TÉLÉVISION DE BASE+/TAHITI NUI.png" group-title="FR TÉLÉVISION DE BASE+",FR TAHITI NUI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:1D:0D:A9&stream=936856&extension=ts
