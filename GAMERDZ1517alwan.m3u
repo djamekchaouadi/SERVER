@@ -1,0 +1,567 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="AR  THMANYAH SPORT",AR THMANYAH MANASA 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1597497&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="AR  THMANYAH SPORT",AR THMANYAH MANASA 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1597570&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="AR  THMANYAH SPORT",AR THMANYAH MANASA 3
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1597571&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="AR  THMANYAH SPORT",AR THMANYAH SPORT  1 HEVC
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1549874&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="AR  THMANYAH SPORT",AR THMANYAH SPORT 2 HEVC
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1549875&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="AR  THMANYAH SPORT",AR THMANYAH SPORT  1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1549876&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="AR  THMANYAH SPORT",AR THMANYAH SPORT  2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1549877&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 1 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641605&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641618&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 1 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641624&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 2 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641606&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641619&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 2 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641625&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 3 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641607&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 3 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641620&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 3 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641626&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 4 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641608&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 4 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641621&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 4 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641627&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 5 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641609&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 5 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641622&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 5 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641628&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 6 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641610&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 6 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641623&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 6 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641629&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 7 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641611&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 8 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641612&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 9 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641613&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan Sport 10 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641614&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan F1 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641616&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan UFC 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641615&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN SPORT",Alwan WWE 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641617&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN ENTERTAINMENT",Alwan Aflam 1 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641630&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN ENTERTAINMENT",Alwan Aflam 2 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641631&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN ENTERTAINMENT",Alwan Aflam 3 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641632&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN ENTERTAINMENT",Alwan Aflam 4 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641633&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN ENTERTAINMENT",Alwan Aghani 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641638&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN ENTERTAINMENT",Alwan Alwathaeqye 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641635&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN ENTERTAINMENT",Alwan Anime 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641642&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN ENTERTAINMENT",Alwan Atfal 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641636&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN ENTERTAINMENT",Alwan Bollywood 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641639&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN ENTERTAINMENT",Alwan Korea 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641640&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN ENTERTAINMENT",Alwan Mosalsalat+ 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641641&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN ENTERTAINMENT",Alwan Mosalsalat 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641637&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN ENTERTAINMENT",Alwan Quran 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641643&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title="AR   ALWAN ENTERTAINMENT",Alwan Turkey 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1641634&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="AR  BEIN SPORT HD",beIN Sports 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="AR  BEIN SPORT HD",beIN Sports 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=2&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="AR  BEIN SPORT HD",beIN Sports 3 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=4&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="AR  BEIN SPORT HD",beIN Sports 4 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=5&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="AR  BEIN SPORT HD",beIN Sports 5 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=6&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="AR  BEIN SPORT HD",beIN Sports 6 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=7&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="AR  BEIN SPORT HD",beIN Sports 7 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=8&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="AR  BEIN SPORT HD",beIN Sports 8 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=9&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="AR  BEIN SPORT HD",beIN Sports 9 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=10&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="AR  BEIN SPORT SD",beIN Sports 9 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=2532&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="AR  BEIN SPORT SD",beIN Sports 8 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=2533&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="AR  BEIN SPORT SD",beIN Sports 7 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=2534&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="AR  BEIN SPORT SD",beIN Sports 6 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=2535&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="AR  BEIN SPORT SD",beIN Sports 5 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=2536&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="AR  BEIN SPORT SD",beIN Sports 4 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=10795&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="AR  BEIN SPORT SD",beIN Sports 3 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=2538&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="AR  BEIN SPORT SD",beIN Sports 2 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=2540&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="AR  BEIN SPORT SD",beIN Sports 1 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=2541&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 1 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=3854&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 1 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=114053&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 2 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=114052&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 2 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=3853&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 3 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=114050&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 3 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=3851&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 4 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=114049&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 4 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=3850&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 5 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=114048&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 5 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=3849&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 6 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=114047&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 6 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=3848&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 7 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=114046&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 7 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=3847&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 8 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=114045&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 8 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=10361&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 9 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=114044&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="AR  BEIN SPORT 4K",beIN Sports 9 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=10362&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS2.png" group-title="AR  SPORTS ARABIC",|SPO| Abu Dhabi Sports 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=170302&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS1.png" group-title="AR  SPORTS ARABIC",|SPO| Abu Dhabi Sports 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=309522&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="AR  SPORTS ARABIC",|SPO| DUBAI SPORTS 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=170303&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="AR  SPORTS ARABIC",|SPO|  Dubai Sport 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=156471&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="AR  SPORTS ARABIC",|SPO|  Dubai Sport 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=156472&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="AR  SPORTS ARABIC",|SPO|  Dubai Sport 3
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=156473&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="AR  SPORTS ARABIC",|SPO|  Dubai Sports 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1382&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="AR  SPORTS ARABIC",|SPO| Dubai Sports 3
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1386&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR  SPORTS ARABIC",|SPO| KSA Sports 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=9562&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR  SPORTS ARABIC",|SPO| KSA SPORTS 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=9561&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR  SPORTS ARABIC",|SPO| SPORTS 1 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=45881&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR  SPORTS ARABIC",|SPO| SPORTS 2 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=45882&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR  SPORTS ARABIC",|SPO| SPORTS 3 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=45883&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="AR  SPORTS ARABIC",|SPO| SPORTS 4 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=45884&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EGYPT/TIMESPORTSHD.png" group-title="AR  SPORTS ARABIC",|SPO|  ON Time Sport HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=156483&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EGYPT/TIMESPORTSHD.png" group-title="AR  SPORTS ARABIC",|SPO|  ON Time Sports 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=156484&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM1.png" group-title="AR  STARZPLAY SPORT | EVENT PPV",AR StarzPlay / AD SPORTS 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=254310&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM1.png" group-title="AR  STARZPLAY SPORT | EVENT PPV",AR StarzPlay / AD SPORTS 1 +
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1173275&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR  STARZPLAY SPORT | EVENT PPV",AR StarzPlay / AD SPORTS 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=254309&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR  STARZPLAY SPORT | EVENT PPV",AR StarzPlay / AD SPORTS 2 +
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1173276&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/StarzPlay sport icon.png" group-title="AR  STARZPLAY SPORT | EVENT PPV",AR StarzPlay / AD SPORTS 3 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=252862&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/StarzPlay sport icon.png" group-title="AR  STARZPLAY SPORT | EVENT PPV",AR StarzPlay / AD SPORTS 3+
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=252720&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ADSPORTPREM2.png" group-title="AR  STARZPLAY SPORT | EVENT PPV",AR StarzPlay /AD PREMIER 3 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=314102&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS1.png" group-title="AR  STARZPLAY SPORT | EVENT PPV",AR AD Sports Asia Live Event1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=160258&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS2.png" group-title="AR  STARZPLAY SPORT | EVENT PPV",AR AD Sports Asia Live Event 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=160261&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS1.png" group-title="AR  AL KASS HD",AR AL KASS 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=22837&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS2.png" group-title="AR  AL KASS HD",AR AL KASS 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=22838&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS3.png" group-title="AR  AL KASS HD",AR AL KASS 3 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=22839&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS4.png" group-title="AR  AL KASS HD",AR AL KASS 4 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=22840&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS5.png" group-title="AR  AL KASS HD",AR AL KASS 5 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=22841&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS6.png" group-title="AR  AL KASS HD",AR AL KASS 6 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=22842&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS7.png" group-title="AR  AL KASS HD",AR AL KASS 7 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=28271&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS8.png" group-title="AR  AL KASS HD",AR AL KASS 8 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=38857&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/E!ENTERTAINMENTHD.png" group-title="FR  TNT HD",FR E HD France
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=317&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/E!ENTERTAINMENTHD.png" group-title="FR  TNT SD",FR E ENTERTAINMENT  SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=12859&extension=ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1723064441564999680/CrsfLBfK.jpg" group-title="FR  BOX OFFICE",FR BOXOFFICE ACTION
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1769292&extension=ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1723064441564999680/CrsfLBfK.jpg" group-title="FR  BOX OFFICE",FR BOXOFFICE DRAMA
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1769291&extension=ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1723064441564999680/CrsfLBfK.jpg" group-title="FR  BOX OFFICE",FR BOXOFFICE TEENS
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1769293&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Logo_Canal+_Grand_Écran_2022.png" group-title="FR  BOX OFFICE",FR CANAL+ GRAND ECRAN UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=250640&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Logo_Canal+_Grand_Écran_2022.png" group-title="FR  BOX OFFICE",FR CANAL+ GRAND HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=199801&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Logo_Canal+_Grand_Écran_2022.png" group-title="FR  BOX OFFICE",FR CANAL+ GRAND ECRAN UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=274712&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/c+first.png" group-title="FR  BOX OFFICE",FR CANAL+ FIRST HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=231449&extension=ts
+#EXTINF:-1 tvg-logo="https://cryptonaute.fr/wp-content/uploads/2020/09/Netflix.png" group-title="FR  BOX OFFICE",FR  NETFLIX PREMIUM
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=231345&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/COMEDIEHD.png" group-title="FR  BOX OFFICE",FR COMEDIE+ UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=250660&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/COMEDIEHD.png" group-title="FR  BOX OFFICE",FR Comedie+ HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=319&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/COMEDIEHD.png" group-title="FR  BOX OFFICE",FR COMEDIE+ UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=32792&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/COMEDIEHD.png" group-title="FR  BOX OFFICE",FR COMEDIE+   SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=12872&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/TCMCINEMA.png" group-title="FR  BOX OFFICE",FR TCM CINEMA HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=2644&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/TCMCINEMA.png" group-title="FR  BOX OFFICE",FR TCM CINEMA  SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=12780&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/ACTIONHD.png" group-title="FR  BOX OFFICE",FR ACTION HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=266&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/ACTIONHD.png" group-title="FR  BOX OFFICE",FR ACTION  SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=12911&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/8014/8014030.png" group-title="FR  BOX OFFICE",FR ORANGER CINEMA 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1430496&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/8014/8014030.png" group-title="FR  BOX OFFICE",FR ORANGER CINEMA 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1430495&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/8014/8014030.png" group-title="FR  BOX OFFICE",FR ORANGER CINEMA 3
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1430494&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/8014/8014030.png" group-title="FR  BOX OFFICE",FR ORANGER CINEMA 4
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1451758&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/8014/8014030.png" group-title="FR  BOX OFFICE",FR ORANGER CINEMA 5
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1451757&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ORANGECINEMA.png" group-title="FR  NETFLIX | CANALPLAY",FR ORANGE CINE (Tribes of Europa)
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=199860&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ORANGECINEMA.png" group-title="FR  NETFLIX | CANALPLAY",FR ORANGE CINE 1 (miss americana)
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=199861&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ORANGECINEMA.png" group-title="FR  NETFLIX | CANALPLAY",FR ORANGE CINE 2 (malcolm & marie)
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=199862&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ORANGECINEMA.png" group-title="FR  NETFLIX | CANALPLAY",FR ORANGE CINE 3 (Vacarme)
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=199863&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/ORANGECINEMA.png" group-title="FR  NETFLIX | CANALPLAY",FR ORANGE CINE 4 (The Burnt Orange Heresy)
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=199864&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/OCSGO.png" group-title="FR  BOX OFFICE",FR OCS Go Cinema 4 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=10340&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="FR  NETFLIX | CANALPLAY",FR CANAL PLAY 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=10337&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="FR  NETFLIX | CANALPLAY",FR CANAL PLAY 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=10338&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="FR  NETFLIX | CANALPLAY",FR CANAL PLAY 3
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=10339&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="FR  NETFLIX | CANALPLAY",FR CANAL PLAY 4
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=10341&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/CANALPLAY%201HD.png" group-title="FR  NETFLIX | CANALPLAY",FR CANAL PLAY 5
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=21497&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEINFOX.png" group-title="AR  BEIN ENTERTAINMENT",|beIN| FOX Movies UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=254336&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/OUTDOORCHANNEL.png" group-title="AR  BEIN ENTERTAINMENT",|beIN| BBC EARTH
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=14552&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/NEDERLAND/ANIMALPLANET.png" group-title="AR  BEIN ENTERTAINMENT",|beIN|  Bein ANIMAL PLANET HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=77012&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5119.png" group-title="AR  BEIN ENTERTAINMENT",|beIN| beIN Drama UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=14553&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5119.png" group-title="AR  BEIN ENTERTAINMENT",|beIN| beIN DRAMA HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=2711&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/ch1156.png" group-title="AR  BEIN ENTERTAINMENT",|beIN| BEIN GOURMET HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=2530&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5113.png" group-title="AR  BEIN ENTERTAINMENT",|beIN| beIN Movies 1 UHD Premiere
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=18&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5114.png" group-title="AR  BEIN ENTERTAINMENT",|beIN| Star Films UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=14555&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5114.png" group-title="AR  BEIN ENTERTAINMENT",|beIN| beIN Movies 2 UHD Action
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=21&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5115.png" group-title="AR  BEIN ENTERTAINMENT",|beIN| beIN Movies 3 UHD Drama
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=19&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5116.png" group-title="AR  BEIN ENTERTAINMENT",|beIN| beIN Movies 4 UHD Family
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=20&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5117.png" group-title="AR  BEIN ENTERTAINMENT",beIN Series 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1250&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5118.png" group-title="AR  BEIN ENTERTAINMENT",|beIN| beIN Series 2 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=14558&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/177405/screenshots/2731752/media/8c912d8175812e361a298bfe9b761d02.png" group-title="AR  BEIN ENTERTAINMENT",HD SBC HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1163391&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/177405/screenshots/2731752/media/8c912d8175812e361a298bfe9b761d02.png" group-title="AR  BEIN ENTERTAINMENT",HD STC TV Anime HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1163392&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/177405/screenshots/2731752/media/8c912d8175812e361a298bfe9b761d02.png" group-title="AR  BEIN ENTERTAINMENT",HD STC TV Cinema HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1163393&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/177405/screenshots/2731752/media/8c912d8175812e361a298bfe9b761d02.png" group-title="AR  BEIN ENTERTAINMENT",HD STC TV Drama HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1163394&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/177405/screenshots/2731752/media/8c912d8175812e361a298bfe9b761d02.png" group-title="AR  BEIN ENTERTAINMENT",HD STC TV EWC Legends HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1163395&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/177405/screenshots/2731752/media/8c912d8175812e361a298bfe9b761d02.png" group-title="AR  BEIN ENTERTAINMENT",HD STC TV Family HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1163396&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/177405/screenshots/2731752/media/8c912d8175812e361a298bfe9b761d02.png" group-title="AR  BEIN ENTERTAINMENT",HD STC TV HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1163397&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/177405/screenshots/2731752/media/8c912d8175812e361a298bfe9b761d02.png" group-title="AR  BEIN ENTERTAINMENT",HD Ten
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1163398&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/177405/screenshots/2731752/media/8c912d8175812e361a298bfe9b761d02.png" group-title="AR  BEIN ENTERTAINMENT",HD TLC HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1163399&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ART/ARTAFLAM.png" group-title="AR  OSN PREMIUM",OSN ART Aflam 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=68&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ART/ARTAFLAM.png" group-title="AR  OSN PREMIUM",OSN ART Aflam 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=69&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ART/ARTCINEMA.png" group-title="AR  OSN PREMIUM",OSN ART Cinema HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=70&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ART/ARTHEKAYAT.png" group-title="AR  OSN PREMIUM",OSN  ART Hekayat 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=66&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ART/ARTHEKAYAT.png" group-title="AR  OSN PREMIUM",OSN ART  Hekayat 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=67&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ART/arttarab.png" group-title="AR  OSN PREMIUM",OSN ART Tarab
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=309518&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ART/art.png" group-title="AR  OSN PREMIUM",OSN ART
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=309519&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ART/artmovie.png" group-title="AR  OSN PREMIUM",OSN ART Movies
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=309520&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/CIMATV.png" group-title="AR  OSN PREMIUM",OSN ART CIMA
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=309521&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/OSN/ALFAALSAFWAHD.png" group-title="AR  OSN PREMIUM",OSN AL SAFWA HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=15043&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/OSN/ALYAwm.png" group-title="AR  OSN PREMIUM",OSN ALYAWM HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=15044&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/OSN/ALFACINEMA.png" group-title="AR  OSN PREMIUM",OSN Cinema 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=726&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/OSN/ALFACINEMA.png" group-title="AR  OSN PREMIUM",OSN  Cinema 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=727&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EGYPT/AL NAHAR ONE.png" group-title="AR  OSN PREMIUM",OSN Nahar One HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=10160&extension=ts
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png" group-title="AR  OSN PREMIUM",OSN YAHALA HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=22&extension=ts
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/ONS.png" group-title="AR  OSN PREMIUM",OSN NEWS HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=106218&extension=ts
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/POP.png" group-title="AR  OSN PREMIUM",OSN Popup HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=624267&extension=ts
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OBG.png" group-title="AR  OSN PREMIUM",OSN Crime HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=598740&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/OSN/OSN-Kids.png" group-title="AR  OSN PREMIUM",OSN Kids HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=4759&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/AFRICA/SOUTH-AFRICA/Moonbug_Kids(1).png" group-title="AR  OSN PREMIUM",OSN MUNNBEBG
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=195317&extension=ts
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OTO.png" group-title="AR  OSN PREMIUM",OSN ONE
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=35&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EUROPE/UK/SHOWCASE-1.png" group-title="AR  OSN PREMIUM",OSN Showcase HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=15033&extension=ts
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OST.png" group-title="AR  OSN PREMIUM",OSN Showcase Classics
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=599153&extension=ts
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OLH.png" group-title="AR  OSN PREMIUM",OSN NOW
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=14571&extension=ts
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OFM.png" group-title="AR  OSN PREMIUM",OSN Movies FAMILY
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=599152&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/OSN/hollw.png" group-title="AR  OSN PREMIUM",OSN Movies hollywood HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=27732&extension=ts
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png" group-title="AR  OSN PREMIUM",OSN MOVIES ACTION HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=27737&extension=ts
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OM1.png" group-title="AR  OSN PREMIUM",OSN Movies Premiere HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=15035&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR  OSN PREMIUM",OSN Movies Horror
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1021546&extension=ts
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OMC.png" group-title="AR  OSN PREMIUM",OSN COMEDY HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=15038&extension=ts
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/FTF.png" group-title="AR  OSN PREMIUM",OSN FATAFEAT
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=599154&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/AMERICA/CARIBBIEAN/DISCOVERY-CHANNEL.png" group-title="AR  OSN PREMIUM",OSN Discovery HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=60922&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EXYU/DOCUBOXHD.png" group-title="AR  OSN PREMIUM",OSN Docu Box HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=2569&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/FIGHT-BOX.png" group-title="AR  OSN PREMIUM",OSN Fight Box HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=2570&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY BOX OFFICE 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791225&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAT’Y OSCAR 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791221&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY ACTION 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791222&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY ANIME 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791223&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY BOX CLASSIC 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791224&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY COMEDY 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791230&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY Crime 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791231&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY Drama 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791232&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY  Horror 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791272&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY   Mixed 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791282&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY Movies 2025
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791283&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY  Super Power 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791289&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY India Movies 2025 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791273&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY India Movies 2025 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791274&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY India Movies 2025 3
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791275&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY India Movies 2025 4
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791276&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY India Movies 2025 5
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791277&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY English Movies 2025 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791233&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY English Movies 2025 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791234&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY English Movies 2025 3
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791235&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY English Movies 2025 4
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791236&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY English Movies 2025 5
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1791237&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",NetFlix Drama
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698048&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",NetFlix Asia
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698047&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",NetFlix Kids
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698046&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",NetFlix HollyooWD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698045&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",NetFlix Spanish
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698044&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",NetFlix Thraller
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698043&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",NetFLix Crime
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698042&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",NetFlix Classic
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698041&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",NETFLIX Science
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698040&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",NETFLIX French
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698039&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",SKy THRILLER
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698038&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",Sky Sci Fi
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698037&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",Sky Cinema PREMIUM
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698036&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",Sky Cinema BOLLYWOOD
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698033&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",Sky Cinema Action
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698032&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",Zina ARABIC
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698025&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",Zina TURKEY
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698024&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",Zina Avengrs
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698023&extension=ts
+#EXTINF:-1 tvg-logo="https://commerce.sbb.ch/media/catalog/product/cache/8589b2490af5cd6ad2ee857e826b74c0/n/e/netflix-cr80-0921-1500x950-nodenom.png" group-title="AR  GAMERDZ1517 PACKAGE",Zina action
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1698022&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY Box Office Best Ever  1
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1305811&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY Box Office Best Ever 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1305812&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY Box Office Best Ever 3
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1307832&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY Box Office Best Ever 4
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1307833&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAT’Y OSCAR 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1298362&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY Movies 2025
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1298361&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY  Horror 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1294897&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY   Mixed 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1294898&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY  Super Power 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1294899&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY BOX CLASSIC 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1293465&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY COMEDY 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1293466&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY Crime 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1293721&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY Drama 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1293722&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY ACTION 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1292652&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY ANIME 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1292653&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/71/20170616192338%21Google_Play_Movies_%26_TV_logo.png" group-title="AR  NETFLIX",PLAY BOX OFFICE 2024
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1292654&extension=ts
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220825/ourmid/pngtree-movie-film-roll-black-and-white-png-image_6123879.png" group-title="AR  NETFLIX",AFLAM
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1290895&extension=ts
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220825/ourmid/pngtree-movie-film-roll-black-and-white-png-image_6123879.png" group-title="AR  NETFLIX",Movies
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1290892&extension=ts
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220825/ourmid/pngtree-movie-film-roll-black-and-white-png-image_6123879.png" group-title="AR  NETFLIX",Movies Action
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1290893&extension=ts
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20220825/ourmid/pngtree-movie-film-roll-black-and-white-png-image_6123879.png" group-title="AR  NETFLIX",Movies Thriller
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1290894&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",ONC Animation
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143133&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",ONC ASia
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143132&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",Onc Bollywood
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143135&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",ONC Cartoon
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143134&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",ONC Cinema
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143138&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",ONC Classic
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143137&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",ONC comedy
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143142&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",ONC drama
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143141&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",ONC history
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143143&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",ONC horror
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143136&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",ONC MOvies
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143140&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",ONC plus
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143130&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",ONC premiere
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143131&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",ONC REwayat
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143129&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",ONC Series
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143139&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",ONC Turkey Dubb
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143128&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="AR  ONC VIP",ONC Turkey mix
+http://plan9.store:80/play/live.php?mac=00:1A:79:C9:8D:AE&stream=1143127&extension=ts
