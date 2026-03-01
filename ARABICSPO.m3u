@@ -1,0 +1,677 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS1.png" group-title="AL KASS HD by GAMERDZ1517",AL KASS 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=22837&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS2.png" group-title="AL KASS HD by GAMERDZ1517",AL KASS 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=22838&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS3.png" group-title="AL KASS HD by GAMERDZ1517",AL KASS 3 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=22839&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS4.png" group-title="AL KASS HD by GAMERDZ1517",AL KASS 4 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=22840&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS5.png" group-title="AL KASS HD by GAMERDZ1517",AL KASS 5 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=22841&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS6.png" group-title="AL KASS HD by GAMERDZ1517",AL KASS 6 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=22842&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS7.png" group-title="AL KASS HD by GAMERDZ1517",AL KASS 7 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=28271&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS8.png" group-title="AL KASS HD by GAMERDZ1517",AL KASS 8 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=38857&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 1 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641605&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641618&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 1 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641624&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 2 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641606&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641619&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 2 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641625&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 3 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641607&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 3 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641620&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 3 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641626&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 4 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641608&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 4 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641621&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 4 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641627&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 5 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641609&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 5 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641622&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 5 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641628&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 6 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641610&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 6 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641623&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 6 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641629&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 7 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641611&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 8 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641612&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 9 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641613&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan Sport 10 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641614&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan F1 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641616&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan UFC 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641615&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhH7QXR24YA4PeJNfQRsxALFC3Sbaw_fhpg&s" group-title=" ALWAN SPORT by GAMERDZ1517",Alwan WWE 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1641617&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports Global UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=43&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN SPORTS NEWS UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=22198&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports News UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=44&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/3529.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN SPORTS GLOBAL 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=22199&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 1 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=114053&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 1 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=3854&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 1 Nexus 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269943&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 2 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=114052&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 2 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=3853&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 2 Nexus 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269944&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 3 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=114050&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 3 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=3851&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 3 Nexus 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269945&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 4 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=114049&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 4 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=3850&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 4 Nexus 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269946&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 5 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=114048&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 5 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=3849&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 5 Nexus 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269947&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 6 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=114047&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 6 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=3848&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 6 Nexus 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269948&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 7 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=114046&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 7 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=3847&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 7 Nexus 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269949&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 8 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=114045&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 8 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=10361&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 8 Nexus 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269950&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 9 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=114044&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 9 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=10362&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 9 Nexus 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269951&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports XTRA 1 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=117123&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports XTRA 2 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=117128&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 3 XTRA UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=114051&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports XTRA 3 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=3852&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xyXKPZ1/IMG-3534.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports XTRA 4 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572904&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNg8vV0c/IMG-3533.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports XTRA 5 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572908&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk4btG2c/IMG-3532.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports XTRA 6 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572912&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fS0XS7T/IMG-3531.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports XTRA 7 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572916&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4Mv7Xpy/IMG-3530.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports XTRA 8 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572920&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dBc1w7x/IMG-3529.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports XTRA 9 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572924&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 1 EN UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=11&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1UHDENG.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 1 EN HEVC
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=22195&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2UHDENG.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 2 EN HEVC
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=22196&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 1 FR UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=149600&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports 2 FR UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=149601&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEINSPORTNBA.png" group-title="BEIN SPORT 4K by GAMERDZ1517",beIN Sports NBA UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=149602&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports1.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 1 |-2H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492949&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports1.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 1 |-4H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492950&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports1.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 1 |-8H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492951&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports1.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 1 |-12H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492952&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports2.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 2 |-2H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492953&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports2.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 2 |-4H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492954&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports2.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 2 |-8H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492955&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports2.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 2 |-12H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492956&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports3.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 3 |-2H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492957&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports3.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 3 |-4H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492958&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports3.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 3 |-8H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492959&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports3.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 3 |-12H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492960&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports4.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 4 |-2H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492961&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports4.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 4 |-4H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492962&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports4.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 4 |-8H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492963&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports4.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 4 |-12H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492964&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports5.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 5 |-2H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492965&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports5.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 5 |-4H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492966&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports5.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 5 |-8H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492967&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports5.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 5 |-12H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492968&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports6.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 6 |-2H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492969&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports6.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 6 |-4H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492970&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports6.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 6 |-8H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492971&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BeinSports/bein-sports6.png" group-title="BEIN SPORT DELAY by GAMERDZ1517",Bein Sports 6 |-12H|
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=492972&extension=ts
+#EXTINF:-1 tvg-logo="https://www.herault-tribune.com/wp-content/uploads/2021/03/2020-06-13_083257_new_Info1-500x318-1.jpg" group-title="BEIN SPORT HD by GAMERDZ1517",معلومات عن الخدمة
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1515459&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports News HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=28939&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports Global HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=28938&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports Global HD (B)
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1813397&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BIN4K.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN. ULTRA UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=312095&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN REPLAY FINAL UCL
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=235750&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN REPLAY FINAL FA CUP
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=235755&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=534831&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 1 HD BEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=108161&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 1 APPEL
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1121789&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",BEIN SPORTS 1 TOD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=272468&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=2&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=534830&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 2 HD BEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=108162&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 2 APPEL
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1121790&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",BEIN SPORTS 2 TOD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=272467&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 3 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=4&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 3 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=534829&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 3 HD BEEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=108164&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 3 APPEL
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1121791&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",BEIN SPORTS 3 TOD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=272465&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 4 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=5&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 4 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=534828&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 4 HD BEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=108165&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 4 APPEL
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1121792&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",BEIN SPORTS 4 TOD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=272464&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 5 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=6&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 5 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=534827&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 5 HD BEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=108166&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 5 APPEL
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1121793&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",BEIN SPORTS 5 TOD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=272463&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 6 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=7&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 6 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=534826&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 6 HD BEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=108167&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 6 APPEL
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1121794&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",BEIN SPORTS 6 TOD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=272462&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 7 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=8&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 7 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=578834&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 7 HD BEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=108168&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 7 APPEL
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1121795&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",BEIN SPORTS 7 TOD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=272461&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 8 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=9&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 8 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=578835&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 8 HD BEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=108169&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 8 APPEL
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1121796&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",BEIN SPORTS 8 TOD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=272460&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 9 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=10&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 9 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=578836&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 9 HD BEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=108170&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 9 APPEL
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1121797&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",BEIN SPORTS 9 TOD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=272459&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports XTRA 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=117124&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports XTRA 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=117125&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports XTRA 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=117129&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports XTRA 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=117130&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports XTRA 3 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=3&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports XSTRA 3 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=108163&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xyXKPZ1/IMG-3534.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports XTRA 4 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572902&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNg8vV0c/IMG-3533.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports XTRA 5 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572906&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk4btG2c/IMG-3532.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports XTRA 6 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572910&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fS0XS7T/IMG-3531.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports XTRA 7 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572914&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4Mv7Xpy/IMG-3530.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports XTRA 8 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572918&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dBc1w7x/IMG-3529.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports XTRA 9 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572922&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1HDENG.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 1 EN HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=2531&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sport English HD 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269964&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2HDENG.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 2 EN HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=10369&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sport English HD 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269967&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 1 UHD FR
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 1 HD FR
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=11016&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 2 UHD FR
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=15&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports 2 HD FR
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=11017&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEINNBA-HD.png" group-title="BEIN SPORT HD by GAMERDZ1517",beIN Sports Nba HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=3845&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN SPORTS NEWS SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=274145&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/3529.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN SPORTS GLOBAL SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=274143&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/400.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports Global SD (B)
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1813398&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 1 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=2541&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN SPORTS 1 SD BEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=245836&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 1 Nexus SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269952&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 2 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=2540&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN SPORTS 2 SD BEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=245835&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 2 Nexus SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269953&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 3 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=2538&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN1.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN SPORTS 3 SD BEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=245833&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 3 Nexus SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269954&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 4 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=10795&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN SPORTS 4 SD BEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=245832&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 4 Nexus SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269962&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 5 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=2536&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN SPORTS 5 SD BEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=245831&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 5 Nexus SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269956&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 6 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=2535&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN SPORTS 6 SD BEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=245830&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 6 Nexus SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269957&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 7 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=2534&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN SPORTS 7 SD BEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=245829&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 7 Nexus SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269958&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 8 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=2533&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN SPORTS 8 SD BEE TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=245828&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 8 Nexus SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269961&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 9 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=2532&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports 9 Nexus SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269960&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN SP⚽RTS 9 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=245827&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports XTRA 1 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=117126&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2HD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports XTRA 2 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=117131&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports XSTRA 3 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=2539&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN SPORTS XSTRA 3 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=245834&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xyXKPZ1/IMG-3534.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports XTRA 4 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572903&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNg8vV0c/IMG-3533.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports XTRA 5 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572907&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mk4btG2c/IMG-3532.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports XTRA 6 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572911&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fS0XS7T/IMG-3531.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports XTRA 7 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572915&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4Mv7Xpy/IMG-3530.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports XTRA 8 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572919&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dBc1w7x/IMG-3529.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports XTRA 9 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1572923&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1ENG.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN SPORTS 1 EN SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=49727&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1ENG.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN SPORTS 1 EN SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=245826&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sport English SD 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269965&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2ENG.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN SPORTS 2 EN SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=49728&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2ENG.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN SPORTS 2 EN SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=245825&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sport English SD 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1269968&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEINNBA.png" group-title="BEIN SPORT SD by GAMERDZ1517",beIN Sports NBA SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=57044&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=146122&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=106199&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1063488&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX1-SD.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 1 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=146118&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX1-SD.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 1 SD 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=196473&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX1-4K.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 14K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=146126&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=146123&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=106200&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1063489&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-SD.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 2 SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=146119&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-SD.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 2 SD 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=196472&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-4K.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 24K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=146127&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-HD.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 3 EN HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=146124&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-HD.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 3 EN HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=106201&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-4K.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 3 EN 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=146128&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-SD.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 3 EN SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=146120&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-HD.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 4 FR HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=146125&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-HD.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 4 FR HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=146062&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-4K.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 4 FR 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=146129&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-SD.png" group-title="beIN SPORTS MAX by GAMERDZ1517",beIN Sports MAX 4 FR SD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=146121&extension=ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-photo/mix-all-sports-elements-vibrant-600nw-2527418843.jpg" group-title="SPORT TV PPV by GAMERDZ1517",SPORT TV 1 FHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1853832&extension=ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-photo/mix-all-sports-elements-vibrant-600nw-2527418843.jpg" group-title="SPORT TV PPV by GAMERDZ1517",SPORT TV 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1853833&extension=ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-photo/mix-all-sports-elements-vibrant-600nw-2527418843.jpg" group-title="SPORT TV PPV by GAMERDZ1517",SPORT TV 2 FHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1854133&extension=ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-photo/mix-all-sports-elements-vibrant-600nw-2527418843.jpg" group-title="SPORT TV PPV by GAMERDZ1517",SPORT TV 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1854136&extension=ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-photo/mix-all-sports-elements-vibrant-600nw-2527418843.jpg" group-title="SPORT TV PPV by GAMERDZ1517",SPORT TV 3 FHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1854134&extension=ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-photo/mix-all-sports-elements-vibrant-600nw-2527418843.jpg" group-title="SPORT TV PPV by GAMERDZ1517",SPORT TV 3 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1854137&extension=ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-photo/mix-all-sports-elements-vibrant-600nw-2527418843.jpg" group-title="SPORT TV PPV by GAMERDZ1517",SPORT TV 4 FHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1854135&extension=ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-photo/mix-all-sports-elements-vibrant-600nw-2527418843.jpg" group-title="SPORT TV PPV by GAMERDZ1517",SPORT TV 4 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1854138&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9.svg/280px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9.svg.png" group-title="SPORTS ARABIC by GAMERDZ1517",SP Al Rabiaa Sports 1+
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1299808&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9.svg/280px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9.svg.png" group-title="SPORTS ARABIC by GAMERDZ1517",SP Al Rabiaa Sports 2+
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1299809&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9.svg/280px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9.svg.png" group-title="SPORTS ARABIC by GAMERDZ1517",SP Al Rabiaa Sports 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1142953&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9.svg/280px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9.svg.png" group-title="SPORTS ARABIC by GAMERDZ1517",SP Al Rabiaa Sports 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1142954&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9.svg/280px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9.svg.png" group-title="SPORTS ARABIC by GAMERDZ1517",SP Al Rabiaa Sports 3
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1142955&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9.svg/280px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9.svg.png" group-title="SPORTS ARABIC by GAMERDZ1517",SP Al Rabiaa Sports 4
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1142956&extension=ts
+#EXTINF:-1 tvg-logo="http://trastras.eu:80/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_W_ZqgNWyBrnF9jpJkQ74TPQ.png" group-title="SPORTS ARABIC by GAMERDZ1517",GOBX STC SPORT 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1084045&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="SPORTS ARABIC by GAMERDZ1517",GOBX STC SPORT 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1101883&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS1.png" group-title="SPORTS ARABIC by GAMERDZ1517",Abu Dhabi Sports 1 FHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=48&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS1.png" group-title="SPORTS ARABIC by GAMERDZ1517",Abu Dhabi Sports 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=309522&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS2.png" group-title="SPORTS ARABIC by GAMERDZ1517",Abu Dhabi Sports 2 FHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=29128&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ABUDABISPORT/ABUDHABISPORTS2.png" group-title="SPORTS ARABIC by GAMERDZ1517",Abu Dhabi Sports 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=170302&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5011.png" group-title="SPORTS ARABIC by GAMERDZ1517",AD SPORT 3 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=50159&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="SPORTS ARABIC by GAMERDZ1517",DUBAI SPORTS 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=170303&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="SPORTS ARABIC by GAMERDZ1517",Dubai Sport 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156471&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="SPORTS ARABIC by GAMERDZ1517",Dubai Sport 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156472&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="SPORTS ARABIC by GAMERDZ1517",Dubai Sport 3
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156473&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ASIA/UAE/SHARJAHSPORTHD.png" group-title="SPORTS ARABIC by GAMERDZ1517",Sharjah sports
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=28268&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/YASSPORT.png" group-title="SPORTS ARABIC by GAMERDZ1517",YAS SPORT UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=50165&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/YASSPORTHD.png" group-title="SPORTS ARABIC by GAMERDZ1517",YAS Sports
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=27693&extension=ts
+#EXTINF:-1 tvg-logo="ghttp://cmc.best-ott.me:80/djk/iojriewjriojwuihrtuih4jmrijiwjerijhjtuihKIKIRIJwhwgterLOo/3088" group-title="SPORTS ARABIC by GAMERDZ1517",Dubai Racin 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1381&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAI RACING2.png" group-title="SPORTS ARABIC by GAMERDZ1517",Dubai Racing 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=49593&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="SPORTS ARABIC by GAMERDZ1517",Dubai Sports 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1382&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAISPORT1HD.png" group-title="SPORTS ARABIC by GAMERDZ1517",Dubai Sports 3
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1386&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EGYPT/TIMESPORTSHD.png" group-title="SPORTS ARABIC by GAMERDZ1517",ONTIME SPORTS
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=113375&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EGYPT/TIMESPORTSHD.png" group-title="SPORTS ARABIC by GAMERDZ1517",ONTIME SPORTS2
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=113376&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BAHRAIN/Bahrain-Sport-1_live.png" group-title="SPORTS ARABIC by GAMERDZ1517",Bahrain Sport 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=49559&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/JORDAN/JORDANSPORT.png" group-title="SPORTS ARABIC by GAMERDZ1517",Jordan Sport
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1354&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="SPORTS ARABIC by GAMERDZ1517",KSA Sports +1
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=49499&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="SPORTS ARABIC by GAMERDZ1517",KSA Sports +2
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=9563&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="SPORTS ARABIC by GAMERDZ1517",KSA Sports 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=9562&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="SPORTS ARABIC by GAMERDZ1517",KSA SPORTS 1 HD PLUS
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=12210&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="SPORTS ARABIC by GAMERDZ1517",KSA SPORTS 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=9561&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="SPORTS ARABIC by GAMERDZ1517",KSA SPORTS 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=14534&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="SPORTS ARABIC by GAMERDZ1517",SAUDI 24 SPORT HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=92447&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="SPORTS ARABIC by GAMERDZ1517",SPORTS 1 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=45881&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="SPORTS ARABIC by GAMERDZ1517",SPORTS 2 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=45882&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="SPORTS ARABIC by GAMERDZ1517",SPORTS 3 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=45883&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="SPORTS ARABIC by GAMERDZ1517",SPORTS 4 UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=45884&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/AFRICA/EGYPT/ZamalekSports.png" group-title="SPORTS ARABIC by GAMERDZ1517",Zamalek Sports
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=39228&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/ALKASS/ALKASS.png" group-title="SPORTS ARABIC by GAMERDZ1517",Alkass Radio 01
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=201460&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/IRAQ/al rabi3aa.png" group-title="SPORTS ARABIC by GAMERDZ1517",ALRabiaa Sport
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=201255&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/IRAQ/al rabi3aa.png" group-title="SPORTS ARABIC by GAMERDZ1517",alrabiaa sport
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=249482&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/IRAQ/ALSHABABTV.png" group-title="SPORTS ARABIC by GAMERDZ1517",Al Shabab Sport
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=192416&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/IRAQ/ALSHABABTV.png" group-title="SPORTS ARABIC by GAMERDZ1517",Al Shabab Sport HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156465&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BAHRAIN/Bahrain-Sport-1_live.png" group-title="SPORTS ARABIC by GAMERDZ1517",Bahrain Sport 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156466&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BAHRAIN/Bahrain-Sport-2_live.png" group-title="SPORTS ARABIC by GAMERDZ1517",Bahrain Sport 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156467&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAIRACING 1HD.png" group-title="SPORTS ARABIC by GAMERDZ1517",Dubai Racing 1 TV HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156468&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAI RACING2.png" group-title="SPORTS ARABIC by GAMERDZ1517",Dubai Racing 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156469&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/DUBAIRACING3.png" group-title="SPORTS ARABIC by GAMERDZ1517",Dubai Racing 3
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156470&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/191.png" group-title="SPORTS ARABIC by GAMERDZ1517",Elheddaf
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156474&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EUROPE/GERMANY/FIGHT_SPORTS.png" group-title="SPORTS ARABIC by GAMERDZ1517",FIGHT SPORT HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156494&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/ALIRAQIASPORT.png" group-title="SPORTS ARABIC by GAMERDZ1517",Iraqia Sport HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156475&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/JORDAN/JORDANSPORT.png" group-title="SPORTS ARABIC by GAMERDZ1517",Jordan Sport
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156476&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/KUWAIT/KTVSPORT.png" group-title="SPORTS ARABIC by GAMERDZ1517",Kuwait Sport HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156477&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/KUWAIT/KTVSPORT.png" group-title="SPORTS ARABIC by GAMERDZ1517",Kuwait Sports+ HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156478&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/LIBYA/02588_149092_493733864014631_771267810_n.jpg" group-title="SPORTS ARABIC by GAMERDZ1517",Libya Sport 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156479&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/LIBYA/21.jpg" group-title="SPORTS ARABIC by GAMERDZ1517",Libya Sport 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156461&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EGYPT/NILE SPORT.png" group-title="SPORTS ARABIC by GAMERDZ1517",Nileen Sport
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156481&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EGYPT/NILE SPORT.png" group-title="SPORTS ARABIC by GAMERDZ1517",Nile Sport
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156480&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/OMAN/47bc434d89.webp" group-title="SPORTS ARABIC by GAMERDZ1517",Oman Sport TV
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156482&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EGYPT/TIMESPORTSHD.png" group-title="SPORTS ARABIC by GAMERDZ1517",ON Time Sport HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156483&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EGYPT/TIMESPORTSHD.png" group-title="SPORTS ARABIC by GAMERDZ1517",ON Time Sports 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156484&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PALESTINE/PALESTINESPORT.png" group-title="SPORTS ARABIC by GAMERDZ1517",Palestine Sport
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156486&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="SPORTS ARABIC by GAMERDZ1517",SAUDI 24 SPORT HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156460&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="SPORTS ARABIC by GAMERDZ1517",Saudia Sport 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156487&extension=ts
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/140-1401602_thank-you-ksa-sports-logo-png.png" group-title="SPORTS ARABIC by GAMERDZ1517",Saudia Sport 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156488&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ASIA/UAE/SHARJAHSPORTHD.png" group-title="SPORTS ARABIC by GAMERDZ1517",Sharjah Sport HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156489&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/ARABE/YASSPORTHD.png" group-title="SPORTS ARABIC by GAMERDZ1517",Yas Sport HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156491&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/AFRICA/EGYPT/ZamalekSports.png" group-title="SPORTS ARABIC by GAMERDZ1517",Zamalek Sports
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=156492&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="THMANYAH SPORT by GAMERDZ1517",Thmanyah Super Cup Spain 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1844761&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="THMANYAH SPORT by GAMERDZ1517",THMANYAH SPORT  1  UHD 4K
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1630479&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="THMANYAH SPORT by GAMERDZ1517",Thmanyah Super Cup Spain UHD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1845359&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="THMANYAH SPORT by GAMERDZ1517",THMANYAH SPORT  1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1549876&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="THMANYAH SPORT by GAMERDZ1517",THMANYAH 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1848330&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="THMANYAH SPORT by GAMERDZ1517",Thmanayh 1 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1629450&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="THMANYAH SPORT by GAMERDZ1517",THMANYAH SPORT  1 HEVC
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1549874&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="THMANYAH SPORT by GAMERDZ1517",THMANYAH SPORT  2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1549877&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="THMANYAH SPORT by GAMERDZ1517",THMANYAH 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1848331&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="THMANYAH SPORT by GAMERDZ1517",Thmanayh 2 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1629451&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="THMANYAH SPORT by GAMERDZ1517",THMANYAH SPORT 2 HEVC
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1549875&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="THMANYAH SPORT by GAMERDZ1517",THMANYAH 3 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1848332&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="THMANYAH SPORT by GAMERDZ1517",Thmanayh 3 HD
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1629452&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="THMANYAH SPORT by GAMERDZ1517",THMANYAH MANASA 1
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1597497&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="THMANYAH SPORT by GAMERDZ1517",THMANYAH MANASA 2
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1597570&extension=ts
+#EXTINF:-1 tvg-logo="https://destinationksa.com/wp-content/uploads/2025/06/Layan-Life-1.png" group-title="THMANYAH SPORT by GAMERDZ1517",THMANYAH MANASA 3
+http://plan9.store:80/play/live.php?mac=00:1A:79:A6:20:FD&stream=1597571&extension=ts
