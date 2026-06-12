@@ -1,271 +1,264 @@
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:36:96:f1
-EXPIRE June 16, 2026, 12:00 am 18 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:33:66:34
+EXPIRE November 3, 2026, 12:00 am 167 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:d6:66:d3
-EXPIRE February 11, 2027, 10:21 pm 258 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:76:72:E0
+EXPIRE March 9, 2027, 12:00 am 293 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:f3:55:5f
-EXPIRE December 5, 2026, 11:18 am 190 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:81:A0:B1
+EXPIRE May 21, 2026, 12:00 am 1 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:ca:4f:4c
-EXPIRE August 29, 2026, 6:14 pm 92 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:C4:15:C4
+EXPIRE July 5, 2026, 12:05 pm 46 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:be:3c:6c
-EXPIRE July 4, 2026, 12:00 am 36 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:7C:A1:8C
+EXPIRE February 1, 2027, 12:00 am 257 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:b4:f3:85
-EXPIRE November 25, 2026, 12:48 pm 180 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:39:3F:0F
+EXPIRE January 31, 2027, 12:00 am 256 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:f5:68:84
-EXPIRE June 14, 2026, 12:00 am 16 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:7d:5f:50
+EXPIRE August 21, 2026, 12:00 am 93 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:66:38:31
-EXPIRE April 1, 2027, 9:46 pm 307 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:79:a2:a2
+EXPIRE August 31, 2026, 12:00 am 103 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:b6:47:4d
-EXPIRE October 11, 2026, 1:48 pm 135 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:c6:9e:b5
+EXPIRE November 1, 2026, 12:00 am 165 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:74:d1:17
-EXPIRE December 4, 2026, 12:00 am 189 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:38:49:53
+EXPIRE November 2, 2026, 12:00 am 166 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:57:81:20
-EXPIRE July 19, 2026, 8:57 pm 51 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:46:07:77
+EXPIRE April 18, 2027, 12:00 am 333 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:ad:5c:23
-EXPIRE December 13, 2026, 12:00 am 198 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:65:b1:ed
+EXPIRE February 8, 2027, 11:28 pm 264 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:c2:3b:af
-EXPIRE July 9, 2026, 12:00 am 41 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:84:85:44
+EXPIRE May 26, 2026, 12:00 am 6 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:c2:9a:d2
-EXPIRE August 5, 2026, 12:58 pm 68 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:74:a6:9f
+EXPIRE December 1, 2026, 3:02 am 195 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:8e:8d:4c
-EXPIRE July 21, 2026, 12:00 am 53 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:82:7e:57
+EXPIRE September 11, 2026, 12:00 am 114 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:a1:f9:67
-EXPIRE October 29, 2026, 12:00 am 153 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:e5:ff:e2
+EXPIRE November 9, 2026, 5:28 pm 173 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:84:c1:e6
-EXPIRE July 1, 2026, 12:00 am 33 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:7e:40:ce
+EXPIRE January 9, 2027, 12:00 am 234 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:5d:17:64
-EXPIRE June 16, 2026, 12:00 am 18 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:22:65:f4
+EXPIRE January 2, 2027, 12:00 am 227 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:65:ee:6a
-EXPIRE July 18, 2026, 12:00 am 50 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:6b:0d:d5
+EXPIRE October 30, 2026, 12:00 am 163 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:95:01:88
-EXPIRE February 27, 2027, 12:20 pm 274 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:7d:c6:52
+EXPIRE April 5, 2027, 12:00 am 320 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:a5:6d:d0
-EXPIRE August 7, 2026, 7:42 pm 70 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:08:fd:b0
+EXPIRE May 24, 2026, 12:00 am 4 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:28:0f:f1
-EXPIRE November 23, 2026, 2:33 pm 178 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:0c:e6:2c
+EXPIRE October 14, 2026, 4:48 am 147 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:7b:9a:3a
-EXPIRE May 28, 2027, 12:00 am 364 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:e7:1a:86
+EXPIRE January 16, 2027, 12:00 am 241 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:c0:1e:a6
-EXPIRE July 2, 2026, 12:00 am 34 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:82:d2:87
+EXPIRE November 3, 2026, 12:00 am 167 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:c3:8c:66
-EXPIRE June 19, 2026, 2:13 am 21 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:f1:e7:c3
+EXPIRE April 6, 2027, 12:00 am 321 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:7f:26:34
-EXPIRE April 2, 2027, 12:00 am 308 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:76:b9:d6
+EXPIRE September 23, 2026, 12:00 am 126 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:36:66:14
-EXPIRE June 27, 2026, 12:00 am 29 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:75:67:90
+EXPIRE June 9, 2026, 12:00 am 20 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:fe:92:24
-EXPIRE September 19, 2027, 3:01 am 478 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:72:bb:83
+EXPIRE June 14, 2026, 2:53 am 25 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:57:d9:48
-EXPIRE June 28, 2026, 12:00 am 30 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:71:01:ff
+EXPIRE June 24, 2026, 12:00 am 35 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:36:a6:64
-EXPIRE May 16, 2027, 12:00 am 352 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:7e:2b:79
+EXPIRE March 14, 2027, 5:39 pm 298 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:af:a1:ae
-EXPIRE September 13, 2026, 9:01 pm 107 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:71:fb:11
+EXPIRE June 11, 2026, 12:00 am 22 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:73:a6:5d
-EXPIRE February 28, 2027, 12:00 am 275 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:73:c9:27
+EXPIRE September 25, 2026, 12:00 am 128 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:32:61:66
-EXPIRE August 31, 2026, 6:09 pm 94 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:b0:9b:7a
+EXPIRE September 4, 2026, 12:00 am 107 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:29:0c:21
-EXPIRE May 29, 2027, 12:00 am 365 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:e8:d8:1d
+EXPIRE September 4, 2026, 10:37 pm 107 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:46:bd:dc
-EXPIRE January 31, 2027, 12:00 am 247 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:c0:da:02
+EXPIRE June 10, 2026, 12:00 am 21 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:80:9f:1b
-EXPIRE November 8, 2026, 12:44 pm 163 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:76:78:6e
+EXPIRE August 25, 2026, 12:00 am 97 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:08:cb:8f
-EXPIRE August 14, 2026, 6:22 pm 77 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:81:f0:d5
+EXPIRE June 15, 2026, 10:10 pm 26 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:2c:f5:a4
-EXPIRE September 1, 2026, 12:00 am 95 Day
-STATU  STREAM「 ONLINE 」✅😎
-BY GAMERDZ1517 TEAM
-
-
-PANEL  http://ott.kootv.us/c/
-MAC    00:1A:79:76:07:ac
-EXPIRE December 22, 2026, 9:48 pm 207 Day
+PANEL  http://204.52.191.254/c/
+MAC    00:1A:79:80:e5:43
+EXPIRE October 18, 2026, 12:00 am 151 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
