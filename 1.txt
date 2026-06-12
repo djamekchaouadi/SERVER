@@ -1,224 +1,300 @@
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:AF:11:5C
-EXPIRE June 7, 2026, 2:00 am 18 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:fb:73:7d
+EXPIRE April 28, 2027, 12:00 am 346 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:31:31:31
-EXPIRE October 19, 2026, 12:00 am 152 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:24:29:60
+EXPIRE May 24, 2026, 3:49 am 7 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:E8:F0:39
-EXPIRE May 20, 2026, 2:00 am 0 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:d2:26:df
+EXPIRE March 6, 2027, 6:47 pm 293 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:C1:5E:0A
-EXPIRE June 17, 2026, 2:00 am 28 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:43:91:50
+EXPIRE January 3, 2027, 12:00 am 231 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:F5:1C:15
-EXPIRE March 18, 2027, 3:16 pm 302 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:6f:95:7b
+EXPIRE February 2, 2027, 3:36 am 261 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:0D:A1:2D
-EXPIRE June 4, 2026, 12:00 am 15 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:a4:8b:64
+EXPIRE May 8, 2027, 12:57 am 356 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:0D:0F:7B
-EXPIRE October 16, 2026, 9:17 pm 149 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:81:f6:be
+EXPIRE September 24, 2026, 12:00 am 130 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:C1:95:67
-EXPIRE June 9, 2026, 2:00 am 20 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:0b:d8:b2
+EXPIRE October 23, 2026, 12:00 am 159 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:C1:92:16
-EXPIRE May 24, 2026, 2:00 am 4 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:ab:9f:1a
+EXPIRE October 11, 2026, 12:00 am 147 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:06:57:A5
-EXPIRE May 28, 2026, 3:53 am 8 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:52:14:91
+EXPIRE April 9, 2027, 12:00 am 327 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:F1:D2:10
-EXPIRE May 29, 2026, 2:00 am 9 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:72:3d:d1
+EXPIRE February 27, 2027, 11:05 pm 286 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:41:C3:94
-EXPIRE February 15, 2027, 8:16 pm 271 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:d6:62:9f
+EXPIRE August 2, 2026, 5:50 pm 77 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:83:3F:5E
-EXPIRE March 8, 2027, 12:00 am 292 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:be:d5:60
+EXPIRE March 8, 2027, 12:00 am 295 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:D5:E0:79
-EXPIRE July 22, 2026, 4:14 pm 63 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:69:0b:99
+EXPIRE March 7, 2027, 12:00 am 294 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:4C:27:C3
-EXPIRE May 26, 2026, 12:00 am 6 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:65:59:d2
+EXPIRE May 22, 2026, 11:19 pm 5 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:BC:9D:77
-EXPIRE May 26, 2026, 12:00 am 6 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:cf:4f:08
+EXPIRE May 28, 2026, 12:00 am 11 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:72:9F:0C
-EXPIRE June 26, 2026, 12:00 am 37 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:91:6f:1a
+EXPIRE October 23, 2026, 12:00 am 159 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:7B:AF:7E
-EXPIRE June 11, 2026, 12:00 am 22 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:84:e2:f8
+EXPIRE September 7, 2026, 5:10 am 113 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:D0:ED:2D
-EXPIRE July 3, 2026, 5:35 pm 44 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:49:70:11
+EXPIRE May 19, 2026, 12:00 am 2 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:C3:02:E1
-EXPIRE May 21, 2026, 2:00 am 1 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:a8:d3:f1
+EXPIRE February 11, 2027, 12:00 am 270 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:B5:9D:D3
-EXPIRE March 26, 2027, 7:20 pm 310 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:c9:b5:2b
+EXPIRE June 11, 2026, 12:00 am 25 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:BF:DE:1A
-EXPIRE October 22, 2026, 10:00 pm 154 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:d1:99:68
+EXPIRE December 9, 2026, 12:00 am 206 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:75:AA:1D
-EXPIRE September 21, 2026, 12:00 am 123 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:b9:19:a0
+EXPIRE October 19, 2026, 2:36 pm 155 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:CF:14:A6
-EXPIRE April 26, 2027, 12:00 am 340 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:bf:6c:e6
+EXPIRE January 25, 2027, 8:17 pm 253 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:10:88:CB
-EXPIRE June 14, 2026, 9:53 pm 24 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:b1:dd:0e
+EXPIRE January 18, 2027, 12:00 am 246 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:A1:76:AA
-EXPIRE May 11, 2027, 12:00 am 355 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:4d:cb:9a
+EXPIRE June 3, 2026, 12:00 am 17 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:FB:2D:5E
-EXPIRE July 8, 2026, 12:00 am 48 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:c2:e6:3d
+EXPIRE May 31, 2026, 12:00 am 14 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:98:90:1E
-EXPIRE March 14, 2027, 12:00 am 298 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:cd:ac:fb
+EXPIRE February 25, 2027, 3:24 am 284 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:58:E5:44
-EXPIRE May 25, 2026, 12:00 am 4 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:c3:cc:39
+EXPIRE September 2, 2026, 10:52 pm 108 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:BB:53:64
-EXPIRE January 1, 2027, 12:00 am 226 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:b2:39:b5
+EXPIRE January 8, 2027, 4:14 pm 236 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:7F:53:E6
-EXPIRE April 14, 2027, 4:21 pm 328 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:5e:49:e6
+EXPIRE October 4, 2026, 12:00 am 140 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
 
-PANEL  http://atk97.online:80/c/
-MAC    00:1A:79:EE:FA:CD
-EXPIRE February 8, 2027, 9:22 pm 264 Day
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:c5:8c:57
+EXPIRE February 13, 2028, 12:00 am 637 Day
 STATU  STREAM「 ONLINE 」✅😎
 BY GAMERDZ1517 TEAM
 
+
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:d4:04:5f
+EXPIRE August 17, 2026, 12:00 am 92 Day
+STATU  STREAM「 ONLINE 」✅😎
+BY GAMERDZ1517 TEAM
+
+
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:5e:49:e6
+EXPIRE October 4, 2026, 12:00 am 140 Day
+STATU  STREAM「 ONLINE 」✅😎
+BY GAMERDZ1517 TEAM
+
+
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:ad:00:30
+EXPIRE July 24, 2026, 2:09 pm 68 Day
+STATU  STREAM「 ONLINE 」✅😎
+BY GAMERDZ1517 TEAM
+
+
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:a3:96:75
+EXPIRE February 16, 2027, 12:00 am 275 Day
+STATU  STREAM「 ONLINE 」✅😎
+BY GAMERDZ1517 TEAM
+
+
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:31:30:65
+EXPIRE October 27, 2026, 12:00 am 163 Day
+STATU  STREAM「 ONLINE 」✅😎
+BY GAMERDZ1517 TEAM
+
+
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:bc:89:e7
+EXPIRE May 1, 2027, 11:23 pm 349 Day
+STATU  STREAM「 ONLINE 」✅😎
+BY GAMERDZ1517 TEAM
+
+
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:74:05:c6
+EXPIRE November 28, 2026, 2:26 am 195 Day
+STATU  STREAM「 ONLINE 」✅😎
+BY GAMERDZ1517 TEAM
+
+
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:f5:71:5e
+EXPIRE May 5, 2027, 12:00 am 353 Day
+STATU  STREAM「 ONLINE 」✅😎
+BY GAMERDZ1517 TEAM
+
+
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:d5:dd:ad
+EXPIRE January 28, 2027, 3:13 pm 256 Day
+STATU  STREAM「 ONLINE 」✅😎
+BY GAMERDZ1517 TEAM
+
+
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:7b:0a:29
+EXPIRE January 25, 2027, 12:00 am 253 Day
+STATU  STREAM「 ONLINE 」✅😎
+BY GAMERDZ1517 TEAM
+
+
+PANEL  http://nticvision-ga.com:80/c/
+MAC    00:1A:79:f5:11:84
+EXPIRE June 17, 2026, 1:52 am 31 Day
+STATU  STREAM「 ONLINE 」✅😎
+BY GAMERDZ1517 TEAM
 
