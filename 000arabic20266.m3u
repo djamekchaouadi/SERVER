@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="beIN Sports AR by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 AR ᴴᴰ
+#EXTVLCOPT:network-caching=2000
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389624&extension=ts&play_token=j4MD59Dnw1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="beIN Sports AR by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 AR ᴴᴰ
+#EXTVLCOPT:network-caching=2000
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389623&extension=ts&play_token=2ODJ9lS0dh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="beIN Sports AR by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 AR SD
+#EXTVLCOPT:network-caching=2000
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389618&extension=ts&play_token=85TywmwHow
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="beIN Sports AR by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 AR SD
+#EXTVLCOPT:network-caching=2000
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389617&extension=ts&play_token=okTE2OcyDT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="beIN Sports AR by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 AR ʰᵉᵛᶜ
+#EXTVLCOPT:network-caching=2000
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389612&extension=ts&play_token=Hgl57r8yNq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="beIN Sports AR by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 AR ʰᵉᵛᶜ
+#EXTVLCOPT:network-caching=2000
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389611&extension=ts&play_token=384UdHSzze
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="beIN Sports AR by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 AR ᴿᴬᵂ
+#EXTVLCOPT:network-caching=2000
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389606&extension=ts&play_token=BpHa3tqwN8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="beIN Sports AR by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 AR ᴿᴬᵂ
+#EXTVLCOPT:network-caching=2000
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389605&extension=ts&play_token=Iob1pf5dMd
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066883.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC HD
 http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066883&extension=ts&play_token=sdL14HK0Cr
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066882.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC SD
