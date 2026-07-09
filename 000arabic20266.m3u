@@ -1,64 +1,250 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="beIN Sports AR by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 AR ᴴᴰ
-#EXTVLCOPT:network-caching=2000
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389624&extension=ts&play_token=j4MD59Dnw1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="beIN Sports AR by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 AR ᴴᴰ
-#EXTVLCOPT:network-caching=2000
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389623&extension=ts&play_token=2ODJ9lS0dh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="beIN Sports AR by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 AR SD
-#EXTVLCOPT:network-caching=2000
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389618&extension=ts&play_token=85TywmwHow
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="beIN Sports AR by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 AR SD
-#EXTVLCOPT:network-caching=2000
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389617&extension=ts&play_token=okTE2OcyDT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="beIN Sports AR by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 AR ʰᵉᵛᶜ
-#EXTVLCOPT:network-caching=2000
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389612&extension=ts&play_token=Hgl57r8yNq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="beIN Sports AR by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 AR ʰᵉᵛᶜ
-#EXTVLCOPT:network-caching=2000
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389611&extension=ts&play_token=384UdHSzze
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="beIN Sports AR by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 AR ᴿᴬᵂ
-#EXTVLCOPT:network-caching=2000
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389606&extension=ts&play_token=BpHa3tqwN8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="beIN Sports AR by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 AR ᴿᴬᵂ
-#EXTVLCOPT:network-caching=2000
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389605&extension=ts&play_token=Iob1pf5dMd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066883.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC HD
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066883&extension=ts&play_token=sdL14HK0Cr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066882.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC SD
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066882&extension=ts&play_token=yluorJlA6U
-    #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066881.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 4K
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066881&extension=ts&play_token=JLdlVNZn7s
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066880.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 1 HD
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066880&extension=ts&play_token=ADoYH7qKc1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066879.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 1 SD
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066879&extension=ts&play_token=EK9Unds6wp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066878.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 1 4K
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066878&extension=ts&play_token=gAkaUaZnv5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066877.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 2 HD
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066877&extension=ts&play_token=ei1cfIxygO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066876.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 2 SD
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066876&extension=ts&play_token=SINHqUlJx0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066875.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 2 4K
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066875&extension=ts&play_token=VbHIDM13yL
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066874.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 3 HD
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066874&extension=ts&play_token=JUCx1EaBJ2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066873.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 3 SD
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066873&extension=ts&play_token=ohIO7glSVd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-3.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 3 4K
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066872&extension=ts&play_token=tDp2qbZc2Z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-4.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 4 HD
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066871&extension=ts&play_token=LfIMJSungx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-4.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 4 SD
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066870&extension=ts&play_token=V73beOF2wq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-4.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 4 4K
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066869&extension=ts&play_token=simu3wvDcG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-5.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 5 HD
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066868&extension=ts&play_token=OzAAmdmDT3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-5.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 5 SD
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066867&extension=ts&play_token=LhLdd9fq8N
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-5.png" group-title="BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 5 4K
-http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1066866&extension=ts&play_token=2du7UvgAh3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 AR ᴴᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389624&extension=ts&play_token=9lmw3T7OOX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 AR ᴴᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389623&extension=ts&play_token=opHuUy11Wm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 3 EN ᴴᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389622&extension=ts&play_token=FgQtki2WSq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 4 EN ᴴᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389621&extension=ts&play_token=HHulim2Und
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 5 FR ᴴᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389620&extension=ts&play_token=BYdUJFhKtR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 6 FR ᴴᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389619&extension=ts&play_token=vLJgVvlIxL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 AR SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389618&extension=ts&play_token=BKAUHfzpZk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 AR SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389617&extension=ts&play_token=hEtR4xqg9s
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 3 EN SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389616&extension=ts&play_token=n2vKS0Hs46
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 4 EN SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389615&extension=ts&play_token=yNOOkyr7NM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 5 FR SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389614&extension=ts&play_token=v3Ap5Frpkg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 6 FR SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389613&extension=ts&play_token=N5qgHPs7cy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 AR ʰᵉᵛᶜ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389612&extension=ts&play_token=qQErjawtCG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 AR ʰᵉᵛᶜ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389611&extension=ts&play_token=DwZAi01qwI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 3 EN ʰᵉᵛᶜ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389610&extension=ts&play_token=fPsm5TVKfF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 4 EN ʰᵉᵛᶜ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389609&extension=ts&play_token=gevz4FRgjh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 5 FR ʰᵉᵛᶜ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389608&extension=ts&play_token=FskXAYMIKr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 6 FR ʰᵉᵛᶜ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389607&extension=ts&play_token=X4E9t2dru4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 AR ᴿᴬᵂ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389606&extension=ts&play_token=CgeDMyZSu6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 AR ᴿᴬᵂ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389605&extension=ts&play_token=vjpDtkjFAt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 3 EN ᴿᴬᵂ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389604&extension=ts&play_token=JsKfRaxaDG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 4 EN ᴿᴬᵂ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389603&extension=ts&play_token=qcbw0J99JM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 5 FR ᴿᴬᵂ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389602&extension=ts&play_token=zpW6GSuOtQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 6 FR ᴿᴬᵂ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389601&extension=ts&play_token=lxIDmDmYMa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 4K
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389600&extension=ts&play_token=qqceTwrg4p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 4K
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389599&extension=ts&play_token=c6HmhUxktE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 3 4K
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389598&extension=ts&play_token=0dwaHo1EKA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 4 4K
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389597&extension=ts&play_token=feLnpUntym
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 5 4K
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389596&extension=ts&play_token=HL8Kuv6jUv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 6 4K
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389595&extension=ts&play_token=R2mj9cTOiI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389594&extension=ts&play_token=7PwCd94x7j
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389593&extension=ts&play_token=DibASKRqfN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 3 FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389592&extension=ts&play_token=cBotGbFp8K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 4 FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389591&extension=ts&play_token=vjgBh4HE3R
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 5 FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389590&extension=ts&play_token=9AnX351853
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 6 FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389589&extension=ts&play_token=RO0gkjH0i7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389588&extension=ts&play_token=xk7DO9n1lR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389587&extension=ts&play_token=lN2ijnWutF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 3 HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389586&extension=ts&play_token=UyTwN3Jnn6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 4 HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389585&extension=ts&play_token=GY6Vk4pM7S
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 5 HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389584&extension=ts&play_token=kRkJaUhkz9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 6 HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389583&extension=ts&play_token=2AWblUEIZY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389582&extension=ts&play_token=XIQsukoWBu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389581&extension=ts&play_token=MI4RbXmGqi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 3 SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389580&extension=ts&play_token=wh62cUwsfT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 4 SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389579&extension=ts&play_token=0aMxwS0wsp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 5 SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389578&extension=ts&play_token=HpxFHzfGoL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 6 SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389577&extension=ts&play_token=fehhBPlkQf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392994&extension=ts&play_token=dmrKUtbMBK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392993&extension=ts&play_token=p1XnrQEnLL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 HEVC
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392992&extension=ts&play_token=HZfyHjIzxo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 1 SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392991&extension=ts&play_token=TNHXYdeKnp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392990&extension=ts&play_token=dUSfEl8So9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392989&extension=ts&play_token=usmR8Gmqe9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 HEVC
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392988&extension=ts&play_token=gMqgjUGErU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 2 SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392987&extension=ts&play_token=xWwWAIqBMZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 3 FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392986&extension=ts&play_token=AwXoQ6p7tN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 3 HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392985&extension=ts&play_token=SsEicGBXmm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 3 HEVC
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392984&extension=ts&play_token=eklkqnAN4r
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 3 SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392983&extension=ts&play_token=MTY8Fj1AJ0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 4 FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392982&extension=ts&play_token=TOgWBDBLEw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 4 HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392981&extension=ts&play_token=Wxz3rwAwQ5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 4 HEVC
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392980&extension=ts&play_token=m6BBVULKNM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX 4 SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392979&extension=ts&play_token=NwHa8RlUWl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN SPORTS MAX ᵁᴴᴰ 4K
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1394422&extension=ts&play_token=nHEktKnlbR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392978&extension=ts&play_token=3G1dwlXFyq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392977&extension=ts&play_token=ABChTiiooy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 HEVC
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392976&extension=ts&play_token=SEMyl8rCuI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392975&extension=ts&play_token=VKWKkO5MTZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392974&extension=ts&play_token=V4yg1HDUWt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392973&extension=ts&play_token=vcKIJC7M5h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 HEVC
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392972&extension=ts&play_token=STY9E7sKvH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392971&extension=ts&play_token=RfoGKw5OMM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 3 FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392970&extension=ts&play_token=Uos89PGPT7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 3 HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392969&extension=ts&play_token=zvIgiJxP2M
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 3 HEVC
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392968&extension=ts&play_token=WqD4ClaAQP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 3 SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392967&extension=ts&play_token=sMFYlOyesf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 4 FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392966&extension=ts&play_token=8rsRb6CCep
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 4 HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392965&extension=ts&play_token=FHNjQeakjJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 4 HEVC
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392964&extension=ts&play_token=ycGdMiEYfZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 4 SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392963&extension=ts&play_token=nRIU494Hw6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 5 FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392962&extension=ts&play_token=yhf476yQEe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 5 HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392961&extension=ts&play_token=4u1B87YFVh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 5 HEVC
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392960&extension=ts&play_token=4b92pRGmkw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 5 SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392959&extension=ts&play_token=RIlQIGbE6n
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 6 FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392958&extension=ts&play_token=1RsAbNYw9S
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 6 HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392957&extension=ts&play_token=lRDpHX4csk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 6 HEVC
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392956&extension=ts&play_token=yl4MMPQJdE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 6 SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392955&extension=ts&play_token=uT404CfJlN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 (BA) FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392954&extension=ts&play_token=HoCeGoyZbw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 (BA) HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392953&extension=ts&play_token=XhDer2jQt9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 (BA) HEVC
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392952&extension=ts&play_token=ETR0ZI2GES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 (BA) SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392951&extension=ts&play_token=9JWyguSIhY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 (BA) FHD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392950&extension=ts&play_token=nLXwLctJOS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 (BA) HD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392949&extension=ts&play_token=Hlclgrzkl4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 (BA) HEVC
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392948&extension=ts&play_token=65MT7yfyQ4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 (BA) SD
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1392947&extension=ts&play_token=r02Pbg2Mar
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 ⁴ᴷ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389576&extension=ts&play_token=RxDTLQw7ZA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 ⁴ᴷ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389575&extension=ts&play_token=bKAZKiJR5R
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 EN ⁴ᴷ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389574&extension=ts&play_token=ScwZ1K2KC3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 EN ⁴ᴷ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389573&extension=ts&play_token=ylUGeJIM0g
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 FR ⁴ᴷ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389572&extension=ts&play_token=fB0bJk4F4E
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 FR ⁴ᴷ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389571&extension=ts&play_token=GbWZdna0P1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 ᶠʰᵈ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389570&extension=ts&play_token=vQcvv6wYMW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 ᶠʰᵈ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389569&extension=ts&play_token=HXnQOdheGx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 EN ᶠʰᵈ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389568&extension=ts&play_token=6WsTDO4euU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 EN ᶠʰᵈ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389567&extension=ts&play_token=sACMRuOpzO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 FR ᶠʰᵈ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389566&extension=ts&play_token=Mywa4pWoUq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 FR ᶠʰᵈ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389565&extension=ts&play_token=iHMHIIGY8P
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 ᴴᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389564&extension=ts&play_token=XVOplG2vCI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 ᴴᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389563&extension=ts&play_token=uvr5Eyg43Q
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 EN ᴴᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389562&extension=ts&play_token=X24uRAxZ13
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 EN ᴴᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389561&extension=ts&play_token=uc7AwXVgNO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 FR ᴴᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389560&extension=ts&play_token=PawUevfOsJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 FR ᴴᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389559&extension=ts&play_token=9yHU0yfsr8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 ˢᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389558&extension=ts&play_token=2ohYdd0wIu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 ˢᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389557&extension=ts&play_token=p5Xw1o13aU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 EN ˢᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389556&extension=ts&play_token=DqR657YXvg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 EN ˢᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389555&extension=ts&play_token=SLKRcjNGjz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 1 FR ˢᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389554&extension=ts&play_token=6cNR8szqzO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",BEIN MAX 2 FR ˢᴰ
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1389553&extension=ts&play_token=NUhTxphh0y
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",TR - BEIN SPORTS MAX 1
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1393247&extension=ts&play_token=wmd1c6YkZT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",TR - BEIN SPORT MAX 2
+http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1393246&extension=ts&play_token=zXNawHKUTk
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178456.png" group-title="BEIN SPORTS 8K by GAMERDZ1517",####### BEIN SPORTS ᴴᴰ #######
 http://dinomultiservice.online:80/play/live.php?mac=00:1A:79:BE:F4:F7&stream=1178456&extension=ts&play_token=512QpGETjq
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178455.png" group-title="BEIN SPORTS 8K by GAMERDZ1517",❖AR❖ BEIN SPORTS NEWS ᴴᴰ
