@@ -1,0 +1,1438 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD by GAMERDZ1517",|4K| BEIN SPORTS AR [EVENT]
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1284535&extension=ts&play_token=6iWSW70pp4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845390.png" group-title="★FR✤ FRANCE HEVC by GAMERDZ1517",★FR✤  beIN SPORTS 1 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=845390&extension=ts&play_token=LPlE3A6cXW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845389.png" group-title="★FR✤ FRANCE HEVC by GAMERDZ1517",★FR✤  beIN SPORTS 2 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=845389&extension=ts&play_token=guCyTrclWI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/845388.png" group-title="★FR✤ FRANCE HEVC by GAMERDZ1517",★FR✤  beIN SPORTS 3 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=845388&extension=ts&play_token=95rNU5Wcaj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554021.png" group-title="★FR✤ FRANCE SPORTS by GAMERDZ1517",★FR✤  BEIN SPORTS 1 FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=554021&extension=ts&play_token=DAlwwB67Lj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554022.png" group-title="★FR✤ FRANCE SPORTS by GAMERDZ1517",★FR✤  BEIN SPORTS 2 FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=554022&extension=ts&play_token=ATS7yXuyqe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/554023.png" group-title="★FR✤ FRANCE SPORTS by GAMERDZ1517",★FR✤  BEIN SPORTS 3 FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=554023&extension=ts&play_token=lOAsqV7VaG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/543395.png" group-title="★FR✤ FRANCE SPORTS by GAMERDZ1517",★FR✤  BEIN SPORTS 1
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=543395&extension=ts&play_token=Zx9XFIqOyd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/543397.png" group-title="★FR✤ FRANCE SPORTS by GAMERDZ1517",★FR✤  BEIN SPORTS 2
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=543397&extension=ts&play_token=3naHbxkLKQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/543399.png" group-title="★FR✤ FRANCE SPORTS by GAMERDZ1517",★FR✤  BEIN SPORTS 3
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=543399&extension=ts&play_token=0ztoog1jG3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/543394.png" group-title="★FR✤ FRANCE SPORTS by GAMERDZ1517",★FR✤  BEIN SPORTS 1 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=543394&extension=ts&play_token=zfenQOSuaS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/543396.png" group-title="★FR✤ FRANCE SPORTS by GAMERDZ1517",★FR✤  BEIN SPORTS 2 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=543396&extension=ts&play_token=N3APoi8U6I
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/543398.png" group-title="★FR✤ FRANCE SPORTS by GAMERDZ1517",★FR✤  BEIN SPORTS 3 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=543398&extension=ts&play_token=jq6lMOeuhd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/548746.png" group-title="★FR✤ FRANCE SPORTS by GAMERDZ1517",★FR✤  BEIN SPORTS MAX 4 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=548746&extension=ts&play_token=5CCUxAnzAQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/548747.png" group-title="★FR✤ FRANCE SPORTS by GAMERDZ1517",★FR✤  BEIN SPORTS MAX 5 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=548747&extension=ts&play_token=Cn66eqDH6N
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/548748.png" group-title="★FR✤ FRANCE SPORTS by GAMERDZ1517",★FR✤  BEIN SPORTS MAX 6 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=548748&extension=ts&play_token=mBQBum7D4m
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/548749.png" group-title="★FR✤ FRANCE SPORTS by GAMERDZ1517",★FR✤  BEIN SPORTS MAX 7 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=548749&extension=ts&play_token=e2enh7AfyH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/548750.png" group-title="★FR✤ FRANCE SPORTS by GAMERDZ1517",★FR✤  BEIN SPORTS MAX 8 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=548750&extension=ts&play_token=Oa2DKtVlLr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/548751.png" group-title="★FR✤ FRANCE SPORTS by GAMERDZ1517",★FR✤  BEIN SPORTS MAX 9 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=548751&extension=ts&play_token=jH2FA36fIN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/548745.png" group-title="★FR✤ FRANCE SPORTS by GAMERDZ1517",★FR✤  BEIN SPORTS MAX 10 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=548745&extension=ts&play_token=Y6z3VLzFsa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/653447.png" group-title="★FR✤ LE MEILLEUR DES FILMS by GAMERDZ1517",★FR✤  BEIN ANIME 1 FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653447&extension=ts&play_token=NL3NSbGmKG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/653446.png" group-title="★FR✤ LE MEILLEUR DES FILMS by GAMERDZ1517",★FR✤  BEIN ANIME 2 FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653446&extension=ts&play_token=u75wdLckGl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/653448.png" group-title="★FR✤ LE MEILLEUR DES FILMS by GAMERDZ1517",★FR✤  BEIN ACTION 1 FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653448&extension=ts&play_token=xXcFDYvXqB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/653449.png" group-title="★FR✤ LE MEILLEUR DES FILMS by GAMERDZ1517",★FR✤  BEIN ACTION 2 FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653449&extension=ts&play_token=g6cVwEa2Lv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTSMAX9.png" group-title="★FR✤ FRANCE CARRIBEAN by GAMERDZ1517",★FR✤  BEIN SPORTS MAX 9
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1389145&extension=ts&play_token=DrAfIGSP10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTSMAX8.png" group-title="★FR✤ FRANCE CARRIBEAN by GAMERDZ1517",★FR✤  BEIN SPORTS MAX 8
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1389144&extension=ts&play_token=cZvrLSYRcu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTSMAX7.png" group-title="★FR✤ FRANCE CARRIBEAN by GAMERDZ1517",★FR✤  BEIN SPORTS MAX 7
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1389143&extension=ts&play_token=nOQgMuxk0D
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTSMAX6.png" group-title="★FR✤ FRANCE CARRIBEAN by GAMERDZ1517",★FR✤  BEIN SPORTS MAX 6
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1389142&extension=ts&play_token=UkOnIwutdV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTSMAX5.png" group-title="★FR✤ FRANCE CARRIBEAN by GAMERDZ1517",★FR✤  BEIN SPORTS MAX 5
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1389141&extension=ts&play_token=FCmHDhB8ZH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTSMAX4.png" group-title="★FR✤ FRANCE CARRIBEAN by GAMERDZ1517",★FR✤  BEIN SPORTS MAX 4
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1389140&extension=ts&play_token=9dSCwsAUSP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTSMAX10.png" group-title="★FR✤ FRANCE CARRIBEAN by GAMERDZ1517",★FR✤  BEIN SPORTS MAX 10
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1389139&extension=ts&play_token=fdfrTOO5oX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTS3.png" group-title="★FR✤ FRANCE CARRIBEAN by GAMERDZ1517",★FR✤  BEIN SPORTS 3 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1389138&extension=ts&play_token=xHw1AcjaOB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTS2.png" group-title="★FR✤ FRANCE CARRIBEAN by GAMERDZ1517",★FR✤  BEIN SPORTS 2 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1389137&extension=ts&play_token=zPFCn7Rv2R
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTS1.png" group-title="★FR✤ FRANCE CARRIBEAN by GAMERDZ1517",★FR✤  BEIN SPORTS 1 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1389136&extension=ts&play_token=fkxdR9X5By
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553684.png" group-title="★FR✤ FRANCE 4K by GAMERDZ1517",★FR✤  BEIN SPORTS 1 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=553684&extension=ts&play_token=8JeaHTjE7E
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553685.png" group-title="★FR✤ FRANCE 4K by GAMERDZ1517",★FR✤  BEIN SPORTS 2 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=553685&extension=ts&play_token=Agx8GFQgMw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553686.png" group-title="★FR✤ FRANCE 4K by GAMERDZ1517",★FR✤  BEIN SPORTS 3 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=553686&extension=ts&play_token=WnJz6WQB8U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066883.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066883&extension=ts&play_token=wOrQBoqGbo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066882.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066882&extension=ts&play_token=CursUtiIbe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066881.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066881&extension=ts&play_token=kGaTx3cruc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066880.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 1 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066880&extension=ts&play_token=TxiQbAKUIK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066879.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 1 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066879&extension=ts&play_token=jbj8tyT2KQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066878.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 1 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066878&extension=ts&play_token=p4og9WZaAU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066877.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 2 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066877&extension=ts&play_token=UtwuXwPuMP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066876.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 2 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066876&extension=ts&play_token=5Cr2s3mpzW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066875.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 2 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066875&extension=ts&play_token=tla2NiBpM8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066874.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 3 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066874&extension=ts&play_token=mK17T0Q52S
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1066873.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 3 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066873&extension=ts&play_token=9o67SaPuDI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-3.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 3 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066872&extension=ts&play_token=GF3nltguYq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-4.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 4 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066871&extension=ts&play_token=6lyQf8gkwb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-4.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 4 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066870&extension=ts&play_token=e6Pmjn57aM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-4.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 4 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066869&extension=ts&play_token=Rf2kTIQiGW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-5.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 5 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066868&extension=ts&play_token=hQU6CLyBP2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-5.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 5 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066867&extension=ts&play_token=3gOi7LhkHy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-AFC-5.png" group-title="☾★AR✤ BEIN SPORTS AFC by GAMERDZ1517",BEIN SPORTS AFC 5 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1066866&extension=ts&play_token=Uyl3NGDORR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178456.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",####### BEIN SPORTS ᴴᴰ #######
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178456&extension=ts&play_token=lSWJpiDltY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178455.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS NEWS ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178455&extension=ts&play_token=nKb3zyvF4T
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1178454.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS GLOBAL ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178454&extension=ts&play_token=amtnoYADkd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178453.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 1 ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178453&extension=ts&play_token=8XbsCg1qIZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178452.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 2 ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178452&extension=ts&play_token=3Qcz7rn0kZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178451.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 3 ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178451&extension=ts&play_token=k29a3oczP5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178450.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 4 ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178450&extension=ts&play_token=Qoi8ta2fhz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178449.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 5 ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178449&extension=ts&play_token=T6JHVw5IUU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178448.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 6 ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178448&extension=ts&play_token=ZLaFLqD1u2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178447.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 7 ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178447&extension=ts&play_token=cTRNKEew0r
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178446.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 8 ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178446&extension=ts&play_token=wOrSlIdn4A
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178445.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 9 ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178445&extension=ts&play_token=08Rk5K4O1u
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178444.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 1 XTRA ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178444&extension=ts&play_token=x1ypNBGiNT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178443.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 2 XTRA ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178443&extension=ts&play_token=8hJ3xEeXLN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178442.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 3 XTRA ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178442&extension=ts&play_token=ab1KtXlUgC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178441.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 1 ENGLISH ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178441&extension=ts&play_token=twlzJvYBL0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178440.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 2 ENGLISH ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178440&extension=ts&play_token=KZG5MeQDys
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178439.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 1 FRANCE ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178439&extension=ts&play_token=nhtWaPPkgE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178438.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 2 FRANCE ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178438&extension=ts&play_token=bt20hKP0I6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178437.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 3 FRANCE ᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178437&extension=ts&play_token=jPxOb3AnWf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178436.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",####### BEIN SPORTS SD #######
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178436&extension=ts&play_token=qJsGUs2ffm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178435.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS NEWS SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178435&extension=ts&play_token=nJhvAu5Uzc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1178434.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS GLOBAL SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178434&extension=ts&play_token=dw3gMObZzT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178433.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 1 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178433&extension=ts&play_token=J5YlNr7Za7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178432.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 2 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178432&extension=ts&play_token=6ajTZMM6Zf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178431.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 3 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178431&extension=ts&play_token=NMg5B9DiNR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178430.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 4 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178430&extension=ts&play_token=GlvTG3V9wU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178429.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 5 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178429&extension=ts&play_token=SBY71Y6JeV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178428.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 6 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178428&extension=ts&play_token=Or4XzCt5TJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178427.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 7 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178427&extension=ts&play_token=eecDEbGdEb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178426.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 8 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178426&extension=ts&play_token=xHv6h6UCB9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178425.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 9 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178425&extension=ts&play_token=2Vq0vF8SY6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178424.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 1 XTRA SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178424&extension=ts&play_token=UK8X1YSEq0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178423.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 2 XTRA SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178423&extension=ts&play_token=0PedLJ54aJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178422.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 3 XTRA SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178422&extension=ts&play_token=ppJLYokyaX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178421.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 1 ENGLISH SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178421&extension=ts&play_token=qOXGsh2tDv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178420.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 2 ENGLISH SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178420&extension=ts&play_token=ADQsoOAele
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178419.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",####### BEIN SPORTS LQ #######
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178419&extension=ts&play_token=ysnF8JYzfS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178418.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS NEWS LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178418&extension=ts&play_token=zXXlepR2d5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1178417.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS GLOBAL LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178417&extension=ts&play_token=6VnjmkVRCv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178416.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 1 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178416&extension=ts&play_token=qQIraw33JG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178415.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 2 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178415&extension=ts&play_token=yuVxplrdUE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178414.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 3 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178414&extension=ts&play_token=N2ZJFZ0pjg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178413.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 4 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178413&extension=ts&play_token=jTrEEXw2gr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178412.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 5 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178412&extension=ts&play_token=df9diE0W0a
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178411.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 6 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178411&extension=ts&play_token=9XjOlwcHnf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178410.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 7 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178410&extension=ts&play_token=NREQB0iF8l
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178409.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 8 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178409&extension=ts&play_token=hEMntoBdv0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178408.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 9 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178408&extension=ts&play_token=Eoyap1udcX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178407.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 1 XTRA LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178407&extension=ts&play_token=JO2wtLv0aN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178406.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 2 XTRA LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178406&extension=ts&play_token=uq64gShPH0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178405.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 3 XTRA LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178405&extension=ts&play_token=aag0sFs3EF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178404.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",####### BEIN SPORTS ʰᵉᵛᶜ #######
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178404&extension=ts&play_token=pR5KPwnXYl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178403.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 1 ʰᵉᵛᶜ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178403&extension=ts&play_token=bohHu7RdUe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178402.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 2 ʰᵉᵛᶜ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178402&extension=ts&play_token=CVtQW3INxA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178401.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 3 ʰᵉᵛᶜ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178401&extension=ts&play_token=R0O0ZdWR3x
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178400.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 4 ʰᵉᵛᶜ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178400&extension=ts&play_token=kfNv3vfKTv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178399.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 5 ʰᵉᵛᶜ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178399&extension=ts&play_token=6K7DaDSYSZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178398.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 6 ʰᵉᵛᶜ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178398&extension=ts&play_token=mZkK0Wo6Bl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178397.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 7 ʰᵉᵛᶜ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178397&extension=ts&play_token=7EoD8wFy5z
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178396.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 8 ʰᵉᵛᶜ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178396&extension=ts&play_token=o03VyhWnVz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178395.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 9 ʰᵉᵛᶜ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178395&extension=ts&play_token=hZvBYR61a3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178394.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 1 XTRA ʰᵉᵛᶜ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178394&extension=ts&play_token=UXQ26kReWm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178393.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 2 XTRA ʰᵉᵛᶜ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178393&extension=ts&play_token=ifElPWjSxV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178392.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 3 XTRA ʰᵉᵛᶜ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178392&extension=ts&play_token=pNn47iw1vQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178391.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 1 ENGLISH ʰᵉᵛᶜ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178391&extension=ts&play_token=WkE6vTgkHT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178390.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 2 ENGLISH ʰᵉᵛᶜ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178390&extension=ts&play_token=pb0yg7ctyU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178389.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",####### BEIN SPORTS ᴿᴬᵂ #######
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178389&extension=ts&play_token=QcX0hCmWYT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178388.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS NEWS ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178388&extension=ts&play_token=RWca1c38Qc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1178387.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS GLOBAL ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178387&extension=ts&play_token=5cjxnG0opo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178386.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 1 ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178386&extension=ts&play_token=KTG7Ep1iNm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178385.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 2 ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178385&extension=ts&play_token=mWV3yCOkxv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178384.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 3 ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178384&extension=ts&play_token=Dk09vvcK5M
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178383.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 4 ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178383&extension=ts&play_token=LWPwgvOpQI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178382.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 5 ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178382&extension=ts&play_token=h45V4Rr45c
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178381.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 6 ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178381&extension=ts&play_token=cqp64lee3L
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178380.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 7 ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178380&extension=ts&play_token=rHrmrSfFV9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178379.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 8 ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178379&extension=ts&play_token=tyqvaLTchr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178378.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 9 ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178378&extension=ts&play_token=j6HNmRPAl2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178377.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 1 XTRA ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178377&extension=ts&play_token=PMvhcIH9Xd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178376.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 2 XTRA ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178376&extension=ts&play_token=Xjrxv3lW1j
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178375.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 3 XTRA ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178375&extension=ts&play_token=GqgyvXu65d
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178374.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 1 ENGLISH ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178374&extension=ts&play_token=cOmr2JoTx8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178373.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 2 ENGLISH ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178373&extension=ts&play_token=X6rxpQgpuH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178372.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 1 FRANCE ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178372&extension=ts&play_token=hsqiSL2BFH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178371.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 2 FRANCE ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178371&extension=ts&play_token=BT4lqLtotB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1178370.png" group-title="☾★AR✤ BEIN SPORTS 8K by GAMERDZ1517",8K - BEIN SPORTS 3 FRANCE ᴿᴬᵂ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1178370&extension=ts&play_token=TRMUCFyKTa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016905.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS NEWS ᵁᴴᴰ 8K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016905&extension=ts&play_token=lzCByjTvDc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016906.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS GLOBAL ᵁᴴᴰ 8K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016906&extension=ts&play_token=IYsJG79QHZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016907.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS1 ᵁᴴᴰ8K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016907&extension=ts&play_token=mL0kNT4jpJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016908.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS2 ᵁᴴᴰ 8K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016908&extension=ts&play_token=7zyLJOSP2f
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016909.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS3 ᵁᴴᴰ 8K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016909&extension=ts&play_token=VrwzkDXmhQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016910.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS4 ᵁᴴᴰ 8K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016910&extension=ts&play_token=VBWBEhCHO9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016911.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS5 ᵁᴴᴰ 8K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016911&extension=ts&play_token=2jFh61lEcZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016912.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS6 ᵁᴴᴰ 8K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016912&extension=ts&play_token=Ltyl3CLn16
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016913.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS7 ᵁᴴᴰ 8K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016913&extension=ts&play_token=vUEil2Fq4P
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016914.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS8 ᵁᴴᴰ 8K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016914&extension=ts&play_token=ymNwpU2Ey3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016915.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS9 ᵁᴴᴰ 8K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016915&extension=ts&play_token=ZHfJGRWKVC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016918.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS XTRA1 ᵁᴴᴰ 8K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016918&extension=ts&play_token=Ycmw8Jx2X7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016919.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS XTRA 2 ᵁᴴᴰ 8K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016919&extension=ts&play_token=EX91LCbDCO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016920.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 1 ᵁᴴᴰ 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016920&extension=ts&play_token=IQLYBMR4ge
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016921.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 2 ᵁᴴᴰ 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016921&extension=ts&play_token=sAinB3NWzA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016922.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 3 ᵁᴴᴰ 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016922&extension=ts&play_token=91z0869NTs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016923.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 4 ᵁᴴᴰ 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016923&extension=ts&play_token=GzEacCixLv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016924.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 5 ᵁᴴᴰ 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016924&extension=ts&play_token=cZYjLh7ELz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016925.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 6 ᵁᴴᴰ 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016925&extension=ts&play_token=xNIStIpsZe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016926.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 7 ᵁᴴᴰ 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016926&extension=ts&play_token=JgkqyubQJD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016927.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 8 ᵁᴴᴰ 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016927&extension=ts&play_token=8DQXEweBXh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016928.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 9 ᵁᴴᴰ 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016928&extension=ts&play_token=wPmhi3KCLs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016929.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 1 Gᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016929&extension=ts&play_token=qAgwqPqfdT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016930.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 2 Gᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016930&extension=ts&play_token=02OuA64kTb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016931.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 3 Gᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016931&extension=ts&play_token=eK0f1iBjc6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016932.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 4 Gᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016932&extension=ts&play_token=cX2ceqnM6K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016933.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 5 Gᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016933&extension=ts&play_token=6vffB8YDQx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016934.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 6 Gᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016934&extension=ts&play_token=nC7kECEMtB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016935.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 7 Gᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016935&extension=ts&play_token=v7dijNfEGa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016936.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 8 Gᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016936&extension=ts&play_token=LsWg21kpYZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1016937.png" group-title="☾★AR✤ BEIN SPORTS G by GAMERDZ1517",BEIN SPORTS 9 Gᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1016937&extension=ts&play_token=4GckImcXJY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156649.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 1 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156649&extension=ts&play_token=NKaEGqbQbg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156648.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 2 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156648&extension=ts&play_token=26qi5D5qE2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156647.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 3 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156647&extension=ts&play_token=LHOjRvSTEO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156646.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 4 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156646&extension=ts&play_token=Ctx1d8l8J2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156645.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 5 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156645&extension=ts&play_token=ZyICVnkt7F
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156644.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 6 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156644&extension=ts&play_token=xFFmwOwolb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156643.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 7 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156643&extension=ts&play_token=BOsnN0Gtcv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156642.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 8 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156642&extension=ts&play_token=eeBm9E65cm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156641.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 9 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156641&extension=ts&play_token=IZbtfjeQHq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1156640.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS ENGLISH 1 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156640&extension=ts&play_token=qJNPnTPrhF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156639.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS ENGLISH 2 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156639&extension=ts&play_token=OZS1uiENwV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156638.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS XTRA 1 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156638&extension=ts&play_token=H57bd6okDs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156637.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS XTRA 2 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156637&extension=ts&play_token=WeqT2SGZSD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156636.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS XTRA 3 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156636&extension=ts&play_token=yZuQlO0mN9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156635.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS  AFC 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156635&extension=ts&play_token=BK7k9EjS8Q
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156634.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS AFC 1 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156634&extension=ts&play_token=3TggUN6rOX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156633.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS AFC 2 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156633&extension=ts&play_token=MKNPKOMP4y
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156632.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS AFC 3 720
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156632&extension=ts&play_token=CFmeBbNzLy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156631.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 1 4k
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156631&extension=ts&play_token=mhmnIFaMYE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156630.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 2 4k
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156630&extension=ts&play_token=Uh0wDkGZq7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156629.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 3 4k
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156629&extension=ts&play_token=AB88mWALCy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156628.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 4 4k
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156628&extension=ts&play_token=pBonfpaXpc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156627.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 5 4k
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156627&extension=ts&play_token=RMN86mOZhc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156626.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 6 4k
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156626&extension=ts&play_token=g3NtByFw9c
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156625.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 7 4k
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156625&extension=ts&play_token=BeGY6zQG7v
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156624.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 8 4k
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156624&extension=ts&play_token=xEbkdBhn91
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156623.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 9 4k
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156623&extension=ts&play_token=u33IcosPMj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156622.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS ENGLISH 1 4k
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156622&extension=ts&play_token=4Aq2v46QZF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156621.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS ENGLISH 2 4k
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156621&extension=ts&play_token=BNUybP0MZU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156620.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS XTRA 1 4k
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156620&extension=ts&play_token=HUxe07AKBk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156619.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS XTRA 2 4k
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156619&extension=ts&play_token=XMErykRAeN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156618.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS XTRA 3 4k
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156618&extension=ts&play_token=GvVMuxxFeo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156617.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS  AFC 4k
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156617&extension=ts&play_token=uB9PoeqH4h
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156616.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS AFC 1 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156616&extension=ts&play_token=PUxRA3d8Zo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156615.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS AFC 2 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156615&extension=ts&play_token=9iItDiqHWa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156614.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS AFC 3 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156614&extension=ts&play_token=zC3a35cyL8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156613.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 1 480
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156613&extension=ts&play_token=OeBx1zSN2b
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156612.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 2 480
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156612&extension=ts&play_token=Y5yABdQpJJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156611.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 3 480
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156611&extension=ts&play_token=xd4I3iwXOW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156610.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 4 480
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156610&extension=ts&play_token=N2ZWdfYCAw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156609.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 5 480
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156609&extension=ts&play_token=yuEUjXAZaS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156608.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 6 480
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156608&extension=ts&play_token=MxO558oirx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156607.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 7 480
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156607&extension=ts&play_token=lZ30ajGnMo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156606.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 8 480
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156606&extension=ts&play_token=WNjszwPdkA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156605.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS 9 480
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156605&extension=ts&play_token=IipHHBB6By
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156604.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS ENGLISH 1 480
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156604&extension=ts&play_token=UGL0fBrhay
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156603.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS ENGLISH 2 480
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156603&extension=ts&play_token=cRNjQkn2j8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1156602.png" group-title="☾★AR✤ BEIN SPORTS NX by GAMERDZ1517",BEIN SPORTS  AFC 480
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1156602&extension=ts&play_token=rbDdFedB0h
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/EL-REPLAY.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",##### CL REPLAY #####
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=804241&extension=ts&play_token=LbuMJ3NFKN
+#EXTINF:-1 tvg-logo="https://iili.io/60QD5N.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",CL REPLAY INFO UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=804240&extension=ts&play_token=VlnKQ6pVzy
+#EXTINF:-1 tvg-logo="https://iili.io/60QD5N.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",CL REPLAY 1 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=804238&extension=ts&play_token=OC1jVx8aWM
+#EXTINF:-1 tvg-logo="https://iili.io/60QD5N.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",CL REPLAY 2 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=804237&extension=ts&play_token=RSkQwmQ9XQ
+#EXTINF:-1 tvg-logo="https://iili.io/60QD5N.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",CL REPLAY 3 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=804236&extension=ts&play_token=rOM3Y3xieA
+#EXTINF:-1 tvg-logo="https://iili.io/60QD5N.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",CL REPLAY 4 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=804235&extension=ts&play_token=0tAB7WtaIz
+#EXTINF:-1 tvg-logo="https://iili.io/60QD5N.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",CL REPLAY 5 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=804234&extension=ts&play_token=7XsJBftADB
+#EXTINF:-1 tvg-logo="https://iili.io/60QD5N.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",CL REPLAY 6 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=804233&extension=ts&play_token=qVpAG8SXjJ
+#EXTINF:-1 tvg-logo="https://iili.io/60QD5N.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",CL REPLAY 7 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=804232&extension=ts&play_token=wxZC8XJhWd
+#EXTINF:-1 tvg-logo="https://iili.io/60QD5N.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",CL REPLAY 8 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=804231&extension=ts&play_token=Tg76cKYNaF
+#EXTINF:-1 tvg-logo="https://iili.io/60QD5N.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",CL REPLAY 9 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=804230&extension=ts&play_token=YxEjUu2EXr
+#EXTINF:-1 tvg-logo="https://iili.io/60QD5N.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",CL REPLAY 10 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=804229&extension=ts&play_token=iQwfvlgNUl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/EL-REPLAY.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",##### EL REPLAY #####
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=856255&extension=ts&play_token=AdqO1torTV
+#EXTINF:-1 tvg-logo="https://iili.io/60btGn.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",EL REPLAY INFO UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=856254&extension=ts&play_token=68Iklx9XZq
+#EXTINF:-1 tvg-logo="https://iili.io/60btGn.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",EL REPLAY 1 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=856252&extension=ts&play_token=0o5GzK7Ida
+#EXTINF:-1 tvg-logo="https://iili.io/60btGn.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",EL REPLAY 2 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=856251&extension=ts&play_token=YpELfALGH8
+#EXTINF:-1 tvg-logo="https://iili.io/60btGn.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",EL REPLAY 3 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=856250&extension=ts&play_token=O2S7kQhTwk
+#EXTINF:-1 tvg-logo="https://iili.io/60btGn.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",EL REPLAY 4 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=856249&extension=ts&play_token=1n03v5eo8a
+#EXTINF:-1 tvg-logo="https://iili.io/60btGn.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",EL REPLAY 5 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=856248&extension=ts&play_token=rq1hCMjcJ7
+#EXTINF:-1 tvg-logo="https://iili.io/60btGn.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",EL REPLAY 6 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=856247&extension=ts&play_token=wqipJnWQvD
+#EXTINF:-1 tvg-logo="https://iili.io/60btGn.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",EL REPLAY 7 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=856246&extension=ts&play_token=QDFjTAFPV7
+#EXTINF:-1 tvg-logo="https://iili.io/60btGn.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",EL REPLAY 8 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=856245&extension=ts&play_token=FdPeQFTLh5
+#EXTINF:-1 tvg-logo="https://iili.io/60btGn.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",EL REPLAY 9 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=856244&extension=ts&play_token=ZtwZVQiWG9
+#EXTINF:-1 tvg-logo="https://iili.io/60btGn.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",EL REPLAY 10 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=856243&extension=ts&play_token=h6jthMCu5S
+#EXTINF:-1 tvg-logo="https://iili.io/60btGn.md.png" group-title="☾★AR✤ BEIN REPLAY by GAMERDZ1517",EL REPLAY 11 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=856242&extension=ts&play_token=mhE7BAzZWI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/594520.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",##### BEIN SPORTS HEVC #####
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594520&extension=ts&play_token=RfimIct13e
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",TOD 360 ULTRA 4K ( EVENT ONLY )
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=973395&extension=ts&play_token=6mqp04YheT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1096850.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS AR 4K [EVENT]
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1096850&extension=ts&play_token=NFAVtqYOCU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/958682.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 1 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=958682&extension=ts&play_token=qEXnEkdAbH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/958683.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 2 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=958683&extension=ts&play_token=zPNFbAfTMW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/958684.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 3 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=958684&extension=ts&play_token=eKoRyja0Jn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/594516.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 1 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594516&extension=ts&play_token=AAhETaC5KJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/594515.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 2 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594515&extension=ts&play_token=cnDoP09pY7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/594514.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 3 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594514&extension=ts&play_token=6GZI2mVSX5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/594513.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 4 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594513&extension=ts&play_token=E0xIoR0jFI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/594512.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 5 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594512&extension=ts&play_token=FrlYN5CPVG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/594511.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 6 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594511&extension=ts&play_token=kz37OEwVHn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/594510.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 7 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594510&extension=ts&play_token=3wyPtg1ryo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/594518.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 8 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594518&extension=ts&play_token=RkBNEIjd8E
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/594517.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 9 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594517&extension=ts&play_token=2dGv2jo08y
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/863375.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 1 XTRA HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=863375&extension=ts&play_token=ML8vmo9DCw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/863374.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 2 XTRA HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=863374&extension=ts&play_token=LI2iNvidkV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/863373.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 3 XTRA HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=863373&extension=ts&play_token=QjeMbu4jJh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/594509.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 1 EN HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594509&extension=ts&play_token=NcrKewA8lE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/594508.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 2 EN HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594508&extension=ts&play_token=yn09TTHIve
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/550416.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",##### BEIN SPORTS ULTRA FHD #####
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=550416&extension=ts&play_token=g3ybYg1qNx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/550402.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS NEWS ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=550402&extension=ts&play_token=P2ZJ8iNA2a
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/550401.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS GLOBAL ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=550401&extension=ts&play_token=rYNM0X1DnC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/550412.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 1 ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=550412&extension=ts&play_token=95Bq4qQjuK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/550411.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 2 ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=550411&extension=ts&play_token=vB8QAFJXhq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/550410.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 3 ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=550410&extension=ts&play_token=MDkvy3XCmj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/550409.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 4 ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=550409&extension=ts&play_token=psRCJvkaEt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/550408.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 5 ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=550408&extension=ts&play_token=D44HuCBoXO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/550407.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 6 ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=550407&extension=ts&play_token=gD0eonOkTW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/550406.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 7 ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=550406&extension=ts&play_token=5DN42SjOK1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/550415.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 8 ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=550415&extension=ts&play_token=ifvpeLN1Xf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/550414.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 9 ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=550414&extension=ts&play_token=QIjmdBrFkG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/956025.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS XTRA 1 ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=956025&extension=ts&play_token=cj5EYGBWW7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/956026.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS XTRA 2 ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=956026&extension=ts&play_token=j6ekjwUjfz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/956024.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS XTRA 3 ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=956024&extension=ts&play_token=vBef6AldpT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/550405.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 1 EN ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=550405&extension=ts&play_token=ygi0QLuZHO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/550404.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 2 EN ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=550404&extension=ts&play_token=21X5g4Afix
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/550403.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 1 FR ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=550403&extension=ts&play_token=TRAal4o6Yi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/550413.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 2 FR ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=550413&extension=ts&play_token=hVSXwKRGll
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/956022.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 3 FR ULTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=956022&extension=ts&play_token=7frML3SfhT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653635.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",##### BEIN SPORTS 4K #####
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653635&extension=ts&play_token=w5EoeF43dR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653634.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS NEWS 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653634&extension=ts&play_token=CKHYZRmLVL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653633.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS GLOBAL 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653633&extension=ts&play_token=Xs2RUpv6wS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653626.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 1 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653626&extension=ts&play_token=Un2ejB3Kpl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653625.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 2 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653625&extension=ts&play_token=63pyt9feeQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653624.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 3 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653624&extension=ts&play_token=4STv0TDF6w
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653623.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 4 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653623&extension=ts&play_token=WNopVUPfLz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653622.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 5 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653622&extension=ts&play_token=b12J9tqjMu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653621.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 6 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653621&extension=ts&play_token=KRDrZfUFr0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653620.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 7 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653620&extension=ts&play_token=nwQYPRPbGm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653629.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 8 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653629&extension=ts&play_token=WFdwhcKM7P
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653628.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 9 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653628&extension=ts&play_token=yMZ5xGcw4D
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653619.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS XTRA 1 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653619&extension=ts&play_token=8of99UpUWC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653618.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS XTRA 2 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653618&extension=ts&play_token=GpfhqH5RB4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653627.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS XTRA 3 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653627&extension=ts&play_token=gDVJh6mJnP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1196253.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS XTRA 4 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1196253&extension=ts&play_token=ktgEvlxf0F
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1196252.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS XTRA 5 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1196252&extension=ts&play_token=Rl2liqUDZp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1196251.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS XTRA 6 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1196251&extension=ts&play_token=g4MAlDIB6B
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1196250.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS XTRA 7 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1196250&extension=ts&play_token=dM27t3SvYw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1196249.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS XTRA 8 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1196249&extension=ts&play_token=vN2sliR9Q6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1196248.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS XTRA 9 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1196248&extension=ts&play_token=1s2a83T6Eb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653617.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 1 EN 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653617&extension=ts&play_token=AomlmMNdff
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653616.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS 2 EN 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653616&extension=ts&play_token=iTZGXlEdGa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653614.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS FRENCH 1 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653614&extension=ts&play_token=v7V0i2MdpY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653613.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS FRENCH 2 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653613&extension=ts&play_token=DwDII8M51m
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/653615.png" group-title="☾★AR✤ BEIN SPORTS 4K by GAMERDZ1517",BEIN SPORTS FRENCH 3 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=653615&extension=ts&play_token=YEk6e81Y2G
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987846.png" group-title="☾★AR✤ BEIN SPORTS ᵁᴴᴰ by GAMERDZ1517",##### BEIN SPORTS ᵁᴴᴰ #####
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=987846&extension=ts&play_token=nHTMaEbuzu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987845.png" group-title="☾★AR✤ BEIN SPORTS ᵁᴴᴰ by GAMERDZ1517",✤AR☾★ BEIN SPORTS 1 ᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=987845&extension=ts&play_token=U6tMozOaRa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987844.png" group-title="☾★AR✤ BEIN SPORTS ᵁᴴᴰ by GAMERDZ1517",✤AR☾★ BEIN SPORTS 2 ᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=987844&extension=ts&play_token=aQMDldTLqP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987843.png" group-title="☾★AR✤ BEIN SPORTS ᵁᴴᴰ by GAMERDZ1517",✤AR☾★ BEIN SPORTS 3 ᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=987843&extension=ts&play_token=uT3HC6fO0S
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987842.png" group-title="☾★AR✤ BEIN SPORTS ᵁᴴᴰ by GAMERDZ1517",✤AR☾★ BEIN SPORTS 4 ᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=987842&extension=ts&play_token=QWUUGasBqm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987841.png" group-title="☾★AR✤ BEIN SPORTS ᵁᴴᴰ by GAMERDZ1517",✤AR☾★ BEIN SPORTS 5 ᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=987841&extension=ts&play_token=Ui7ICldFBq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987840.png" group-title="☾★AR✤ BEIN SPORTS ᵁᴴᴰ by GAMERDZ1517",✤AR☾★ BEIN SPORTS 6 ᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=987840&extension=ts&play_token=5IMSMQfW5H
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987839.png" group-title="☾★AR✤ BEIN SPORTS ᵁᴴᴰ by GAMERDZ1517",✤AR☾★ BEIN SPORTS 7 ᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=987839&extension=ts&play_token=fpzex9D6RU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987838.png" group-title="☾★AR✤ BEIN SPORTS ᵁᴴᴰ by GAMERDZ1517",✤AR☾★ BEIN SPORTS 8 ᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=987838&extension=ts&play_token=ZQ2ViqxTGJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987837.png" group-title="☾★AR✤ BEIN SPORTS ᵁᴴᴰ by GAMERDZ1517",✤AR☾★ BEIN SPORTS 9 ᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=987837&extension=ts&play_token=Zk5skF8JDA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987836.png" group-title="☾★AR✤ BEIN SPORTS ᵁᴴᴰ by GAMERDZ1517",✤AR☾★ BEIN SPORTS XTRA 1 ᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=987836&extension=ts&play_token=nO0FwBUK3T
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987835.png" group-title="☾★AR✤ BEIN SPORTS ᵁᴴᴰ by GAMERDZ1517",✤AR☾★ BEIN SPORTS XTRA 2 ᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=987835&extension=ts&play_token=cOgRdOvmwb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987834.png" group-title="☾★AR✤ BEIN SPORTS ᵁᴴᴰ by GAMERDZ1517",✤AR☾★ BEIN SPORTS XTRA 3 ᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=987834&extension=ts&play_token=Si2i3WlZxB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987833.png" group-title="☾★AR✤ BEIN SPORTS ᵁᴴᴰ by GAMERDZ1517",✤AR☾★ BEIN SPORTS AFC ᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=987833&extension=ts&play_token=SokuDACUdb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987832.png" group-title="☾★AR✤ BEIN SPORTS ᵁᴴᴰ by GAMERDZ1517",✤AR☾★ BEIN SPORTS 1 AFC ᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=987832&extension=ts&play_token=vtQ4H7farJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/987831.png" group-title="☾★AR✤ BEIN SPORTS ᵁᴴᴰ by GAMERDZ1517",✤AR☾★ BEIN SPORTS 2 AFC ᵁᴴᴰ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=987831&extension=ts&play_token=353CVBadYD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971291.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",##### BEIN SPORTS LQ #####
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971291&extension=ts&play_token=8Vq4eJHaHu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971292.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS NEWS LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971292&extension=ts&play_token=GMTViPyad2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971293.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS GLOBAL LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971293&extension=ts&play_token=hC7FcuU3Zq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971294.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 1 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971294&extension=ts&play_token=2OQ7vyKv8i
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971295.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 2 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971295&extension=ts&play_token=aiim5Oqw0J
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971296.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 3 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971296&extension=ts&play_token=XBFxsE40wd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971297.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 4 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971297&extension=ts&play_token=X6AGUHZX45
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971298.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 5 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971298&extension=ts&play_token=1pHyqX2oTD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971299.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 6 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971299&extension=ts&play_token=QRzWoHriJb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971300.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 7 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971300&extension=ts&play_token=D4I2xx9sfo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971301.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 8 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971301&extension=ts&play_token=DiimV5JucC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971302.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 9 LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971302&extension=ts&play_token=ht47FwAc3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971303.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 1 XTRA LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971303&extension=ts&play_token=wHEOE6sxKC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971304.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 2 XTRA LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971304&extension=ts&play_token=m06oxo8j9D
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971305.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 3 XTRA LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971305&extension=ts&play_token=uO2P4GgNCq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971290.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS NBA HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971290&extension=ts&play_token=FtsDi2buHf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971289.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 3 FRANCE HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971289&extension=ts&play_token=r2IAeaUPsA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971288.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 2 FRANCE HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971288&extension=ts&play_token=OIcqVEF7Rm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971287.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 1 FRANCE HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971287&extension=ts&play_token=MLCjv6QkRx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971286.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 2 ENGLISH HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971286&extension=ts&play_token=jDrpOfHvnI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971285.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 1 ENGLISH HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971285&extension=ts&play_token=gXS0hzDA6B
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971270.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",##### BEIN SPORTS HD #####
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971270&extension=ts&play_token=SzNgl6oij7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971271.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS NEWS HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971271&extension=ts&play_token=fT7vTwvjiT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971272.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS GLOBAL HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971272&extension=ts&play_token=a0U9TAbzKt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971273.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 1 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971273&extension=ts&play_token=I55yYWgElA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971274.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 2 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971274&extension=ts&play_token=JpKdUNcAac
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971275.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 3 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971275&extension=ts&play_token=GGK91AUfWO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971276.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 4 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971276&extension=ts&play_token=L7j528UWbp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971277.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 5 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971277&extension=ts&play_token=PF5rqy42rc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971278.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 6 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971278&extension=ts&play_token=oYBSRfGvIJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971279.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 7 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971279&extension=ts&play_token=4qh3vacVAk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971280.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 8 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971280&extension=ts&play_token=lfdbnLpdJS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971281.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 9 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971281&extension=ts&play_token=GaSpjKjMaZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971282.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 1 XTRA HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971282&extension=ts&play_token=S2X7cda4IX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971283.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 2 XTRA HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971283&extension=ts&play_token=cvRDqtFYYO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971284.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 3 XTRA HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971284&extension=ts&play_token=JKHMHO5FTf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971255.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",##### BEIN SPORTS HEVC #####
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971255&extension=ts&play_token=biu6GgUJyx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971256.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 1 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971256&extension=ts&play_token=cix1NPQ2Zu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971257.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 2 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971257&extension=ts&play_token=4Pclk6nJyO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971258.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 3 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971258&extension=ts&play_token=aNo4jLFqBM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971259.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 4 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971259&extension=ts&play_token=jt1OB0Rv5W
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971260.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 5 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971260&extension=ts&play_token=KxA7Ficef8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971261.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 6 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971261&extension=ts&play_token=klRVsxkfLU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971262.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 7 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971262&extension=ts&play_token=rsWrngOI7E
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971263.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 8 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971263&extension=ts&play_token=T4XWngWVZf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971264.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 9 HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971264&extension=ts&play_token=dKHa4wuYTN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971265.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 1 XTRA HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971265&extension=ts&play_token=BCpBY7nzv4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971266.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 2 XTRA HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971266&extension=ts&play_token=iiHjQNsmYX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971267.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 3 XTRA HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971267&extension=ts&play_token=RlBbPwjK0E
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971268.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 1 ENGLISH HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971268&extension=ts&play_token=jc5jUJEdtq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971269.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 2 ENGLISH HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971269&extension=ts&play_token=TqpAFT9Gco
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971231.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",##### BEIN SPORTS FHD #####
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971231&extension=ts&play_token=olj8cGaZZt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971232.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 1 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971232&extension=ts&play_token=7jLHeeyENC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971233.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 2 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971233&extension=ts&play_token=tOeNqdA0O8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971234.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 3 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971234&extension=ts&play_token=iyhUbzT5GV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971235.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS NEWS FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971235&extension=ts&play_token=WOpgUzSeAY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971237.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS GLOBAL FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971236&extension=ts&play_token=DfW55eQPAN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971237.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 1 FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971237&extension=ts&play_token=M7bMqy6k75
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971238.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 2 FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971238&extension=ts&play_token=lfu43Tc7lF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971239.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 3 FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971239&extension=ts&play_token=ye1WJoVV2L
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971240.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 4 FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971240&extension=ts&play_token=5XCobCcqdl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971241.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 5 FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971241&extension=ts&play_token=8FvpDflipV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971242.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 6 FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971242&extension=ts&play_token=pubQW3gfIJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971243.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★  BEIN  SPORTS 7 FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971243&extension=ts&play_token=vZ8ttfJJZQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971244.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★  BEIN  SPORTS 8 FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971244&extension=ts&play_token=XGUve9g5XW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971245.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★  BEIN  SPORTS 9 FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971245&extension=ts&play_token=Nq2Ehxe0wl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971246.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 1 XSTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971246&extension=ts&play_token=eVfMeBdGjT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971247.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 2 XSTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971247&extension=ts&play_token=IbzDYq68n7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971248.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 3 XSTRA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971248&extension=ts&play_token=BZ7bztcCOA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971249.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 1 ENGLISH FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971249&extension=ts&play_token=H77nzWQRQv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971250.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 2 ENGLISH FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971250&extension=ts&play_token=KKwd6Wggb0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971251.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 1 FRANCE FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971251&extension=ts&play_token=g4xrhB2Pyq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971252.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 2 FRANCE FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971252&extension=ts&play_token=xsssuLtjcj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971253.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS 3 FRANCE FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971253&extension=ts&play_token=pd9te0tPyO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/971254.png" group-title="☾★AR✤ BEIN SPORTS (UK) by GAMERDZ1517",✤AR☾★ BEIN SPORTS NBA FHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=971254&extension=ts&play_token=wZNADVvUKV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/924858.png" group-title="☾★AR✤ ARABIC FULL SD by GAMERDZ1517",✤AR☾★ ZEE ALWAN LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=924858&extension=ts&play_token=gErAYobbMW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/924606.png" group-title="☾★AR✤ SPORT FULL SD by GAMERDZ1517",✤AR☾★ BEIN SPORTS NEWS LQ
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=924606&extension=ts&play_token=9xNWwSzBWw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 1 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1341000&extension=ts&play_token=mAG9AVUEu4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 2 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340999&extension=ts&play_token=97KFKCjMwz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 3 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340998&extension=ts&play_token=ZSGBda5ffU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 4 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340997&extension=ts&play_token=fvD0Kbr1ja
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 5 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340996&extension=ts&play_token=BURLBcwvcu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 6 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340995&extension=ts&play_token=oz574Zz1vn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 1 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340994&extension=ts&play_token=sjdpBMdsvU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 2 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340993&extension=ts&play_token=lXi4RmZu7D
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 3 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340992&extension=ts&play_token=AWMNBRHqy1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 4 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340991&extension=ts&play_token=EFmATdrWDG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 5 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340990&extension=ts&play_token=WxisthPyDl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 6 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340989&extension=ts&play_token=qLQH88XDKT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 1 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340988&extension=ts&play_token=YjVgxqfZTL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 2 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340987&extension=ts&play_token=4zxW1VynCx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 3 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340986&extension=ts&play_token=p0WNItHAj9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 4 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340985&extension=ts&play_token=CQofdaZZfL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 5 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340984&extension=ts&play_token=qOo1D5fIAZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="☾★AR✤ ALWAN SPORT by GAMERDZ1517",✤AR☾★ ALWAN SPORT 6 SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1340983&extension=ts&play_token=HLINZKO24i
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/862854.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",##### BEIN ENTERTAINMENT #####
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862854&extension=ts&play_token=c6Ci3Jl0Ky
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/862853.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN MOVIES PREMIERE 1 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862853&extension=ts&play_token=5Ky6xTWcFJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/862852.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN MOVIES ACTION 2 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862852&extension=ts&play_token=HFZrp7GUq5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/862851.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN MOVIES DRAMA 3 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862851&extension=ts&play_token=Xyr8kIAAe9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/862850.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN MOVIES FAMILY 4 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862850&extension=ts&play_token=lszespkpMH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/862849.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN SERIES 1 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862849&extension=ts&play_token=a2BWvLMiMj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/862848.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN SERIES 2 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862848&extension=ts&play_token=0afWhtz4rx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/862847.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN DRAMA HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862847&extension=ts&play_token=YlaL283oU4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/862846.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN FOOD NETWORK HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862846&extension=ts&play_token=KyW5CZHZDL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/862845.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN GOURMET HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862845&extension=ts&play_token=tkOig4nKF0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/862844.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN FATAFEAT HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862844&extension=ts&play_token=kCjMs0ZOjN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/862841.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN FOX MOVIES HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862841&extension=ts&play_token=sM3Ka4hEdM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/862840.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN FOX ACTION HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862840&extension=ts&play_token=2GQDiMRyrA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/862838.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN STAR WORLD HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862838&extension=ts&play_token=IJMgH0a4PN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/862837.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN BBC EARTH HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862837&extension=ts&play_token=RkhDELuUB7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/862836.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN TRAVEL HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862836&extension=ts&play_token=qkobCYegzr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/862835.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN ANIMAL PLANET HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862835&extension=ts&play_token=6TtgqRrpBT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/862834.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN NATIONAL GEO HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862834&extension=ts&play_token=j0679RwjaQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/862833.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN NATIONAL GEO WILD HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862833&extension=ts&play_token=00fxNdbfnA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/862832.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN HGTV HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862832&extension=ts&play_token=XPgnmPkrLn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/862831.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN BABY TV HD AR
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862831&extension=ts&play_token=fNqnd60KCx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/862830.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN JEEM KIDS HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862830&extension=ts&play_token=qh6oEzTC6d
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/862829.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN BARAEM KIDS
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862829&extension=ts&play_token=hK7NBxzOei
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/862826.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN BOOMERANG HD AR
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862826&extension=ts&play_token=59WKFZPG5n
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/862824.png" group-title="☾★AR✤ BEIN ENTERTAINMENT by GAMERDZ1517",BEIN CARTOON NETWORK HD AR
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=862824&extension=ts&play_token=gYp965Ohtg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",##### ✤AR☾★ BEIN OD #####
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594506&extension=ts&play_token=GReCBqvZWk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN OD 1 MOVIES UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594505&extension=ts&play_token=4PhlDlaZgL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN OD 2 MOVIES UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594504&extension=ts&play_token=o6smCCUITY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN OD 3 MOVIES UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594503&extension=ts&play_token=5z7NtD8beh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN OD 4 MOVIES UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594502&extension=ts&play_token=y5frhfPjno
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN OD 5 MOVIES UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594501&extension=ts&play_token=fOGerdtALC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN OD 6 MOVIES UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594500&extension=ts&play_token=hzIUWrl1Nk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN OD 7 MOVIES UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594499&extension=ts&play_token=vgypRDy3Ed
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN OD 8 MOVIES UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594498&extension=ts&play_token=ekHqNdA0FF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN OD 2023 1 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1030184&extension=ts&play_token=o4Agd0yija
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN OD 2023 2 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1060628&extension=ts&play_token=KutqZSxHpT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN OD 2023 3 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1060627&extension=ts&play_token=bA5KQ2kGsy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN OD 2023 4 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1060626&extension=ts&play_token=ff4b7rCQPE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN OD 1 KIDS UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594497&extension=ts&play_token=teXaaNw8FY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN OD 2 KIDS UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594496&extension=ts&play_token=6jrnIexqNA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/BEINOD.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN OD 3 KIDS UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594495&extension=ts&play_token=WYpuQWKZr9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/594494.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN BARAM UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594494&extension=ts&play_token=DSHfL4Q2Eu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/594493.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN BARAM HEVC
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594493&extension=ts&play_token=2xwWWjIYf2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/594492.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN BARAM HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594492&extension=ts&play_token=Q8k98No1Sy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/594491.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN BARAM SD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594491&extension=ts&play_token=ZKLk77vOv9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/594489.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN BOX OFFICE 1 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594489&extension=ts&play_token=po6ozE9Y8F
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/594488.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN BOX OFFICE 1 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594488&extension=ts&play_token=KNQO35SVPq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/594486.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN BOX OFFICE 2 UHD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594486&extension=ts&play_token=1G4ErNRdIv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/594485.png" group-title="☾★AR✤ BEIN PREMIUM PLAY by GAMERDZ1517",✤AR☾★ BEIN BOX OFFICE 2 HD
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=594485&extension=ts&play_token=lcCE6j9S0F
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/457171.png" group-title="☾★AR✤ ROTANA | ART by GAMERDZ1517",✤AR☾★ ZEE ALWAN
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=457171&extension=ts&play_token=q6agXDjvdR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png" group-title="☾★AR✤ ALWAN by GAMERDZ1517",✤AR☾★ ALWAN TURKEY 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1388728&extension=ts&play_token=qzUqPgX8Rq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png" group-title="☾★AR✤ ALWAN by GAMERDZ1517",✤AR☾★  ALWAN MOSALSALAT 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1388727&extension=ts&play_token=UvYfSXbtMg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png" group-title="☾★AR✤ ALWAN by GAMERDZ1517",✤AR☾★ ALWAN ATFAL 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1388726&extension=ts&play_token=uzliimRPRB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png" group-title="☾★AR✤ ALWAN by GAMERDZ1517",✤AR☾★ ALWAN ALWATHAEQYE 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1388725&extension=ts&play_token=QU4cQ4WEPz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png" group-title="☾★AR✤ ALWAN by GAMERDZ1517",✤AR☾★ ALWAN AFLAM 2 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1388724&extension=ts&play_token=JDF42XbzoV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png" group-title="☾★AR✤ ALWAN by GAMERDZ1517",✤AR☾★ ALWAN AFLAM 1 4K
+#EXTVLCOPT:network-caching=3000
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:72:71:D4&stream=1388723&extension=ts&play_token=uoj3Oxn1bf
