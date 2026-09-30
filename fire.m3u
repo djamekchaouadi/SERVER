@@ -1,0 +1,1549 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/845453.png" group-title="*FR* FRANCE HEVC",##### GENERAL #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=845453&extension=ts&play_token=sbEIxLmEwj
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/845452.png" group-title="*FR* FRANCE HEVC",TF1 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=845452&extension=ts&play_token=Nu7fpWvVi5
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/1161549.png" group-title="*FR* FRANCE HEVC",TF1+ STAR ACADEMY HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1161549&extension=ts&play_token=14dAgYS1e1
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/845449.png" group-title="*FR* FRANCE HEVC",FRANCE 3 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=845449&extension=ts&play_token=H2EqdVMAL7
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/845447.png" group-title="*FR* FRANCE HEVC",FRANCE 4 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=845447&extension=ts&play_token=HChp6O0TXT
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/845445.png" group-title="*FR* FRANCE HEVC",M6 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=845445&extension=ts&play_token=DQlRW9CAHC
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/845444.png" group-title="*FR* FRANCE HEVC",C8 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=845444&extension=ts&play_token=GueyIBNQaS
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/845443.png" group-title="*FR* FRANCE HEVC",W9 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=845443&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/845442.png" group-title="*FR* FRANCE HEVC",6TER HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=845442&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/845441.png" group-title="*FR* FRANCE HEVC",TF1 FILMS & SÉRIES HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=845441&extension=ts&play_token=YfOuGfxw6m
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/845440.png" group-title="*FR* FRANCE HEVC",TMC HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=845440&extension=ts&play_token=VbEwDXVVgI
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/845439.png" group-title="*FR* FRANCE HEVC",TMC +1 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=845439&extension=ts&play_token=UzLO8ywNlk
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="*FR* FRANCE GÉNÉRAL",##### GENERAL HIGHT QUALITY FHD #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543281&extension=ts&play_token=PNA7qhCOQk
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553959.png" group-title="*FR* FRANCE GÉNÉRAL",TF1 FHD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=553959&extension=ts&play_token=pWlJBWg0za
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/1161548.png" group-title="*FR* FRANCE GÉNÉRAL",TF1+ STAR ACADEMY FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1161548&extension=ts&play_token=ca41BKm3YS
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553960.png" group-title="*FR* FRANCE GÉNÉRAL",FRANCE 2 FHD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=553960&extension=ts&play_token=UsIK9fplDc
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553961.png" group-title="*FR* FRANCE GÉNÉRAL",FRANCE 3 FHD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=553961&extension=ts&play_token=NjpyJwn2jn
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553962.png" group-title="*FR* FRANCE GÉNÉRAL",FRANCE 4 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=553962&extension=ts&play_token=K9HsGZ7T12
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553964.png" group-title="*FR* FRANCE GÉNÉRAL",M6 FHD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=553964&extension=ts&play_token=43KRWvXPpC
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553967.png" group-title="*FR* FRANCE GÉNÉRAL",C8 FHD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=553967&extension=ts&play_token=N8UUkqXD8g
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553968.png" group-title="*FR* FRANCE GÉNÉRAL",6TER FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=553968&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553969.png" group-title="*FR* FRANCE GÉNÉRAL",TF1 SERIES FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=553969&extension=ts&play_token=YGFU9CsxXU
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553979.png" group-title="*FR* FRANCE GÉNÉRAL",CHERIE 25 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=553979&extension=ts&play_token=K0jpUmFcHE
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553966.png" group-title="*FR* FRANCE GÉNÉRAL",W9 FHD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=553966&extension=ts&play_token=iy2NosLeBx
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="*FR* FRANCE SPORTS",##### FR SPORTS FHD #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=627493&extension=ts&play_token=4ommkjKgec
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/1338925.png" group-title="*FR* FRANCE SPORTS",CANAL+ CAN HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1338925&extension=ts&play_token=W4AfMdCCqn
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/770798.png" group-title="*FR* FRANCE SPORTS",CANAL+ FOOT HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=770798&extension=ts&play_token=8Ie6Y9qNMu
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/807391.png" group-title="*FR* FRANCE SPORTS",CANAL+ SPORT 360 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=807391&extension=ts&play_token=HL6uqOWfhy
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554024.png" group-title="*FR* FRANCE SPORTS",RMC SPORT 1 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554024&extension=ts&play_token=GPKh9b04E4
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554025.png" group-title="*FR* FRANCE SPORTS",RMC SPORT 2 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554025&extension=ts&play_token=nuTuXIXW72
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543390.png" group-title="*FR* FRANCE SPORTS",RMC SPORT 3 LIVE FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543390&extension=ts&play_token=ZfBAvCcJob
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/RMC-SPORT-LIVE.png" group-title="*FR* FRANCE SPORTS",RMC SPORT LIVE 5 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543430&extension=ts&play_token=yEZELu5dqO
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543431.png" group-title="*FR* FRANCE SPORTS",RMC SPORT LIVE 6 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543431&extension=ts&play_token=g168k0rNgJ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543432.png" group-title="*FR* FRANCE SPORTS",RMC SPORT LIVE 7 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543432&extension=ts&play_token=p8UZs1JsJo
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/ligue1.png" group-title="*FR* LIGUE 1+",##### LIGUE 1+ #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1143641&extension=ts&play_token=04pbvbqO48
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/ligue1.png" group-title="*FR* LIGUE 1+",LIGUE1 + 1
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1143640&extension=ts&play_token=Q8FNNn3Cs9
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/ligue1.png" group-title="*FR* LIGUE 1+",LIGUE1 + 2
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1143639&extension=ts&play_token=S8OzCK9Mq4
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/ligue1.png" group-title="*FR* LIGUE 1+",LIGUE1 + 3
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1143638&extension=ts&play_token=6lVLikQAqP
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/ligue1.png" group-title="*FR* LIGUE 1+",LIGUE1 + 4
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1143637&extension=ts&play_token=7aOMiV6Y8F
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/ligue1.png" group-title="*FR* LIGUE 1+",LIGUE1 + 5
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1143636&extension=ts&play_token=RHWN4smxd4
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/ligue1.png" group-title="*FR* LIGUE 1+",LIGUE1 + 6
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1143635&extension=ts&play_token=VrS6Xfualw
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/ligue1.png" group-title="*FR* LIGUE 1+",LIGUE1 + 7
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1143634&extension=ts&play_token=azr58J2wCE
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/ligue1.png" group-title="*FR* LIGUE 1+",LIGUE1 + 8
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1143633&extension=ts&play_token=U0WFfyDh2e
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/ligue1.png" group-title="*FR* LIGUE 1+",LIGUE1 + 9
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1143632&extension=ts&play_token=ushA7S8Oey
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/ligue1.png" group-title="*FR* LIGUE 1+",LIGUE1 + 10
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1143631&extension=ts&play_token=qmvJOviczx
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="*FR* FRANCE ENFANTS",##### FRANCE KIDS FHD #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=756670&extension=ts&play_token=5hsHuQYk8x
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629728.png" group-title="*FR* FRANCE ENFANTS",WARNER TV NEXT FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=629728&extension=ts&play_token=gAVYPS7Zjf
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629712.png" group-title="*FR* FRANCE ENFANTS",DISNEY CHANNEL +1 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=629712&extension=ts&play_token=orBCRnCm4l
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553983.png" group-title="*FR* FRANCE ENFANTS",DISNEY CHANNEL FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=553983&extension=ts&play_token=7GgKIz92sS
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629713.png" group-title="*FR* FRANCE ENFANTS",DISNEY JUNIOR FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=629713&extension=ts&play_token=6AJFrAnFXB
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553987.png" group-title="*FR* FRANCE ENFANTS",NICKELODEON FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=553987&extension=ts&play_token=kh3to99gZo
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629715.png" group-title="*FR* FRANCE ENFANTS",NICKELODEON JUNIOR FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=629715&extension=ts&play_token=qGNsM9tMyl
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629716.png" group-title="*FR* FRANCE ENFANTS",NICKELODEON 4 TEEN FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=629716&extension=ts&play_token=2wmegAjmbT
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629726.png" group-title="*FR* FRANCE ENFANTS",BOOMERANG FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=629726&extension=ts&play_token=sq1XKRejXF
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629725.png" group-title="*FR* FRANCE ENFANTS",BOING FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=629725&extension=ts&play_token=cbGexBucuj
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629711.png" group-title="*FR* FRANCE ENFANTS",CANAL+ KIDS FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=629711&extension=ts&play_token=Ben7C1VAju
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553985.png" group-title="*FR* FRANCE ENFANTS",CANAL J FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=553985&extension=ts&play_token=K02YfSufMY
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629729.png" group-title="*FR* FRANCE ENFANTS",CARTOON NETWORK FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=629729&extension=ts&play_token=IvlCde7CcF
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="*FR* FRANCE INFO",##### NEWS HIGHT QUALITY FHD #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543283&extension=ts&play_token=gxfcKWvPP5
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543235.png" group-title="*FR* FRANCE INFO",BFM BUSINESS FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543235&extension=ts&play_token=D3RVEydAX2
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543239.png" group-title="*FR* FRANCE INFO",BFM LYON FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543239&extension=ts&play_token=AY9w1Voh1k
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543237.png" group-title="*FR* FRANCE INFO",BFM PARIS FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543237&extension=ts&play_token=DQljbnAU8h
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543231.png" group-title="*FR* FRANCE INFO",C NEWS FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543231&extension=ts&play_token=qLQ4rcIUOz
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543251.png" group-title="*FR* FRANCE INFO",EURONEWS FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543251&extension=ts&play_token=ECxCkD3m0Z
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543233.png" group-title="*FR* FRANCE INFO",FRANCE INFO FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543233&extension=ts&play_token=cAyfgN1h7Y
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543245.png" group-title="*FR* FRANCE INFO",FRANCE24 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=543245&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543248.png" group-title="*FR* FRANCE INFO",I24 NEWS FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543248&extension=ts&play_token=MkF59qtMJn
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543227.png" group-title="*FR* FRANCE INFO",LA CHAINE METEO FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543227&extension=ts&play_token=qor0K4GQCn
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543241.png" group-title="*FR* FRANCE INFO",LCI FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543241&extension=ts&play_token=0BfS74xLn0
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553995.png" group-title="*FR* FRANCE INFO",LCP FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=553995&extension=ts&play_token=oQyMc1mRQ4
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/1292224.png" group-title="*FR* FRANCE INFO",TLC INFO FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1292224&extension=ts&play_token=g2dl2iQgvc
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="*FR* FRANCE CINEMA",##### CINEMA HIGHT QUALITY FHD #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543588&extension=ts&play_token=xRDwJkLUX0
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554001.png" group-title="*FR* FRANCE CINEMA",CANAL+ FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554001&extension=ts&play_token=JCdNuFaV51
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554002.png" group-title="*FR* FRANCE CINEMA",CANAL+ CINEMA FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554002&extension=ts&play_token=6TSjUBTqf3
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/960977.png" group-title="*FR* FRANCE CINEMA",CANAL+ BOX OFFICE FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=960977&extension=ts&play_token=Vt7l4LYlz8
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554004.png" group-title="*FR* FRANCE CINEMA",CANAL+ FAMILY FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554004&extension=ts&play_token=VOSJtfYX0s
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554009.png" group-title="*FR* FRANCE CINEMA",CINE+ FRISSON FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554009&extension=ts&play_token=hRcUtErNYH
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554007.png" group-title="*FR* FRANCE CINEMA",OCS FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554007&extension=ts&play_token=96Ksk4f5Bs
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629709.png" group-title="*FR* FRANCE CINEMA",CINE+ CLASSIC FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=629709&extension=ts&play_token=HTdNop9uCx
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554008.png" group-title="*FR* FRANCE CINEMA",CINE+ FESTIVAL FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554008&extension=ts&play_token=5f1lmb3y2i
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554006.png" group-title="*FR* FRANCE CINEMA",CINE+ EMOTION FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554006&extension=ts&play_token=YcNSkztINj
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629710.png" group-title="*FR* FRANCE CINEMA",OCS GEANTS FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=629710&extension=ts&play_token=OcwubDdol5
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554011.png" group-title="*FR* FRANCE CINEMA",OCS MAX FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554011&extension=ts&play_token=3IoLAfhNwB
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/553974.png" group-title="*FR* FRANCE CINEMA",ACTION FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=553974&extension=ts&play_token=vGr8lu0qN7
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="*FR* FRANCE DOCUMENTAIRE",##### FRANCE DOCUMENTAIRE FHD #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=756672&extension=ts&play_token=LCUwQX7cUm
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554034.png" group-title="*FR* FRANCE DOCUMENTAIRE",DISCOVERY CHANNEL FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554034&extension=ts&play_token=LsnYKn9gkc
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554032.png" group-title="*FR* FRANCE DOCUMENTAIRE",DISCOVERY ID FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554032&extension=ts&play_token=ef81wTL5aA
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554035.png" group-title="*FR* FRANCE DOCUMENTAIRE",TLC FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554035&extension=ts&play_token=se5XwI5dCs
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554029.png" group-title="*FR* FRANCE DOCUMENTAIRE",NATIONAL GEO FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554029&extension=ts&play_token=IvT7LRY5d0
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629706.png" group-title="*FR* FRANCE DOCUMENTAIRE",NAT GEO WILD FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=629706&extension=ts&play_token=wJQfGama7h
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554044.png" group-title="*FR* FRANCE DOCUMENTAIRE",PLANETE + FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554044&extension=ts&play_token=VeDLNFzAYm
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554042.png" group-title="*FR* FRANCE DOCUMENTAIRE",PLANETE AE FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554042&extension=ts&play_token=eIVy5Ju6HR
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554043.png" group-title="*FR* FRANCE DOCUMENTAIRE",PLANETE CI FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554043&extension=ts&play_token=h7GDhp1jpv
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554037.png" group-title="*FR* FRANCE DOCUMENTAIRE",HISTOIRE FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554037&extension=ts&play_token=VrjlOqlqvf
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554038.png" group-title="*FR* FRANCE DOCUMENTAIRE",TOUTE L'HISTOIRE FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554038&extension=ts&play_token=IeiP20aNac
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/554028.png" group-title="*FR* FRANCE DOCUMENTAIRE",RMC STORY FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=554028&extension=ts&play_token=V50oKY8rDL
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629699.png" group-title="*FR* FRANCE DOCUMENTAIRE",RMC DECOUVERTE FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=629699&extension=ts&play_token=nK8ALaQlNS
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629700.png" group-title="*FR* FRANCE DOCUMENTAIRE",CANAL+ DOCS FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=629700&extension=ts&play_token=3IWlHTKJdo
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="*FR* FRANCE MUSIQUE",##### FR MUSIQUE SD #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543284&extension=ts&play_token=EJZzdJ6K4n
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543226.png" group-title="*FR* FRANCE MUSIQUE",MTV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543226&extension=ts&play_token=I3gwaxHpXT
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543266.png" group-title="*FR* FRANCE MUSIQUE",MCM
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543266&extension=ts&play_token=OCuKALcLqt
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543274.png" group-title="*FR* FRANCE MUSIQUE",MTV HITS
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543274&extension=ts&play_token=8M5u10EOmr
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/629862.png" group-title="*FR* FRANCE MUSIQUE",MTV BASE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=629862&extension=ts&play_token=Q37fHGwoIn
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543262.png" group-title="*FR* FRANCE MUSIQUE",M6 MUSIC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543262&extension=ts&play_token=G80pCnCGLB
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543276.png" group-title="*FR* FRANCE MUSIQUE",MEZZO LIVE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543276&extension=ts&play_token=QHBnt048xT
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543579.png" group-title="*FR* FRANCE MUSIQUE",B SMART
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543579&extension=ts&play_token=hKAFda9qhg
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543169.png" group-title="*FR* FRANCE MUSIQUE",NRJ 12
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543169&extension=ts&play_token=uRf7iifAjp
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543268.png" group-title="*FR* FRANCE MUSIQUE",MELODY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543268&extension=ts&play_token=aPwTH2xxud
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543278.png" group-title="*FR* FRANCE MUSIQUE",BRAVA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543278&extension=ts&play_token=wlRWIlz0Ho
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/543280.png" group-title="*FR* FRANCE MUSIQUE",DJAZZ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=543280&extension=ts&play_token=GjWdlQo6fW
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="*FR* LE MEILLEUR DES FILMS",##### FRANCE CINE PRIME #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=653444&extension=ts&play_token=nHRplOU4Iv
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/656386.png" group-title="*FR* LE MEILLEUR DES FILMS",BEST DISNEY SERIES 2021
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=656386&extension=ts&play_token=6TtffaP7ZQ
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/2/Penguins-of-Madagascar-PNG-Free-Download.png" group-title="*FR* LE MEILLEUR DES FILMS",THE PENGUINS OF MADAGASCAR
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=653445&extension=ts&play_token=RUBstGfgCr
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/653447.png" group-title="*FR* LE MEILLEUR DES FILMS",BEIN ANIME 1 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=653447&extension=ts&play_token=TtDyFt9NKo
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/653446.png" group-title="*FR* LE MEILLEUR DES FILMS",BEIN ANIME 2 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=653446&extension=ts&play_token=zqpfNugr0T
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/653448.png" group-title="*FR* LE MEILLEUR DES FILMS",BEIN ACTION 1 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=653448&extension=ts&play_token=2DZwKY4YDO
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/653449.png" group-title="*FR* LE MEILLEUR DES FILMS",BEIN ACTION 2 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=653449&extension=ts&play_token=uPcVMJtgmG
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/653441.png" group-title="*FR* LE MEILLEUR DES FILMS",APPLE TV FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=653441&extension=ts&play_token=jbnU4QtRxJ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/548790.png" group-title="*FR* LE MEILLEUR DES FILMS",A LA CARTE 3 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=548790&extension=ts&play_token=M5gHVwgILr
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/548789.png" group-title="*FR* LE MEILLEUR DES FILMS",A LA CARTE 5 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=548789&extension=ts&play_token=oOQLuaFgrr
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/548786.png" group-title="*FR* LE MEILLEUR DES FILMS",A LA CARTE 8 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=548786&extension=ts&play_token=3PvcaRRUvp
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/548785.png" group-title="*FR* LE MEILLEUR DES FILMS",A LA CARTE 9 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=548785&extension=ts&play_token=XDFFi2B2h0
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/france/548784.png" group-title="*FR* LE MEILLEUR DES FILMS",A LA CARTE 10 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=548784&extension=ts&play_token=fDWuKBYvot
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="*FR* FRANCE NETFLIX 24/7",NETFLIX ACTION
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1411332&extension=ts&play_token=W8vIQE4Fjq
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="*FR* FRANCE NETFLIX 24/7",NETFLIX ADVENTURE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1411331&extension=ts&play_token=mHBfYKM1eJ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="*FR* FRANCE NETFLIX 24/7",NETFLIX COMEDY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1411330&extension=ts&play_token=25i2z1lQOj
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="*FR* FRANCE NETFLIX 24/7",NETFLIX DRAMA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1411328&extension=ts&play_token=kpCpOBdRqB
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="*FR* FRANCE NETFLIX 24/7",NETFLIX FANTASY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1411327&extension=ts&play_token=G0JhQA6pla
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="*FR* FRANCE NETFLIX 24/7",NETFLIX HORROR
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1411326&extension=ts&play_token=atlmwl8I3L
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="*FR* FRANCE NETFLIX 24/7",NETFLIX ROMANCE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1411325&extension=ts&play_token=xkbMO8OLgi
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="*FR* FRANCE NETFLIX 24/7",NETFLIX THRILLER
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=1411322&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="*FR* FRANCE NETFLIX 24/7",ARCANE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1411321&extension=ts&play_token=OVBpcJT2o8
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="*FR* FRANCE NETFLIX 24/7",BRAND NEW CHERRY FLAVOR
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1411320&extension=ts&play_token=THKXXdvFzs
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/PPV/NETFLIX.png" group-title="*FR* FRANCE NETFLIX 24/7",CHILLING ADVENTURES OF SABRINA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=1411319&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178456.png" group-title="*AR* BEIN SPORTS 8K",####### BEIN SPORTS ᴴᴰ #######
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1178456&extension=ts&play_token=H9EXQR3NpU
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178455.png" group-title="*AR* BEIN SPORTS 8K",BEIN SPORTS NEWS ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1178455&extension=ts&play_token=NMV7G0HqV9
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1178454.png" group-title="*AR* BEIN SPORTS 8K",BEIN SPORTS GLOBAL ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1178454&extension=ts&play_token=ML184LVdXk
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178453.png" group-title="*AR* BEIN SPORTS 8K",BEIN SPORTS 1 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1178453&extension=ts&play_token=bBImKAzeT6
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178452.png" group-title="*AR* BEIN SPORTS 8K",BEIN SPORTS 2 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1178452&extension=ts&play_token=58L7JcDwZh
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178450.png" group-title="*AR* BEIN SPORTS 8K",BEIN SPORTS 4 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1178450&extension=ts&play_token=DLJD6DzWlt
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178449.png" group-title="*AR* BEIN SPORTS 8K",BEIN SPORTS 5 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1178449&extension=ts&play_token=ezUGqtFvHx
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178448.png" group-title="*AR* BEIN SPORTS 8K",BEIN SPORTS 6 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1178448&extension=ts&play_token=FUxuv0hSBR
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178447.png" group-title="*AR* BEIN SPORTS 8K",BEIN SPORTS 7 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1178447&extension=ts&play_token=kAPiBhdtW8
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178446.png" group-title="*AR* BEIN SPORTS 8K",BEIN SPORTS 8 ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1178446&extension=ts&play_token=Wh764Mtdgx
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178444.png" group-title="*AR* BEIN SPORTS 8K",BEIN SPORTS 1 XTRA ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1178444&extension=ts&play_token=fDzE804fF2
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1178443.png" group-title="*AR* BEIN SPORTS 8K",BEIN SPORTS 2 XTRA ᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1178443&extension=ts&play_token=taiQnwgh1f
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1016905.png" group-title="*AR* BEIN SPORTS G",BEIN SPORTS NEWS ᵁᴴᴰ 8K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1016905&extension=ts&play_token=tKV6zMKEEW
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1016906.png" group-title="*AR* BEIN SPORTS G",BEIN SPORTS GLOBAL ᵁᴴᴰ 8K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1016906&extension=ts&play_token=RMTI8vYmL9
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1016908.png" group-title="*AR* BEIN SPORTS G",BEIN SPORTS2 ᵁᴴᴰ 8K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1016908&extension=ts&play_token=e5aDXOq43x
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1016909.png" group-title="*AR* BEIN SPORTS G",BEIN SPORTS3 ᵁᴴᴰ 8K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1016909&extension=ts&play_token=vuwszF5nQn
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1016910.png" group-title="*AR* BEIN SPORTS G",BEIN SPORTS4 ᵁᴴᴰ 8K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1016910&extension=ts&play_token=VZ6aqwQjoz
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1016911.png" group-title="*AR* BEIN SPORTS G",BEIN SPORTS5 ᵁᴴᴰ 8K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1016911&extension=ts&play_token=m98fjQQNxK
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1016913.png" group-title="*AR* BEIN SPORTS G",BEIN SPORTS7 ᵁᴴᴰ 8K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1016913&extension=ts&play_token=O2zXkz8uVJ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1016914.png" group-title="*AR* BEIN SPORTS G",BEIN SPORTS8 ᵁᴴᴰ 8K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1016914&extension=ts&play_token=HEaoipt2Q2
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1016915.png" group-title="*AR* BEIN SPORTS G",BEIN SPORTS9 ᵁᴴᴰ 8K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1016915&extension=ts&play_token=PcW4u07wvn
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1016918.png" group-title="*AR* BEIN SPORTS G",BEIN SPORTS XTRA1 ᵁᴴᴰ 8K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1016918&extension=ts&play_token=6gT6mL7lGA
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1016919.png" group-title="*AR* BEIN SPORTS G",BEIN SPORTS XTRA 2 ᵁᴴᴰ 8K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1016919&extension=ts&play_token=i5YVCyti3h
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1016920.png" group-title="*AR* BEIN SPORTS G",BEIN SPORTS 1 ᵁᴴᴰ 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1016920&extension=ts&play_token=IKWKSg7DCV
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594520.png" group-title="*AR* BEIN SPORTS 4K",##### BEIN SPORTS HEVC #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594520&extension=ts&play_token=NUGmWFsaNo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="*AR* BEIN SPORTS 4K",TOD 360 ULTRA 4K ( EVENT ONLY )
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=973395&extension=ts&play_token=OKLby3FgNo
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/1096850.png" group-title="*AR* BEIN SPORTS 4K",BEIN SPORTS AR 4K [EVENT]
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1096850&extension=ts&play_token=pgM7LWJAHZ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/958682.png" group-title="*AR* BEIN SPORTS 4K",BEIN SPORTS 1 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=958682&extension=ts&play_token=esCPbTjrZB
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/958683.png" group-title="*AR* BEIN SPORTS 4K",BEIN SPORTS 2 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=958683&extension=ts&play_token=b1sKHk1PdP
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/958684.png" group-title="*AR* BEIN SPORTS 4K",BEIN SPORTS 3 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=958684&extension=ts&play_token=vvX23RyR5T
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594516.png" group-title="*AR* BEIN SPORTS 4K",BEIN SPORTS 1 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594516&extension=ts&play_token=vjSQBRCKhP
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594515.png" group-title="*AR* BEIN SPORTS 4K",BEIN SPORTS 2 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594515&extension=ts&play_token=he0Y0QhNKw
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594514.png" group-title="*AR* BEIN SPORTS 4K",BEIN SPORTS 3 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594514&extension=ts&play_token=yKOyoTiizp
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594513.png" group-title="*AR* BEIN SPORTS 4K",BEIN SPORTS 4 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594513&extension=ts&play_token=Pr0R0OBrMN
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594512.png" group-title="*AR* BEIN SPORTS 4K",BEIN SPORTS 5 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594512&extension=ts&play_token=zwKAkQ6KS1
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594511.png" group-title="*AR* BEIN SPORTS 4K",BEIN SPORTS 6 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594511&extension=ts&play_token=3Dg4T8UvNK
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/594518.png" group-title="*AR* BEIN SPORTS 4K",BEIN SPORTS 8 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594518&extension=ts&play_token=xkVPbfJEwz
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987846.png" group-title="*AR* BEIN SPORTS ᵁᴴᴰ",##### BEIN SPORTS ᵁᴴᴰ #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=987846&extension=ts&play_token=2T4BbEdXm1
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987845.png" group-title="*AR* BEIN SPORTS ᵁᴴᴰ",BEIN SPORTS 1 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=987845&extension=ts&play_token=o9ZTSUZTOh
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987843.png" group-title="*AR* BEIN SPORTS ᵁᴴᴰ",BEIN SPORTS 3 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=987843&extension=ts&play_token=FavSdy9X11
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987842.png" group-title="*AR* BEIN SPORTS ᵁᴴᴰ",BEIN SPORTS 4 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=987842&extension=ts&play_token=hxDe1LYnkv
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987841.png" group-title="*AR* BEIN SPORTS ᵁᴴᴰ",BEIN SPORTS 5 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=987841&extension=ts&play_token=SAJSf8IvRb
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987840.png" group-title="*AR* BEIN SPORTS ᵁᴴᴰ",BEIN SPORTS 6 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=987840&extension=ts&play_token=y4ytmXmpoI
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987839.png" group-title="*AR* BEIN SPORTS ᵁᴴᴰ",BEIN SPORTS 7 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=987839&extension=ts&play_token=q4I83YAOQm
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987838.png" group-title="*AR* BEIN SPORTS ᵁᴴᴰ",BEIN SPORTS 8 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=987838&extension=ts&play_token=kmbvNUJN2t
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987837.png" group-title="*AR* BEIN SPORTS ᵁᴴᴰ",BEIN SPORTS 9 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=987837&extension=ts&play_token=fhKk3QD12T
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987836.png" group-title="*AR* BEIN SPORTS ᵁᴴᴰ",BEIN SPORTS XTRA 1 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=987836&extension=ts&play_token=PEPTwnKAK0
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987835.png" group-title="*AR* BEIN SPORTS ᵁᴴᴰ",BEIN SPORTS XTRA 2 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=987835&extension=ts&play_token=576OyAtAan
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987834.png" group-title="*AR* BEIN SPORTS ᵁᴴᴰ",BEIN SPORTS XTRA 3 ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=987834&extension=ts&play_token=L8kcpyFAJH
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/987833.png" group-title="*AR* BEIN SPORTS ᵁᴴᴰ",BEIN SPORTS AFC ᵁᴴᴰ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=987833&extension=ts&play_token=D2eW92u6hh
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1915163.png" group-title="*AR* SHASHA SPORT",SHASHA SPORT 1 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1307960&extension=ts&play_token=isxEJNJeii
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1915163.png" group-title="*AR* SHASHA SPORT",SHASHA SPORT 2 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1307961&extension=ts&play_token=P2mI3PhxQh
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1915163.png" group-title="*AR* SHASHA SPORT",SHASHA SPORT 3 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1307962&extension=ts&play_token=Kf1LOyb2Lv
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1915163.png" group-title="*AR* SHASHA SPORT",SHASHA SPORT 1 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1307963&extension=ts&play_token=QGX1tdkcnk
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1915163.png" group-title="*AR* SHASHA SPORT",SHASHA SPORT 2 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1307964&extension=ts&play_token=9xPpWUZBhD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1915163.png" group-title="*AR* SHASHA SPORT",SHASHA SPORT 3 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1307965&extension=ts&play_token=NhGcPEhYqN
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="*AR* ALWAN SPORT",ALWAN SPORT 1 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1341000&extension=ts&play_token=5Y3uH7ktOI
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="*AR* ALWAN SPORT",ALWAN SPORT 2 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1340999&extension=ts&play_token=EGbGC9rqL8
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="*AR* ALWAN SPORT",ALWAN SPORT 3 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1340998&extension=ts&play_token=FpBmWWPyvs
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="*AR* ALWAN SPORT",ALWAN SPORT 4 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1340997&extension=ts&play_token=zkjB4dQ9Ki
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="*AR* ALWAN SPORT",ALWAN SPORT 5 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1340996&extension=ts&play_token=AUe5L0l8Kz
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="*AR* ALWAN SPORT",ALWAN SPORT 6 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1340995&extension=ts&play_token=TmzMglXk9g
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="*AR* ALWAN SPORT",ALWAN SPORT 1 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=1340994&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="*AR* ALWAN SPORT",ALWAN SPORT 2 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1340993&extension=ts&play_token=WQN7lz9iYQ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="*AR* ALWAN SPORT",ALWAN SPORT 3 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1340992&extension=ts&play_token=kZVbgdUegy
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="*AR* ALWAN SPORT",ALWAN SPORT 4 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1340991&extension=ts&play_token=ENoEPgOg5a
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="*AR* ALWAN SPORT",ALWAN SPORT 5 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=1340990&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="*AR* ALWAN SPORT",ALWAN SPORT 6 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1340989&extension=ts&play_token=XnceuHHJF6
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="*AR* ALWAN SPORT",ALWAN SPORT 1 SD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=1340988&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-TURKEY.png" group-title="*AR* ALWAN SPORT",ALWAN SPORT 2 SD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1340987&extension=ts&play_token=FMDGRsmJI0
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/761731.png" group-title="*AR* STARZPLAY / AD SPORTS",###### STARZPLAY SPORT ######
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=761731&extension=ts&play_token=MtvRlA5Mvb
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/977634.png" group-title="*AR* STARZPLAY / AD SPORTS",ARABIC UFC EVENT 1 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=977634&extension=ts&play_token=MiJwrGsCPG
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/977635.png" group-title="*AR* STARZPLAY / AD SPORTS",ARABIC UFC EVENT 2 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=977635&extension=ts&play_token=rCEBZEwbas
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/994802.png" group-title="*AR* STARZPLAY / AD SPORTS",ARABIC UFC EVENT 3 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=994802&extension=ts&play_token=ZKhHeqqCv4
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/765041.png" group-title="*AR* STARZPLAY / AD SPORTS",STARZPLAY / AD SPORTS 1 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=765041&extension=ts&play_token=4s0xC7WTpB
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/761732.png" group-title="*AR* STARZPLAY / AD SPORTS",STARZPLAY / AD SPORT 1 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=761732&extension=ts&play_token=4ILPmh5wHJ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/765042.png" group-title="*AR* STARZPLAY / AD SPORTS",STARZPLAY / AD SPORTS 2 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=765042&extension=ts&play_token=HtiNEcxOwl
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/761733.png" group-title="*AR* STARZPLAY / AD SPORTS",STARZPLAY / AD SPORT 2 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=761733&extension=ts&play_token=ml1bTM52Gh
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/765043.png" group-title="*AR* STARZPLAY / AD SPORTS",STARZPLAY / AD SPORTS 3 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=765043&extension=ts&play_token=XwkhpclOoT
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/761734.png" group-title="*AR* STARZPLAY / AD SPORTS",STARZPLAY / AD SPORT 3 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=761734&extension=ts&play_token=oY5XRS6reI
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/761735.png" group-title="*AR* STARZPLAY / AD SPORTS",STARZPLAY / AD SPORT 1 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=761735&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/761736.png" group-title="*AR* STARZPLAY / AD SPORTS",STARZPLAY / AD SPORT 5 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=761736&extension=ts&play_token=pcQauvbV6p
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/767232.png" group-title="*AR* STARZPLAY / AD SPORTS",STARZPLAY / CRLIFE 1 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=767232&extension=ts&play_token=xYhAWUrMk6
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/766017.png" group-title="*AR* STARZPLAY / AD SPORTS",STARZPLAY / CRLIFE 1 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=766017&extension=ts&play_token=59LG4V3wMw
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1297591.png" group-title="*AR* THMANYAH",THAMANYA SUPER COPA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1342688&extension=ts&play_token=cp1LA6LzJU
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1297591.png" group-title="*AR* THMANYAH",THMANYAH 1 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=1297591&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1297590.png" group-title="*AR* THMANYAH",THMANYAH 1 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1297590&extension=ts&play_token=yEk6TZ0Bm4
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1297589.png" group-title="*AR* THMANYAH",THMANYAH 2 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1297589&extension=ts&play_token=7XdchyVnHo
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1297588.png" group-title="*AR* THMANYAH",THMANYAH 2 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1297588&extension=ts&play_token=ER957ZOvzg
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1297587.png" group-title="*AR* THMANYAH",THMANYAH 3 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1297587&extension=ts&play_token=bsq6Kroy1o
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1297586.png" group-title="*AR* THMANYAH",THMANYAH 3 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1297586&extension=ts&play_token=hNghMTxtJF
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/862854.png" group-title="*AR* BEIN ENTERTAINMENT",##### BEIN ENTERTAINMENT #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=862854&extension=ts&play_token=HP1I0s7CYb
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/862853.png" group-title="*AR* BEIN ENTERTAINMENT",BEIN MOVIES PREMIERE 1 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=862853&extension=ts&play_token=UUXQzE8Lo2
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/862852.png" group-title="*AR* BEIN ENTERTAINMENT",BEIN MOVIES ACTION 2 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=862852&extension=ts&play_token=G5P5GVDGai
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/862851.png" group-title="*AR* BEIN ENTERTAINMENT",BEIN MOVIES DRAMA 3 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=862851&extension=ts&play_token=oIZFsSQxUV
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/862849.png" group-title="*AR* BEIN ENTERTAINMENT",BEIN SERIES 1 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=862849&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/862848.png" group-title="*AR* BEIN ENTERTAINMENT",BEIN SERIES 2 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=862848&extension=ts&play_token=Z7bgsgFcrV
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/862847.png" group-title="*AR* BEIN ENTERTAINMENT",BEIN DRAMA HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=862847&extension=ts&play_token=VKzRn0HdPe
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/862846.png" group-title="*AR* BEIN ENTERTAINMENT",BEIN FOOD NETWORK HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=862846&extension=ts&play_token=sxlGSfO7HX
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/862845.png" group-title="*AR* BEIN ENTERTAINMENT",BEIN GOURMET HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=862845&extension=ts&play_token=eY4ylzvIU2
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/862844.png" group-title="*AR* BEIN ENTERTAINMENT",BEIN FATAFEAT HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=862844&extension=ts&play_token=g43bwjG2Pc
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/862841.png" group-title="*AR* BEIN ENTERTAINMENT",BEIN FOX MOVIES HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=862841&extension=ts&play_token=pPcDHoxHoA
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/bein/862840.png" group-title="*AR* BEIN ENTERTAINMENT",BEIN FOX ACTION HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=862840&extension=ts&play_token=FEyLu7llZ6
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/862838.png" group-title="*AR* BEIN ENTERTAINMENT",BEIN STAR WORLD HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=862838&extension=ts&play_token=ufAOitAcpF
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEINOD.png" group-title="*AR* BEIN PREMIUM PLAY",##### BEIN OD #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594506&extension=ts&play_token=GQ5vHaW2eb
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEINOD.png" group-title="*AR* BEIN PREMIUM PLAY",BEIN OD 1 MOVIES UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594505&extension=ts&play_token=Vkk25XpmC5
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEINOD.png" group-title="*AR* BEIN PREMIUM PLAY",BEIN OD 2 MOVIES UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594504&extension=ts&play_token=OwiRpwHVJR
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEINOD.png" group-title="*AR* BEIN PREMIUM PLAY",BEIN OD 3 MOVIES UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594503&extension=ts&play_token=D9lucwpsIy
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEINOD.png" group-title="*AR* BEIN PREMIUM PLAY",BEIN OD 4 MOVIES UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594502&extension=ts&play_token=KH2H2vS6RM
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEINOD.png" group-title="*AR* BEIN PREMIUM PLAY",BEIN OD 5 MOVIES UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594501&extension=ts&play_token=ChI1MSo8jo
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEINOD.png" group-title="*AR* BEIN PREMIUM PLAY",BEIN OD 6 MOVIES UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594500&extension=ts&play_token=DLv60zOVE6
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEINOD.png" group-title="*AR* BEIN PREMIUM PLAY",BEIN OD 7 MOVIES UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594499&extension=ts&play_token=ufpNfmPl7o
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEINOD.png" group-title="*AR* BEIN PREMIUM PLAY",BEIN OD 8 MOVIES UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594498&extension=ts&play_token=z25yJWIGc3
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEINOD.png" group-title="*AR* BEIN PREMIUM PLAY",BEIN OD 2023 1 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1030184&extension=ts&play_token=0a5Kehc2GU
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEINOD.png" group-title="*AR* BEIN PREMIUM PLAY",BEIN OD 2023 2 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1060628&extension=ts&play_token=r5D9CGUbFo
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEINOD.png" group-title="*AR* BEIN PREMIUM PLAY",BEIN OD 2023 3 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1060627&extension=ts&play_token=oJsR4TIoCQ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEINOD.png" group-title="*AR* BEIN PREMIUM PLAY",BEIN OD 2023 4 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1060626&extension=ts&play_token=xw0EWl38xh
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BEINOD.png" group-title="*AR* BEIN PREMIUM PLAY",BEIN OD 1 KIDS UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=594497&extension=ts&play_token=uFfpqsaZWr
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250152.png" group-title="*AR* ARABIC NEWS & FACTUAL",##### NEWS #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=250152&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/674438.png" group-title="*AR* ARABIC NEWS & FACTUAL",AL JAZERA HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=674438&extension=ts&play_token=z8Mqr9sM8K
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250187.png" group-title="*AR* ARABIC NEWS & FACTUAL",AL JAZERA FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250187&extension=ts&play_token=Z7cLjJ3Htp
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250166.png" group-title="*AR* ARABIC NEWS & FACTUAL",AL JAZERA MUBASHER
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250166&extension=ts&play_token=joQMmzpUTh
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250189.png" group-title="*AR* ARABIC NEWS & FACTUAL",AL ARABIYA AL HADATH
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250189&extension=ts&play_token=IUkf2UOOfY
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/679900.png" group-title="*AR* ARABIC NEWS & FACTUAL",AL ARABIYA AL HADATH HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=679900&extension=ts&play_token=lw6c58Pgte
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250184.png" group-title="*AR* ARABIC NEWS & FACTUAL",AL ARABY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250184&extension=ts&play_token=kRfyNKYOaI
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/807508.png" group-title="*AR* ARABIC NEWS & FACTUAL",AL QAHERA NEWS
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=807508&extension=ts&play_token=MskmUazHAF
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250178.png" group-title="*AR* ARABIC NEWS & FACTUAL",BBC ARABIC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250178&extension=ts&play_token=xowQ07YkiI
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250172.png" group-title="*AR* ARABIC NEWS & FACTUAL",FRANCE 24
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250172&extension=ts&play_token=jZinIxXQw7
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250176.png" group-title="*AR* ARABIC NEWS & FACTUAL",AL JAZEERA ENGLISH
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250176&extension=ts&play_token=67AIPT6mid
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250186.png" group-title="*AR* ARABIC NEWS & FACTUAL",AL JAZEERA DOCUMENTARY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250186&extension=ts&play_token=4tyzHwaB2r
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924940.png" group-title="*AR* ARABIC FULL SD",##### LEBANON LOW INTERNET #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924940&extension=ts&play_token=eg4wz7oi71
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924939.png" group-title="*AR* ARABIC FULL SD",ALJADEED TV LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924939&extension=ts&play_token=XJerX3hKqW
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924938.png" group-title="*AR* ARABIC FULL SD",MTV LEBANON LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924938&extension=ts&play_token=OPTlvRkSld
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924937.png" group-title="*AR* ARABIC FULL SD",LBC INTERNATIONAL LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924937&extension=ts&play_token=85XhJJrwWL
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924936.png" group-title="*AR* ARABIC FULL SD",LBC LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924936&extension=ts&play_token=rzneaRv9tw
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924935.png" group-title="*AR* ARABIC FULL SD",AL LASDAH TV LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924935&extension=ts&play_token=adYW5diTEF
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924934.png" group-title="*AR* ARABIC FULL SD",NBN LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924934&extension=ts&play_token=sEErRO34BI
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924933.png" group-title="*AR* ARABIC FULL SD",OTV LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924933&extension=ts&play_token=TKeFXIGcp6
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924932.png" group-title="*AR* ARABIC FULL SD",ONE LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924932&extension=ts&play_token=iXzgLDBDoV
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924931.png" group-title="*AR* ARABIC FULL SD",TELELIBAN TV LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924931&extension=ts&play_token=mYycf7qwHL
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924930.png" group-title="*AR* ARABIC FULL SD",AL MAYADEEN TV LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924930&extension=ts&play_token=n1wGHeD3qZ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924929.png" group-title="*AR* ARABIC FULL SD",IFILM ARABIC LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924929&extension=ts&play_token=gRDLJFdjBh
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924928.png" group-title="*AR* ARABIC FULL SD",AGHANI LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924928&extension=ts&play_token=yxinD5PbQC
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924927.png" group-title="*AR* ARABIC FULL SD",ARABICA LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924927&extension=ts&play_token=P3y4vSft5c
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924607.png" group-title="*AR* SPORT FULL SD",##### SPORT LOW INTERNET #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924607&extension=ts&play_token=P4X2I4nhnR
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924606.png" group-title="*AR* SPORT FULL SD",BEIN SPORTS NEWS LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924606&extension=ts&play_token=oFmMwBUY6D
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924604.png" group-title="*AR* SPORT FULL SD",SSC NEWS LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924604&extension=ts&play_token=PNSC20VnyY
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924603.png" group-title="*AR* SPORT FULL SD",ALKASS 1 LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924603&extension=ts&play_token=F8pXTiX8Hd
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924602.png" group-title="*AR* SPORT FULL SD",ALKASS 2 LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924602&extension=ts&play_token=IPzkZ5VPXK
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924601.png" group-title="*AR* SPORT FULL SD",ALKASS 3 LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924601&extension=ts&play_token=7XtJMIrBI4
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924599.png" group-title="*AR* SPORT FULL SD",ALKASS 5 LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924599&extension=ts&play_token=asu8NsfL5R
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924598.png" group-title="*AR* SPORT FULL SD",ALKASS 6 LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924598&extension=ts&play_token=qTsMn6q87l
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924597.png" group-title="*AR* SPORT FULL SD",AD SPORT 1 LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924597&extension=ts&play_token=Dh4MeO0882
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924596.png" group-title="*AR* SPORT FULL SD",AD SPORT 2 LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924596&extension=ts&play_token=YZNbx9BAl9
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924595.png" group-title="*AR* SPORT FULL SD",SAUDI KSA SPORTS 1 LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924595&extension=ts&play_token=dYhCGNw9aM
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924594.png" group-title="*AR* SPORT FULL SD",SAUDI KSA SPORTS 2 LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924594&extension=ts&play_token=bSZ4fGljav
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924593.png" group-title="*AR* SPORT FULL SD",SAUDI KSA SPORTS 3 LQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=924593&extension=ts&play_token=SuYByWAPqP
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/645027.png" group-title="*AR* MOROCCO",##### MOROCCO #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=645027&extension=ts&play_token=aFPRQ1Qp33
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/472315.png" group-title="*AR* MOROCCO",AL OULA INTER HD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=472315&extension=ts&play_token=8htkbvE06I
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/249519.png" group-title="*AR* MOROCCO",AL OULA INTER UHD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=249519&extension=ts&play_token=HMiTKDerVr
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/249538.png" group-title="*AR* MOROCCO",M24
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=249538&extension=ts&play_token=pYbBzZkdA5
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/249522.png" group-title="*AR* MOROCCO",2M MAROC ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=249522&extension=ts&play_token=gaJtdRLFHA
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/645152.png" group-title="*AR* MOROCCO",2M MAROC NATIONAL
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=645152&extension=ts&play_token=WsezlfhoPd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/SHAHID1.png" group-title="*AR* MOROCCO",SHAHID MUSALSALAT
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=681147&extension=ts&play_token=Wozk18i7no
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/527416.png" group-title="*AR* MOROCCO",MBC 5 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=527416&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1148434.png" group-title="*AR* MOROCCO",FORJA TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1148434&extension=ts&play_token=AW6dh7c2wO
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/735006.png" group-title="*AR* MOROCCO",ARRIADIA TNT HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=735006&extension=ts&play_token=tbFQo8rVIx
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/698479.png" group-title="*AR* MOROCCO",ARRYADIA LIVE SD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=698479&extension=ts&play_token=2orVDWPpFw
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/698480.png" group-title="*AR* MOROCCO",ARRYADIA LIVE HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=698480&extension=ts&play_token=rb7jwFxiDI
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/249861.png" group-title="*AR* ALGERIA",##### ALGERIA #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=249861&extension=ts&play_token=qblnahtJw9
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/249834.png" group-title="*AR* ALGERIA",EN TV ALGERIE ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=249834&extension=ts&play_token=rNAbXkDvPJ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/249841.png" group-title="*AR* ALGERIA",A3 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=249841&extension=ts&play_token=v3wKK21mup
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/249835.png" group-title="*AR* ALGERIA",CANAL ALGERIE *
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=249835&extension=ts&play_token=vMxRMPz7pb
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/249839.png" group-title="*AR* ALGERIA",TAMAZIGH TV *
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=249839&extension=ts&play_token=ilbkEpjruC
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/249847.png" group-title="*AR* ALGERIA",TV CORAN *
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=249847&extension=ts&play_token=cPenihZrOt
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/556869.png" group-title="*AR* ALGERIA",ALMAARIFA TV *
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=556869&extension=ts&play_token=l63nPJjkys
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/249838.png" group-title="*AR* ALGERIA",CANAL 6 ALGERIE *
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=249838&extension=ts&play_token=AWyUO83Bnk
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/556860.png" group-title="*AR* ALGERIA",WATANIA TV *
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=556860&extension=ts&play_token=pJXeOBO4IM
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/249843.png" group-title="*AR* ALGERIA",ECHOROUK TV *
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=249843&extension=ts&play_token=qqox6GOEIp
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/249845.png" group-title="*AR* ALGERIA",ENNAHAR TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=249845&extension=ts&play_token=Oz0ujCxwQv
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/882208.png" group-title="*AR* ALGERIA",AMOU YAZID
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=882208&extension=ts&play_token=XTpnVRA3ym
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/457168.png" group-title="*AR* ALGERIA",EL HEDDAF TV *
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=457168&extension=ts&play_token=13hzsV1w4i
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/249848.png" group-title="*AR* ALGERIA",SAMIRA TV *
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=249848&extension=ts&play_token=f3Ffpp8IVI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ISLAMIC.png" group-title="*AR* ISLAMIC",##### ISLAMIC #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250106&extension=ts&play_token=ttMuL21mDC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d8%af%d9%8a%d8%b3.png" group-title="*AR* ISLAMIC",عبد الرحمن السديس
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=986019&extension=ts&play_token=d3kktO3Miz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%a8%d8%a7%d8%b3%d8%b7-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b5%d9%85%d8%af.png" group-title="*AR* ISLAMIC",عبد الباسط عبد الصمد
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=986020&extension=ts&play_token=BLbD0ObFnI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/%d8%ae%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84.png" group-title="*AR* ISLAMIC",خالد الجليل
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=986022&extension=ts&play_token=xfK9pUc1wk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AHL-ALQURAN.png" group-title="*AR* ISLAMIC",AHL AL QURAN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=250114&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/SHEIKH-MAHER.png" group-title="*AR* ISLAMIC",SHEIKH MAHER
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=646904&extension=ts&play_token=KiBSynQfGN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/THAQALAYN.png" group-title="*AR* ISLAMIC",THAQALAYN TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=763252&extension=ts&play_token=ltSYu953Uz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALSHAMS-ISLAMIC.png" group-title="*AR* ISLAMIC",AL SHAMS ISLAMIC TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=746061&extension=ts&play_token=kNT1ObUejb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/SHEIKH-SHURAIM.png" group-title="*AR* ISLAMIC",SHEIKH SHURAIM
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=646902&extension=ts&play_token=5TzQltrcfS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/RESSALA.png" group-title="*AR* ISLAMIC",RESSALA HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250111&extension=ts&play_token=GUvAD5AGvf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALRAHMA.png" group-title="*AR* ISLAMIC",AL RAHMA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250112&extension=ts&play_token=muOYD2sg1S
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/BIN-OTHAIMEEN.png" group-title="*AR* ISLAMIC",BIN OTHAIMEEN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250118&extension=ts&play_token=qUgkQx6tMS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/KIDSTV.png" group-title="*AR* ARABIC KIDS",##### KIDS TV #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=582854&extension=ts&play_token=h4qvKItpBA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ADNAN-LINA.png" group-title="*AR* ARABIC KIDS",ADNAN & LINA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006992&extension=ts&play_token=R5Bw1bvD6o
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/BILL-_-SEBASTIAN.png" group-title="*AR* ARABIC KIDS",BILL & SEBASTIAN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006988&extension=ts&play_token=cNS34JJ6YK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CARTOON-NETWORK.png" group-title="*AR* ARABIC KIDS",CARTOON NETWORK
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=1007005&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/COCOMELON-AR.png" group-title="*AR* ARABIC KIDS",COCOMELON AR
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=1006995&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/COCOMELON-AR.png" group-title="*AR* ARABIC KIDS",COCOMELON EN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006996&extension=ts&play_token=xsqXb1o5xU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MASHA-THE-BEAR.png" group-title="*AR* ARABIC KIDS",MASHA & THE BEAR
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006987&extension=ts&play_token=KDIrmtxJZ8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MR-BEAN.png" group-title="*AR* ARABIC KIDS",MR BEAN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006997&extension=ts&play_token=EHAT8btclX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/SHAUN-THE-SHEEP.png" group-title="*AR* ARABIC KIDS",SHAUN THE SHEEP
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006989&extension=ts&play_token=eotVaXwokV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/SPONGEBOB.png" group-title="*AR* ARABIC KIDS",SPONGEBOB
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006991&extension=ts&play_token=z227KljggF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TELETUBBIES.png" group-title="*AR* ARABIC KIDS",TELETUBBIES
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006990&extension=ts&play_token=7cHvL5BUtT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/THA-SMURFS.png" group-title="*AR* ARABIC KIDS",THA SMURFS
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006993&extension=ts&play_token=ohfj2srbfE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/THREE-BEARS.png" group-title="*AR* ARABIC KIDS",THREE BEARS
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006998&extension=ts&play_token=L6VHgD8pjo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOM-JERRY.png" group-title="*AR* ARABIC KIDS",TOM & JERRY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006994&extension=ts&play_token=bOqKLkM3Vy
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250038.png" group-title="*AR* MBC",##### MBC #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250038&extension=ts&play_token=aEaWrCVQwX
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250039.png" group-title="*AR* MBC",MBC 1
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250039&extension=ts&play_token=thERzrrJAX
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250040.png" group-title="*AR* MBC",MBC 2
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250040&extension=ts&play_token=62tHcFpAk4
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250041.png" group-title="*AR* MBC",MBC 3
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=250041&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250042.png" group-title="*AR* MBC",MBC 4
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250042&extension=ts&play_token=YlS9aDYtSy
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250043.png" group-title="*AR* MBC",MBC 5 ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250043&extension=ts&play_token=hYYbeVT58f
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250044.png" group-title="*AR* MBC",MBC DRAMA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250044&extension=ts&play_token=m0kqDWQsPk
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/689593.png" group-title="*AR* MBC",MBC DRAMA SD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=689593&extension=ts&play_token=IBGGkeTaYr
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250046.png" group-title="*AR* MBC",MBC ACTION
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250046&extension=ts&play_token=6z53ZvESQE
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250045.png" group-title="*AR* MBC",MBC MAX
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250045&extension=ts&play_token=h9NCBU30HV
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250047.png" group-title="*AR* MBC",MBC BOLLYWOOD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250047&extension=ts&play_token=DItksRXPJW
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/250050.png" group-title="*AR* MBC",MBC MASR 2 ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250050&extension=ts&play_token=Nv1Y5TRyRK
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/OSN-OSN.png" group-title="*AR* OSN",##### OSN GROUP #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=724292&extension=ts&play_token=STzubPXp4a
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/OSN-OSN.png" group-title="*AR* OSN",YAHALA UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=724290&extension=ts&play_token=cXz56EXYTg
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/OSN-OSN.png" group-title="*AR* OSN",YAHALA AFLAM UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=724289&extension=ts&play_token=J4TDajEiaX
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/OSN-OSN.png" group-title="*AR* OSN",YAHALA BIL ARABI UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=724288&extension=ts&play_token=BcuZlY1arS
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/OSN-OSN.png" group-title="*AR* OSN",ALYAWM UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=724285&extension=ts&play_token=ngzWNdFpk2
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/OSN-OSN.png" group-title="*AR* OSN",MOVIES HORROR
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=724284&extension=ts&play_token=a7qU1zs5xY
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/OSN-OSN.png" group-title="*AR* OSN",FAN UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=724283&extension=ts&play_token=cDalNSu45p
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/OSN-OSN.png" group-title="*AR* OSN",CINEMA 1 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=724282&extension=ts&play_token=fwfkb1NSHB
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/OSN-OSN.png" group-title="*AR* OSN",CINEMA 2 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=724281&extension=ts&play_token=qnMCPASSU0
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/OSN-OSN.png" group-title="*AR* OSN",ART HEKAYAT 1 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=724280&extension=ts&play_token=hHATGdRU7X
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/OSN-OSN.png" group-title="*AR* OSN",ART HEKAYAT 2 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=724279&extension=ts&play_token=EfLptEwHNK
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/OSN-OSN.png" group-title="*AR* OSN",ART AFLAM 1 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=724278&extension=ts&play_token=NbYssU1Fqk
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/OSN-OSN.png" group-title="*AR* OSN",ART AFLAM 2 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=724277&extension=ts&play_token=ypVzkGdQkB
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/757138.png" group-title="*AR* AL FAJER",##### AL FAJER #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=757138&extension=ts&play_token=VAf28nHElx
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/722811.png" group-title="*AR* AL FAJER",SALAM TV HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=722811&extension=ts&play_token=8Cck1lpR0d
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/722810.png" group-title="*AR* AL FAJER",AJYAL TV HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=722810&extension=ts&play_token=fRW2z0MAAa
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/722820.png" group-title="*AR* AL FAJER",HORIYAA RIYADIA HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=722820&extension=ts&play_token=BiuassZsfi
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/620295.png" group-title="*AR* EGYPT",##### EGYPT TV #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=620295&extension=ts&play_token=DiadAY6x0S
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/620291.png" group-title="*AR* EGYPT",AL ASKANDARIA 5
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=620291&extension=ts&play_token=1LmZ9tNfiO
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/620288.png" group-title="*AR* EGYPT",AL GHAD TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=620288&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ONPORTMAX.png" group-title="*AR* EGYPT",ON SPORT PLUS FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=1409710&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/620292.png" group-title="*AR* EGYPT",AL AHLY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=620292&extension=ts&play_token=u7eKeZnoio
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/620289.png" group-title="*AR* EGYPT",AL DELTA MASR 6
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=620289&extension=ts&play_token=F2u2P1HOiC
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/620294.png" group-title="*AR* EGYPT",PANORAMA FM
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=620294&extension=ts&play_token=7PF9cxLSIB
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1283449.png" group-title="*AR* EGYPT",HYA TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1283449&extension=ts&play_token=uTChmnOJj7
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1284099.png" group-title="*AR* EGYPT",AL SHAMS 2 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1284099&extension=ts&play_token=vqHDUOyEg2
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1283450.png" group-title="*AR* EGYPT",AL SHAMS  HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1283450&extension=ts&play_token=oebFxH8G60
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/620287.png" group-title="*AR* EGYPT",AL HAYAT HD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=620287&extension=ts&play_token=S8wiyVsVYH
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/620286.png" group-title="*AR* EGYPT",AL HAYAT UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=620286&extension=ts&play_token=Lq2b7KpkCC
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/620284.png" group-title="*AR* EGYPT",AL HAYAT MUSALSALAT ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=620284&extension=ts&play_token=jAFnFrkNN7
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/719377.png" group-title="*AR* EGYPT",AL HAYAT DRAMA SD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=719377&extension=ts&play_token=LFL5600Ttp
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/257494.png" group-title="*AR* LEBANON",##### LEBANON #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257494&extension=ts&play_token=rfU0MDvutP
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/257496.png" group-title="*AR* LEBANON",LEBANON TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257496&extension=ts&play_token=9wXmeJewt5
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/257497.png" group-title="*AR* LEBANON",MTV LEBANON FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257497&extension=ts&play_token=Jpovabe8uF
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/662601.png" group-title="*AR* LEBANON",MTV LEBANON HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=662601&extension=ts&play_token=1d21FIEiOx
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/662600.png" group-title="*AR* LEBANON",ALJADEED
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=662600&extension=ts&play_token=jvVYHofIAl
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/257498.png" group-title="*AR* LEBANON",ALJADEED FHD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257498&extension=ts&play_token=T6UfSrbPl3
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/662599.png" group-title="*AR* LEBANON",ALJADEED HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=662599&extension=ts&play_token=Q7dny8ncWg
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/257503.png" group-title="*AR* LEBANON",NBN LEBANON HD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257503&extension=ts&play_token=afPU1r18le
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/257506.png" group-title="*AR* LEBANON",AL MANAR ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257506&extension=ts&play_token=ZryTR5EWTa
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/662602.png" group-title="*AR* LEBANON",MTV LEBANON
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=662602&extension=ts&play_token=ParwXMbIpi
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/257495.png" group-title="*AR* LEBANON",LBC HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257495&extension=ts&play_token=2iRO1zVxgd
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1227500.png" group-title="*AR* LEBANON",LBC 2 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1227500&extension=ts&play_token=KJhhUCe0pi
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/257507.png" group-title="*AR* LEBANON",LBC SAT
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257507&extension=ts&play_token=ppgMjuMw2P
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/770554.png" group-title="*AR* LEBANON",LBC INTERNATIONAL
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=770554&extension=ts&play_token=cC8jA269VF
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/257312.png" group-title="*AR* UAE",##### UAE #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257312&extension=ts&play_token=Qlz2XUvgQ8
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/767896.png" group-title="*AR* UAE",ABU DHABI NATIONAL GEO
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=767896&extension=ts&play_token=PKN110leXH
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/689591.png" group-title="*AR* UAE",ABU DHABI NATIONAL GEO HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=689591&extension=ts&play_token=Wv8yLfOc9l
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/767895.png" group-title="*AR* UAE",ABU DHABI EMARAT
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=767895&extension=ts&play_token=dPKvdxmpLp
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/257316.png" group-title="*AR* UAE",DUBAI ONE ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257316&extension=ts&play_token=M9oBNrhii9
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/257313.png" group-title="*AR* UAE",DUBAI TV HD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257313&extension=ts&play_token=nSV2jGAFC4
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/257315.png" group-title="*AR* UAE",DUBAI ZAMAN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257315&extension=ts&play_token=BzfQ6A56Tx
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1140470.png" group-title="*AR* UAE",QURAN SHARJAH
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1140470&extension=ts&play_token=buiuIObfj3
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/257323.png" group-title="*AR* UAE",SHARJAH HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257323&extension=ts&play_token=etQ8eZJyPB
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/949642.png" group-title="*AR* UAE",SHARJAH TV 2
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=949642&extension=ts&play_token=YSfpKdVkQE
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/584462.png" group-title="*AR* UAE",SHARJAH SPORT HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=584462&extension=ts&play_token=JVe1CCctBi
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/949639.png" group-title="*AR* UAE",SHARJAH SPORTS 2
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=949639&extension=ts&play_token=oR3jEYZk3I
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/949641.png" group-title="*AR* UAE",SHARQIA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=949641&extension=ts&play_token=TM5hBqZIuE
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTASIA.png" group-title="*AR* ABU DHABI SPORTS",##### ABU DHABI SPORTS #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=756852&extension=ts&play_token=77JIYUDw26
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTASIA.png" group-title="*AR* ABU DHABI SPORTS",ABU DHABI SPORT 1 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257489&extension=ts&play_token=aMs9ApEddD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTASIA.png" group-title="*AR* ABU DHABI SPORTS",ABU DHABI SPORT 2 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257490&extension=ts&play_token=rz9d5Co1DP
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTASIA.png" group-title="*AR* ABU DHABI SPORTS",ABU DHABI SPORT 3 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257491&extension=ts&play_token=WvZIJhfSgq
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTASIA.png" group-title="*AR* ABU DHABI SPORTS",AD SPORT EXTRA 1 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=608165&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTASIA.png" group-title="*AR* ABU DHABI SPORTS",AD SPORT EXTRA 2 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=608164&extension=ts&play_token=eAcRsPpOB5
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTASIA.png" group-title="*AR* ABU DHABI SPORTS",AD SPORT ASIA 1 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=676456&extension=ts&play_token=wXc479TqST
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTASIA.png" group-title="*AR* ABU DHABI SPORTS",AD SPORT ASIA 2 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=676457&extension=ts&play_token=t2vlvqRByS
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTASIA.png" group-title="*AR* ABU DHABI SPORTS",ABU DHABI SPORT 1
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=584508&extension=ts&play_token=JyfrWPmxnw
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTASIA.png" group-title="*AR* ABU DHABI SPORTS",ABU DHABI SPORT 1 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=584507&extension=ts&play_token=Aw2sShWefe
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTASIA.png" group-title="*AR* ABU DHABI SPORTS",ABU DHABI SPORT 2 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=584506&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTASIA.png" group-title="*AR* ABU DHABI SPORTS",ABU DHABI SPORT 3 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=584505&extension=ts&play_token=kV9LwxjYju
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTASIA.png" group-title="*AR* ABU DHABI SPORTS",ABU DHABI SPORT 4 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=584504&extension=ts&play_token=jG1CV2Pjlp
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADSPORTASIA.png" group-title="*AR* ABU DHABI SPORTS",AD SPORTS 2 HEVC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=584502&extension=ts&play_token=ZlOsWmXYSX
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/663947.png" group-title="*AR* MAURITANIA",##### MAURITANIA #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=663947&extension=ts&play_token=btEuhh2mZG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MOURITANIA-ATHAGAVIA.png" group-title="*AR* MAURITANIA",EL WATANIYA TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=663942&extension=ts&play_token=HWknKjVJSd
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/663946.png" group-title="*AR* MAURITANIA",EL BARLEMANIA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=663946&extension=ts&play_token=wrACa15iSd
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/719013.png" group-title="*AR* MAURITANIA",SAHEL TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=719013&extension=ts&play_token=qgfd7NvUyx
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/719011.png" group-title="*AR* MAURITANIA",EL MAHADRA TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=719011&extension=ts&play_token=iL4WqaeuxK
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/719010.png" group-title="*AR* MAURITANIA",CHINGUIT TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=719010&extension=ts&play_token=hBKD8BqKbc
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/663941.png" group-title="*AR* MAURITANIA",ALMOURABITOUN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=663941&extension=ts&play_token=dhP2vKXw2x
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/663944.png" group-title="*AR* MAURITANIA",ALMOURITANIYA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=663944&extension=ts&play_token=1Go2kBwP10
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/663945.png" group-title="*AR* MAURITANIA",MOURITANIA ARRIADIA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=663945&extension=ts&play_token=7nGwUypMj5
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/719567.png" group-title="*AR* MAURITANIA",MEDINA TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=719567&extension=ts&play_token=8IIMflbshl
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/663943.png" group-title="*AR* MAURITANIA",MEDINA TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=663943&extension=ts&play_token=jq7TGgeKTR
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/679879.png" group-title="*AR* MAURITANIA",EL MOURITANIA 2
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=679879&extension=ts&play_token=tytgGitSaJ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/BAHRAINLOGOS.png" group-title="*AR* BAHRAIN",##### BAHRAIN TV #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=756576&extension=ts&play_token=yK2Ntr8WZI
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/BAHRAINQURAN.png" group-title="*AR* BAHRAIN",BAHRAIN QURAN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=756573&extension=ts&play_token=2uCa5LiMom
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/BAHRAININTERNATIONAL.png" group-title="*AR* BAHRAIN",BAHRAIN INTERNATIONAL
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=756570&extension=ts&play_token=nt8W7aPtZE
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/LUALUA.png" group-title="*AR* BAHRAIN",LUALUA TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=642523&extension=ts&play_token=fw01Gyj85v
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALMAAREF.png" group-title="*AR* BAHRAIN",AL MAAREF
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=756575&extension=ts&play_token=l0psubYYUz
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALITTIHAD.png" group-title="*AR* BAHRAIN",AL ITTIHAD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=756574&extension=ts&play_token=4DrOlFYRUm
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/BAHRAINSPORT1.png" group-title="*AR* BAHRAIN",BAHRAIN SPORT 1
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=756571&extension=ts&play_token=Wg85XJMaVQ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/BAHRAINSPORT2.png" group-title="*AR* BAHRAIN",BAHRAIN SPORT 2
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=756572&extension=ts&play_token=DZuKgP6HEN
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/JOJORDAN.png" group-title="*AR* JORDAN",##### JORDAN #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257722&extension=ts&play_token=UDJeLldIYG
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALMAMLAKA.png" group-title="*AR* JORDAN",AL MAMLAKA HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257723&extension=ts&play_token=PyzlCBhQGa
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/AMMAN.png" group-title="*AR* JORDAN",AMMAN TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257730&extension=ts&play_token=3CguNjXCi0
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/JORDAN.png" group-title="*AR* JORDAN",JORDAN HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257724&extension=ts&play_token=BoTFg6C0dj
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/JORDANSPORT.png" group-title="*AR* JORDAN",JORDAN SPORT
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257729&extension=ts&play_token=ND0CRZ2LGt
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SAMAJORDAN.png" group-title="*AR* JORDAN",SAMA JORDAN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1139905&extension=ts&play_token=yRnwdNorNH
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ROYAPLUS.png" group-title="*AR* JORDAN",ROYA TV HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257726&extension=ts&play_token=ctGkcwKZCj
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ROYAPLUS.png" group-title="*AR* JORDAN",ROYA PLUS 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=707211&extension=ts&play_token=wHkiyS9Mq0
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALGHADALARABY.png" group-title="*AR* JORDAN",AL GHAD AL ARABY UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=257733&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ROYAPLUS.png" group-title="*AR* JORDAN",ROYA UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257725&extension=ts&play_token=22zkEjUcVB
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/JORDANNOW.png" group-title="*AR* JORDAN",JORDAN NOW
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1139627&extension=ts&play_token=Z62ug5PW8g
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/yemen/flag-3d-round-250.png" group-title="*AR* YEMEN",##### YEMEN #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257739&extension=ts&play_token=QvrEIP4Yi5
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/YEMEN.png" group-title="*AR* YEMEN",YEMEN TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257740&extension=ts&play_token=xySnwWeGeb
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/YAMANSHABAB.png" group-title="*AR* YEMEN",YAMAN SHABAB UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257741&extension=ts&play_token=a6qAPM94QH
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALMAHRIAH.png" group-title="*AR* YEMEN",AL MAHRIAH
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=663564&extension=ts&play_token=vvfeJmt81x
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALMASIRAH.png" group-title="*AR* YEMEN",AL MASIRAH TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=663566&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/YEMEN.png" group-title="*AR* YEMEN",YEMEN TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=646898&extension=ts&play_token=MQjfVdGmCF
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/YEMENTODAY.png" group-title="*AR* YEMEN",YEMEN TODAY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=646899&extension=ts&play_token=YiNpDYl5Pm
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SHEBA.png" group-title="*AR* YEMEN",SHEBA TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257744&extension=ts&play_token=oUmpbcmgpq
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/YEMENTODAY.png" group-title="*AR* YEMEN",YEMEN TODAY TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257742&extension=ts&play_token=WsKknRgotJ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ADENLIVE.png" group-title="*AR* YEMEN",ADEN LIVE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257745&extension=ts&play_token=P3saSROoV2
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/YEMENALSAEEDAH.png" group-title="*AR* YEMEN",YEMEN AL SAEEDAH
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257746&extension=ts&play_token=X2Qoh1ANW4
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/AIC.png" group-title="*AR* YEMEN",AIC TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257748&extension=ts&play_token=A5IuSVCNU2
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HADRAMOOT.png" group-title="*AR* YEMEN",HADRAMOOT
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257747&extension=ts&play_token=1wE7ty7r7l
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SAUDI.png" group-title="*AR* SAOUDI",##### SAUDI ARABIA #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=377159&extension=ts&play_token=VMxUhynZH1
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SAUDIATV1.png" group-title="*AR* SAOUDI",SAUDIA TV 1 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=707234&extension=ts&play_token=0IFgSPYRgd
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SAUDIATV1.png" group-title="*AR* SAOUDI",SAUDIA TV 1 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=377158&extension=ts&play_token=j8h0ftdILp
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SAUDIAQURAN.png" group-title="*AR* SAOUDI",SAUDIA QURAN UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250107&extension=ts&play_token=klucp5DOcc
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SAUDIAQURAN.png" group-title="*AR* SAOUDI",SAUDI QURAN UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=377153&extension=ts&play_token=3w1kfBNTmp
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SAUDIASUNNAH.png" group-title="*AR* SAOUDI",SAUDIA SUNNAH
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=250108&extension=ts&play_token=0Wj8W1NKWQ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SAUDIASPORT.png" group-title="*AR* SAOUDI",SAUDIA SPORT 1 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=377156&extension=ts&play_token=VenTJ5AeNo
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SAUDIASPORT.png" group-title="*AR* SAOUDI",SAUDIA SPORT 2 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=377155&extension=ts&play_token=CC4psxjdOk
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SAUDIAALEKHBARIYA.png" group-title="*AR* SAOUDI",SAUDIA AL EKHBARIYA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=377603&extension=ts&play_token=8xH1kjfpg0
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SAUDIAALEKHBARIYA.png" group-title="*AR* SAOUDI",SAUDIA AL EKHBARIYA FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=642522&extension=ts&play_token=XDujPH2Mc2
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SAUDIAALEKHBARIYA.png" group-title="*AR* SAOUDI",SAUDIA AL EKHBARIYA UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=377157&extension=ts&play_token=JrJMduauc7
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SAUDIASUNNAH.png" group-title="*AR* SAOUDI",SAUDIA SUNNAH
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=377597&extension=ts&play_token=TCt0FJ4xN9
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SAUDIASUNNAH.png" group-title="*AR* SAOUDI",SAUDIA SUNNAH FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=642521&extension=ts&play_token=DDs9Fupljd
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/syria.png" group-title="*AR* SYRIA",##### SYRIA #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=257755&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/LANA.png" group-title="*AR* SYRIA",LANA TV UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257761&extension=ts&play_token=Nw7RyzwOiW
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/LANAPLUS.png" group-title="*AR* SYRIA",LANA PLUS
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=816433&extension=ts&play_token=KbBPbYai4n
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/LANA.png" group-title="*AR* SYRIA",LANA TV 4K +6H
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=816432&extension=ts&play_token=IrxYBXSDeP
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/LANA.png" group-title="*AR* SYRIA",LANA HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=816431&extension=ts&play_token=NsfW7bFKIn
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1285892.png" group-title="*AR* SYRIA",ANA SOORIA FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1285892&extension=ts&play_token=MH2CgB6S9x
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1285891.png" group-title="*AR* SYRIA",ANA SOORIA HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1285891&extension=ts&play_token=4Y0pmdDGRu
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/1285893.png" group-title="*AR* SYRIA",ANA SOORIA SD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1285893&extension=ts&play_token=h9MhtWa1Yv
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HALABTODAY.png" group-title="*AR* SYRIA",HALAB TODAY SD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=719376&extension=ts&play_token=pyrYpjUnx6
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/NOORALSHAM.png" group-title="*AR* SYRIA",NOOR AL SHAM
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=257772&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/NOORALSHAM.png" group-title="*AR* SYRIA",NOOR AL SHAM
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257765&extension=ts&play_token=P0jYgoeWQJ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SYRIADRAMA.png" group-title="*AR* SYRIA",SYRIA DRAMA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257757&extension=ts&play_token=3oKBoAK2T7
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SYRIADRAMA.png" group-title="*AR* SYRIA",SYRIA DRAMA +6H
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=816436&extension=ts&play_token=ygCAOcPAHh
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SYRIATV.png" group-title="*AR* SYRIA",SYRIA TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=679988&extension=ts&play_token=QOmVBpvSSB
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/IRAQ.png" group-title="*AR* IRAQ",##### IRAQ #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=288683&extension=ts&play_token=AXH1TbE7nw
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALIRAQIANEWS.png" group-title="*AR* IRAQ",AL IRAQIA NEWS
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257777&extension=ts&play_token=H8NBcnmxbc
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALRABIAAIRAQ.png" group-title="*AR* IRAQ",AL RABIAA IRAQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=604999&extension=ts&play_token=vNnCjS7DNP
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SAMARRAE.png" group-title="*AR* IRAQ",SAMARRAE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257789&extension=ts&play_token=SuhRAvxOJL
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALAQILA.png" group-title="*AR* IRAQ",AL AQILA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257797&extension=ts&play_token=w1IYYvCS6c
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALGHADEER.png" group-title="*AR* IRAQ",AL GHADEER
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257798&extension=ts&play_token=HxDcnlsPRN
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALIRAQIASPORT.png" group-title="*AR* IRAQ",AL IRAQIA SPORT
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257790&extension=ts&play_token=OId2ZVUgn3
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALAWLAIRAQ.png" group-title="*AR* IRAQ",ALAWLA IRAQ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=880814&extension=ts&play_token=F2GJJvNddB
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/1IRAQ.png" group-title="*AR* IRAQ",1 IRAQ TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=878366&extension=ts&play_token=S3lwmj4oNj
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALRABIAATVSPORT.png" group-title="*AR* IRAQ",ALRABIAA TV SPORT
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=866559&extension=ts&play_token=jh139vtLlo
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SHABABIRAQSPORT1.png" group-title="*AR* IRAQ",SHABAB IRAQ SPORT 1 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=802481&extension=ts&play_token=vEUKaL13GX
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALMAWAKEB.png" group-title="*AR* IRAQ",AL MAWAKEB TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=689590&extension=ts&play_token=53NJ4Jmoku
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/THESAVIOR.png" group-title="*AR* IRAQ",THE SAVIOR
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=688368&extension=ts&play_token=GMlq6Se7M2
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SUDAN.png" group-title="*AR* SUDAN",##### SUDAN #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=756853&extension=ts&play_token=uKVnKIAoH5
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SUDANCHINGUIT.png" group-title="*AR* SUDAN",SUDAN TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=310703&extension=ts&play_token=X6iO0Ya2A1
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/SUDANIA24.png" group-title="*AR* SUDAN",SUDANIA 24 SD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=310694&extension=ts&play_token=ZHOyrqm9l6
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KASSALA.png" group-title="*AR* SUDAN",KASSALA TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=310701&extension=ts&play_token=eCTeSDU7wE
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/REDSEA.png" group-title="*AR* SUDAN",RED SEA TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=310708&extension=ts&play_token=O6v4pJPv32
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALSHAMALIA.png" group-title="*AR* SUDAN",AL SHAMALIA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=310707&extension=ts&play_token=0fBPboyzzc
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/TAYBASUDAN.png" group-title="*AR* SUDAN",TAYBA SUDAN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=620298&extension=ts&play_token=eHS0NBfsMq
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SUDANKNOWLEDGE.png" group-title="*AR* SUDAN",SUDAN KNOWLEDGE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=310705&extension=ts&play_token=3eMR52nMnj
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/SUDANDRAMA.png" group-title="*AR* SUDAN",SUDAN DRAMA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=310704&extension=ts&play_token=3s3Km7Zj5y
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/ssbc.png" group-title="*AR* SUDAN",SSBC SUDAN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=310698&extension=ts&play_token=rqKv16IgUy
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/SUDANSPORTTV.png" group-title="*AR* SUDAN",SUDAN SPORT
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=310699&extension=ts&play_token=cDtj8zjJsd
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/bntv2hd.png" group-title="*AR* SUDAN",BNTV 2
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=310695&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/PALESTINE.png" group-title="*AR* PALESTINE",##### PALESTINE #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=627635&extension=ts&play_token=WklwcU2k6n
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/palestinelive.png" group-title="*AR* PALESTINE",PALESTINE LIVE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=627636&extension=ts&play_token=fEJxbQ3Cz4
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/palestinetoday.png" group-title="*AR* PALESTINE",PALESTINE TODAY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=627639&extension=ts&play_token=uhgfI01o4r
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/palestinesport.png" group-title="*AR* PALESTINE",PALESTINE SPORT
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=627638&extension=ts&play_token=6mryG45rpe
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/PALESTINE-TV.png" group-title="*AR* PALESTINE",PALESTINE TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=627640&extension=ts&play_token=3kjgUDULwb
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/alqudstodaytv.png" group-title="*AR* PALESTINE",AL QUDS TODAY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=802677&extension=ts&play_token=iwiU4xwnAb
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/AL-SERAJ-AL-AQSA.png" group-title="*AR* PALESTINE",AL SERAJ AL AQSA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=672363&extension=ts&play_token=wkeXVEyOPh
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/maantv.png" group-title="*AR* PALESTINE",MAAN TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=627641&extension=ts&play_token=aGcOn5fDBV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MUSAWACHANNEL.png" group-title="*AR* PALESTINE",MUSAWA CHANNEL
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=810403&extension=ts&play_token=omvxWyooNa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NABLUS-QURAN.png" group-title="*AR* PALESTINE",NABLUS QURAN TV HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1155761&extension=ts&play_token=cYaWIn0EdH
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/QAF.png" group-title="*AR* PALESTINE",QAF TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=642520&extension=ts&play_token=kzr0CseUJw
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/alaraby2.png" group-title="*AR* PALESTINE",AL ARABY 2 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=702147&extension=ts&play_token=ib5NdP14UE
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/alaraby2.png" group-title="*AR* PALESTINE",AL ARABY 2 HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=702148&extension=ts&play_token=fsgA1kbwvj
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/awdeh.png" group-title="*AR* PALESTINE",AWDEH TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=627642&extension=ts&play_token=1jgdQfHtlH
+#EXTINF:-1 tvg-logo="https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Qatar-icon.png" group-title="*AR* QATAR",##### QATAR TV #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=665320&extension=ts&play_token=cIoJsRqfht
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/QBCBUSINESSCHANNEL.png" group-title="*AR* QATAR",QBC BUSINESS CHANNEL
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1418163&extension=ts&play_token=B2uGqGWLKM
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/QATAR-2.png" group-title="*AR* QATAR",QATAR TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=665321&extension=ts&play_token=cC3Sb8cPLj
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/QATAR-2.png" group-title="*AR* QATAR",QATAR 2 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=665322&extension=ts&play_token=zSCdc9ilEU
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/alrayyan.png" group-title="*AR* QATAR",RAYYAN UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=665325&extension=ts&play_token=KBb3dwF4vt
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/alrayyan.png" group-title="*AR* QATAR",AL RAYYAN Al QADEEM UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=665326&extension=ts&play_token=h4gcIaJtU6
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/alaraby2.png" group-title="*AR* QATAR",AL ARABY 2
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=683164&extension=ts&play_token=KmnYRSoCpW
+#EXTINF:-1 tvg-logo="https://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Kuwait-icon.png" group-title="*AR* KUWAIT",##### KUWAIT #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=566077&extension=ts&play_token=GDAWzBTmxw
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/ktv1.png" group-title="*AR* KUWAIT",KTV 1 HD ◉
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=566086&extension=ts&play_token=obE0pjNhgY
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/ktv2.png" group-title="*AR* KUWAIT",V HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=566089&extension=ts&play_token=J6bKZRU0Lz
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/KUWAIT-ETHRAA.png" group-title="*AR* KUWAIT",KTV ETHRAA HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=566088&extension=ts&play_token=WN044VEjPt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/KTVSPORT.png" group-title="*AR* KUWAIT",KTV SPORT HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=826488&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/AL-MAALY.png" group-title="*AR* KUWAIT",AL MAALY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=566085&extension=ts&play_token=CoY7j5clo6
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/ALRAI.png" group-title="*AR* KUWAIT",ALRAI HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=566078&extension=ts&play_token=TqLf7vrPe7
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/AL-SHAHED.png" group-title="*AR* KUWAIT",AL SHAHED
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=566092&extension=ts&play_token=1jvC8IfFsE
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/ktvalaraby.png" group-title="*AR* KUWAIT",KTV AL ARABI
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=566087&extension=ts&play_token=axateB5yow
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/almajlis.png" group-title="*AR* KUWAIT",AL MAJLIS
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=566083&extension=ts&play_token=0lhT5o8eQC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/AL-SABAH-TV.png" group-title="*AR* KUWAIT",AL SABAH TV
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=566079&extension=ts&play_token=8CbMW8q40d
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/KUWAIT-TV-PLUS.png" group-title="*AR* KUWAIT",KUWAIT TV PLUS 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=566082&extension=ts&play_token=kME5dZxPdU
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/ABU-DHABI.png" group-title="*AR* ARABIC VIP",##### UAE VIP #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=756861&extension=ts&play_token=0y1VZKaI6H
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/nationalgeo.png" group-title="*AR* ARABIC VIP",ABU DHABI NATIOANL GEO UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257321&extension=ts&play_token=5UUoahfdrw
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/nationalgeo.png" group-title="*AR* ARABIC VIP",NATIONAL GEO ABU DHABI
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257322&extension=ts&play_token=8lOpTpzJ0h
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/AJMAN.png" group-title="*AR* ARABIC VIP",AJMAN TV UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257749&extension=ts&play_token=PimmtIlGlD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/dubaisports2.png" group-title="*AR* ARABIC VIP",DUBAI SPORT2
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257482&extension=ts&play_token=Ao5KzGt2rJ
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/dubaisports3.png" group-title="*AR* ARABIC VIP",DUBAI SPORT 3 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257483&extension=ts&play_token=cVtl9Yq4A5
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/yas.png" group-title="*AR* ARABIC VIP",YAS SPORT UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=257484&extension=ts&play_token=3rBt33kSdz
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/QATAR.png" group-title="*AR* ARABIC VIP",##### QATAR  VIP #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=570340&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/alrayyan.png" group-title="*AR* ARABIC VIP",RAYYAN UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=570335&extension=ts&play_token=VwKRuJ1n7C
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/alrayyanalqadeemhd.png" group-title="*AR* ARABIC VIP",AL RAYYAN AL QADEEM UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=570334&extension=ts&play_token=5rMqI1Ehld
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/qatartv.png" group-title="*AR* ARABIC VIP",QATAR TV HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=570339&extension=ts&play_token=V4MAJWtkHa
+#EXTINF:-1 tvg-logo="https://103.176.90.154/piconsnew/qatar2.png" group-title="*AR* ARABIC VIP",QATAR 2 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=570338&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/QATAR-TODAY-1-SOON.png" group-title="*AR* ARABIC VIP",QATAR TODAY 1 SOON
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=570337&extension=ts&play_token=DJQjyKy0ur
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/BIN-OTHAIMEEN.png" group-title="*AR* ARABIC VIP",BIN OTHAIMEEN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=377598&extension=ts&play_token=E81e6StQ1N
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png" group-title="*AR* WATCHBOX 4K",WATCHBOX DOCUMENTARY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006846&extension=ts&play_token=dUmpUWWdQI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png" group-title="*AR* WATCHBOX 4K",WATCHBOX BARAEEM
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006845&extension=ts&play_token=f4ZiCkNd48
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png" group-title="*AR* WATCHBOX 4K",WATCHBOX MAX
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006842&extension=ts&play_token=4AHX4IqQBB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png" group-title="*AR* WATCHBOX 4K",WATCHBOX PRIME
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006841&extension=ts&play_token=LWUMWKq6qr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png" group-title="*AR* WATCHBOX 4K",WATCHBOX REWAYAT
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006840&extension=ts&play_token=nBNidguI0X
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png" group-title="*AR* WATCHBOX 4K",WATCHBOX BARAEEM UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1007040&extension=ts&play_token=hpfSTxotFy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png" group-title="*AR* WATCHBOX 4K",WATCHBOX DISNEY XD UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1007039&extension=ts&play_token=An1RzFDOGQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png" group-title="*AR* WATCHBOX 4K",WATCHBOX PRIME UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1007038&extension=ts&play_token=GfzRidRdfq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png" group-title="*AR* WATCHBOX 4K",WATCHBOX DOCUMENTARY UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1007036&extension=ts&play_token=Xz2sMX39wT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/WATCHBOX.png" group-title="*AR* WATCHBOX 4K",WATCHBOX LIFE UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1007035&extension=ts&play_token=vfas0xkxa0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ADEL-EMAM.png" group-title="*AR* ACTORS 4K",ADEL EMAM MOVIES
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006905&extension=ts&play_token=idFMlUQwkL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ADEL-EMAM.png" group-title="*AR* ACTORS 4K",ADEL EMAM MOVIES 2
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006906&extension=ts&play_token=uTNWKnK8P3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AHMED-EL-SAKKA.png" group-title="*AR* ACTORS 4K",AHMED EL SAKKA MOVIES
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006910&extension=ts&play_token=NpYInFKFiF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AHMED-HELMY.png" group-title="*AR* ACTORS 4K",AHMED HELMY MOVIES
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006909&extension=ts&play_token=BA4feff7Vy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AHMED-ZAKI.png" group-title="*AR* ACTORS 4K",AHMED ZAKI MOVIES
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006907&extension=ts&play_token=TPAGpX3hQC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AHMED-ZAKI.png" group-title="*AR* ACTORS 4K",AHMED ZAKI MOVIES 2
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006908&extension=ts&play_token=RMxM0LfTxS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOM-CRUISE.png" group-title="*AR* ACTORS 4K",TOM CRUISE MOVIES
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006903&extension=ts&play_token=PYHvdZwyKq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOM-CRUISE.png" group-title="*AR* ACTORS 4K",TOM CRUISE MOVIES 2
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006904&extension=ts&play_token=WiuVXjERQ6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOM-HANKS.png" group-title="*AR* ACTORS 4K",TOM HANKS MOVIES
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006901&extension=ts&play_token=el4NUG990I
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOM-HANKS.png" group-title="*AR* ACTORS 4K",TOM HANKS MOVIES+
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006902&extension=ts&play_token=wsnR0fieLO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/911.png" group-title="*AR* ROYA",911
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006971&extension=ts&play_token=YT1T0p06CU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALHAYBA.png" group-title="*AR* ROYA",ALHAYBA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006961&extension=ts&play_token=XgUZGeFdXj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ALZAEEM.png" group-title="*AR* ROYA",ALZAEEM
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006967&extension=ts&play_token=jGTgf3WXV5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ANA-BAHKILAK-ELGESSA.png" group-title="*AR* ROYA",ANA BAHKILAK ELGESSA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006965&extension=ts&play_token=eUjXwxg8ze
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AROUND-THE-WORLD.png" group-title="*AR* ROYA",AROUND THE WORLD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006980&extension=ts&play_token=hjO5fP4Ymh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/AYMAN-ZAYDAN.jpg" group-title="*AR* ROYA",AYMAN ZAYDAN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006968&extension=ts&play_token=M9so9oT3UO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/BY2AH-SHAMYEH.png" group-title="*AR* ROYA",BY2AH SHAMYEH
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006959&extension=ts&play_token=ZjcjLQq1K4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CARAVAN.png" group-title="*AR* ROYA",CARAVAN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006982&extension=ts&play_token=GkbrdZY2n0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CHEF-MAN.png" group-title="*AR* ROYA",CHEF MAN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006975&extension=ts&play_token=oqeGkXKocg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/DAHIK-WABS.png" group-title="*AR* ROYA",DAHIK WABS
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006979&extension=ts&play_token=pnEXH7pWWG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/DOCUMENTARIES.png" group-title="*AR* ROYA",DOCUMENTARIES
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006955&extension=ts&play_token=NyUOYw2BU2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/HAKI-MONAWWA.png" group-title="*AR* ROYA",HAKI MONAWWA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006974&extension=ts&play_token=aGm2y2ebaE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/HARET-ALQUBBEH.png" group-title="*AR* ROYA",HARET ALQUBBEH
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006964&extension=ts&play_token=asmCe1h23l
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/HELWA-YA-DONYA.png" group-title="*AR* ROYA",HELWA YA DONYA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006977&extension=ts&play_token=qJl3c55qYp
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/wayak.png" group-title="*AR* WEYYAK",##### WEYYAK #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006847&extension=ts&play_token=irp484cigu
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/wayak.png" group-title="*AR* WEYYAK",WEYYAK ACTION FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006869&extension=ts&play_token=8N6GfKQYfc
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/wayak.png" group-title="*AR* WEYYAK",WEYYAK MIX FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006868&extension=ts&play_token=vssDDvvH4g
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/wayak.png" group-title="*AR* WEYYAK",WEYYAK NAWAEM FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006870&extension=ts&play_token=lEOsmLk1Bb
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/wayak.png" group-title="*AR* WEYYAK",WEYYAK SMASHI TV FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006866&extension=ts&play_token=e3B4Xqe4Mk
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/wayak.png" group-title="*AR* WEYYAK",أيوب
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006852&extension=ts&play_token=LoxXiJ0zhd
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/wayak.png" group-title="*AR* WEYYAK",إمرأة من رماد
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006851&extension=ts&play_token=XL0L2GjiFv
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/wayak.png" group-title="*AR* WEYYAK",المفتاح
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006849&extension=ts&play_token=B4NcSGbX9Z
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/wayak.png" group-title="*AR* WEYYAK",المواجهة
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006850&extension=ts&play_token=d87f3b6pVM
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/wayak.png" group-title="*AR* WEYYAK",حكايا
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006856&extension=ts&play_token=hKfFfvpG7a
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/wayak.png" group-title="*AR* WEYYAK",حكايا المرايا
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006857&extension=ts&play_token=nac1hFO94M
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/wayak.png" group-title="*AR* WEYYAK",عطر الشام 1
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006862&extension=ts&play_token=sgd88krnaG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png" group-title="*AR* MAJESTIC 4K",MAJESTIC ACTION
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006826&extension=ts&play_token=UzlKacyRPz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png" group-title="*AR* MAJESTIC 4K",MAJESTIC ACTION EN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006833&extension=ts&play_token=0IwQIrWxSj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png" group-title="*AR* MAJESTIC 4K",MAJESTIC ADVENTURE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006832&extension=ts&play_token=lxW4DgATq6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png" group-title="*AR* MAJESTIC 4K",MAJESTIC ANIMATION
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006837&extension=ts&play_token=YkZjiCoKeJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png" group-title="*AR* MAJESTIC 4K",MAJESTIC COMEDY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006828&extension=ts&play_token=IlpU0RgFLI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png" group-title="*AR* MAJESTIC 4K",MAJESTIC COMEDY EN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006835&extension=ts&play_token=zh7RXWbxvO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png" group-title="*AR* MAJESTIC 4K",MAJESTIC DRAMA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006827&extension=ts&play_token=C8CqHxD47X
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png" group-title="*AR* MAJESTIC 4K",MAJESTIC DRAMA EN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006834&extension=ts&play_token=rjviVIH7Xa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png" group-title="*AR* MAJESTIC 4K",MAJESTIC HORROR
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006829&extension=ts&play_token=8eJvgzR0Eh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png" group-title="*AR* MAJESTIC 4K",MAJESTIC THRILLER
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006830&extension=ts&play_token=WlOvYWskHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MAJESTIC-ANIMATION.png" group-title="*AR* MAJESTIC 4K",MAJESTIC THRILLER EN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006836&extension=ts&play_token=d8I9m20wPt
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/NETFLIX.png" group-title="*AR* NETFLIX",###### NETFLIX  ######
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=587714&extension=ts&play_token=WSnHcdKqZm
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/NETFLIX.png" group-title="*AR* NETFLIX",NETFLIX MOVIES 1 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=587715&extension=ts&play_token=0fVDj9JsaV
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/NETFLIX.png" group-title="*AR* NETFLIX",NETFLIX MOVIES 1 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=587713&extension=ts&play_token=tBWxYdGzVn
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/NETFLIX.png" group-title="*AR* NETFLIX",NETFLIX MOVIES 3 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=587711&extension=ts&play_token=8dXSgzCVEG
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/NETFLIX.png" group-title="*AR* NETFLIX",NETFLIX MOVIES 4 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=587710&extension=ts&play_token=RDjFdlowfM
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/NETFLIX.png" group-title="*AR* NETFLIX",NETFLIX MOVIES 5 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=587709&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/NETFLIX.png" group-title="*AR* NETFLIX",NETFLIX MOVIES 6 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=587708&extension=ts&play_token=yAJposI21R
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/NETFLIX.png" group-title="*AR* NETFLIX",NETFLIX MOVIES 8 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=587706&extension=ts&play_token=BKUw4nDhac
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/NETFLIX.png" group-title="*AR* NETFLIX",NETFLIX MOVIES 9 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=587705&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/NETFLIX.png" group-title="*AR* NETFLIX",NETFLIX MOVIES 10 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=587704&extension=ts&play_token=L2ZA8dZNtk
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. CINEMA",#### SHAHID CINEMA ####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=585426&extension=ts&play_token=06MUblQ6z6
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. CINEMA",SHAHID CINEMA 1 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=585425&extension=ts&play_token=bNZ9BGYG5i
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. CINEMA",SHAHID CINEMA 2 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=585424&extension=ts&play_token=UBWsLv0Xep
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. CINEMA",SHAHID CINEMA 3 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=585423&extension=ts&play_token=PYhrXos41H
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. CINEMA",SHAHID CINEMA 4 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=585422&extension=ts&play_token=ZuNRdV1HAD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. CINEMA",SHAHID CINEMA 5 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=585421&extension=ts&play_token=Mx7EjhKqRp
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. CINEMA",SHAHID CINEMA 6 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=585420&extension=ts&play_token=0z8YIcJdb3
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. CINEMA",SHAHID CINEMA 7 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=585419&extension=ts&play_token=a9cLf9VYGD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. CINEMA",SHAHID CINEMA 8 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=585418&extension=ts&play_token=wDVdS9VjzJ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. CINEMA",SHAHID CINEMA 9 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=585417&extension=ts&play_token=dTv5PwXKzO
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. CINEMA",SHAHID CINEMA 10 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=585416&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. CINEMA",SHAHID CINEMA 11 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=585415&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. CINEMA",SHAHID CINEMA 12 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=585414&extension=ts&play_token=PT634KkfcL
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. CINEMA",SHAHID CINEMA 13 UHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=585413&extension=ts&play_token=Ufq7ncZ0tZ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. VIP",##### SHAHID. VIP #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=720003&extension=ts&play_token=VjSztUwevc
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. VIP",الثقافية
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1012580&extension=ts&play_token=hX1xBL13RZ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. VIP",أصلي و حصري
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1012579&extension=ts&play_token=A9FYFeHZ6t
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. VIP",WWE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1012578&extension=ts&play_token=S3nGMycwfr
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. VIP",WIFI
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1012577&extension=ts&play_token=JzQBKItYty
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. VIP",TOP-GEAR
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1012575&extension=ts&play_token=7j468KtRxl
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. VIP",TOP CHEF
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1012574&extension=ts&play_token=8wLLnKW8Ca
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. VIP",TILL DEATH
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1012573&extension=ts&play_token=LpAMTvwlhv
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. VIP",TASH
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1012571&extension=ts&play_token=vUUiopASwf
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. VIP",STILETTO
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1012570&extension=ts&play_token=I6Rz7muLRK
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. VIP",SHAHID MA LAM TARA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1012568&extension=ts&play_token=I2TtiS3Ecv
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/SHAHID.png" group-title="*AR* SHAHID. VIP",SELFIE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1012567&extension=ts&play_token=4UmU3tRrfq
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shofo-drama.png" group-title="*AR* DRAMA PLAY",### DRAMA PLAY ###
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=575061&extension=ts&play_token=uBYVgPU1B8
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shofo-drama.png" group-title="*AR* DRAMA PLAY",الجوكر
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=575062&extension=ts&play_token=xR3Tl62YOT
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shofo-drama.png" group-title="*AR* DRAMA PLAY",مقابلة مع السيد أدم
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=575063&extension=ts&play_token=sej3EiwJhr
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shofo-drama.png" group-title="*AR* DRAMA PLAY",بروكار
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=575064&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shofo-drama.png" group-title="*AR* DRAMA PLAY",وهم
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=575065&extension=ts&play_token=vM6ortp8jz
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shofo-drama.png" group-title="*AR* DRAMA PLAY",ناس من ورق
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=575066&extension=ts&play_token=CQ04bJQrGz
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shofo-drama.png" group-title="*AR* DRAMA PLAY",دومينو
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=575067&extension=ts&play_token=DOUQAmJO6o
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shofo-drama.png" group-title="*AR* DRAMA PLAY",عناية مشددة
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=575068&extension=ts&play_token=xwNCXWL7fe
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shofo-drama.png" group-title="*AR* DRAMA PLAY",حارة المشرقة
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=575069&extension=ts&play_token=WFNTFVzXX3
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shofo-drama.png" group-title="*AR* DRAMA PLAY",دقيقة صمت
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=575070&extension=ts&play_token=STxNXkT9pg
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shofo-drama.png" group-title="*AR* DRAMA PLAY",أثر الفراشة
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=575071&extension=ts&play_token=LGu4K0F7ne
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shofo-drama.png" group-title="*AR* DRAMA PLAY",شبابيك
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=575072&extension=ts&play_token=JQKTdBM2LH
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shofo-drama.png" group-title="*AR* DRAMA PLAY",سنة أولى زواج
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=575073&extension=ts&play_token=0NXisXrPLP
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shofo-drama.png" group-title="*AR* DRAMA PLAY",كونتاك
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=575074&extension=ts&play_token=RnaKtBvD95
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shoof-comedy.png" group-title="*AR* COMEDY PLAY",##### COMEDY PLAY #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=571842&extension=ts&play_token=LjZAH3IYCw
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shoof-comedy.png" group-title="*AR* COMEDY PLAY",ببساطة 1
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=571843&extension=ts&play_token=mTO9ovmItP
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shoof-comedy.png" group-title="*AR* COMEDY PLAY",وعدتني يا رفيقي
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=571845&extension=ts&play_token=xE6ARgmJKS
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shoof-comedy.png" group-title="*AR* COMEDY PLAY",الواق الواق
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=571846&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shoof-comedy.png" group-title="*AR* COMEDY PLAY",الطواريد
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=571847&extension=ts&play_token=160xwHtWeO
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shoof-comedy.png" group-title="*AR* COMEDY PLAY",الخربة
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=571848&extension=ts&play_token=om7Avbdsna
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shoof-comedy.png" group-title="*AR* COMEDY PLAY",اللعبة
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=571849&extension=ts&play_token=8CGOTbfbVW
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shoof-comedy.png" group-title="*AR* COMEDY PLAY",وش السعد
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=571850&extension=ts&play_token=MLBWrGydki
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shoof-comedy.png" group-title="*AR* COMEDY PLAY",اللكوندة
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=571851&extension=ts&play_token=oRMyGcyJQV
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shoof-comedy.png" group-title="*AR* COMEDY PLAY",الوصية
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=571852&extension=ts&play_token=9T4wxieaHu
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shoof-comedy.png" group-title="*AR* COMEDY PLAY",إتنين في الصندوق
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=571853&extension=ts&play_token=vAA7uBOkd6
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shoof-comedy.png" group-title="*AR* COMEDY PLAY",خلصانة بشياكة
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=571854&extension=ts&play_token=k2yhJPYN1L
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/shoof-comedy.png" group-title="*AR* COMEDY PLAY",حشمت في البيت الأبيض
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=571855&extension=ts&play_token=jwAjnfa5Np
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="*AR* ALWAN",ALWAN TURKEY 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1388728&extension=ts&play_token=co545t1jFx
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="*AR* ALWAN", ALWAN MOSALSALAT 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1388727&extension=ts&play_token=36gCIKoTDc
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="*AR* ALWAN",ALWAN ATFAL 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1388726&extension=ts&play_token=3KWN9uBVPB
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="*AR* ALWAN",ALWAN ALWATHAEQYE 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1388725&extension=ts&play_token=7ZZJ0qKqPQ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="*AR* ALWAN",ALWAN AFLAM 2 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1388724&extension=ts&play_token=4xNeeNQHpi
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="*AR* ALWAN",ALWAN AFLAM 1 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1388723&extension=ts&play_token=4u30RDcMq4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png" group-title="*AR* AMAZON PRIME",##### AMAZON PRIME #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=908389&extension=ts&play_token=C0fge1KZAV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png" group-title="*AR* AMAZON PRIME",AMAZON ACTION
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=908388&extension=ts&play_token=eT0o2r6HjT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png" group-title="*AR* AMAZON PRIME",AMAZON CRIME
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=908387&extension=ts&play_token=OMkNhvZ6Cl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png" group-title="*AR* AMAZON PRIME",AMAZON DRAMA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=908385&extension=ts&play_token=gTp7RpMSQu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png" group-title="*AR* AMAZON PRIME",AMAZON MYSTERY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=908386&extension=ts&play_token=QfMjV75QI0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png" group-title="*AR* AMAZON PRIME",AMAZON COMEDY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=908384&extension=ts&play_token=PXg45kevD7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png" group-title="*AR* AMAZON PRIME",AMAZON WAR
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=908383&extension=ts&play_token=B8Op3Smxfm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png" group-title="*AR* AMAZON PRIME",AMAZON FAMILY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=908382&extension=ts&play_token=nbu7HvLV6Z
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png" group-title="*AR* AMAZON PRIME",AMAZON MIXTA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=908381&extension=ts&play_token=9fg3MvAI7m
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png" group-title="*AR* AMAZON PRIME",AMAZON DIRECTO
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=908380&extension=ts&play_token=TeeirBzhY3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png" group-title="*AR* AMAZON PRIME",AMAZON DOCUMENTARY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=908378&extension=ts&play_token=pzbE1IfaWt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png" group-title="*AR* AMAZON PRIME",AMAZON ARABI +
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=908377&extension=ts&play_token=4JVgfzXHYy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png" group-title="*AR* AMAZON PRIME",AMAZON ARABI +2
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=908376&extension=ts&play_token=CM2vOw6WMR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PRIME-VIDEO.png" group-title="*AR* AMAZON PRIME",AMAZON COMIC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=908375&extension=ts&play_token=bSBrenOlQm
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HBOMAX.png" group-title="*AR* HBO",##### HBO #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909102&extension=ts&play_token=w92FBARTrn
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HBOMAX.png" group-title="*AR* HBO",HBO TOP TEN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909101&extension=ts&play_token=xTFGJuF4QT
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HBOMAX.png" group-title="*AR* HBO",HBO ACTION
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909099&extension=ts&play_token=1GoEhep9XV
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HBOMAX.png" group-title="*AR* HBO",HBO HISTORY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909098&extension=ts&play_token=EVTPZTbWQ5
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HBOMAX.png" group-title="*AR* HBO",HBO CRIME
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909097&extension=ts&play_token=Gv2QulGacM
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HBOMAX.png" group-title="*AR* HBO",HBO MAX
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909096&extension=ts&play_token=qrqp1fn9q1
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HBOMAX.png" group-title="*AR* HBO",HBO ARABIC
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909095&extension=ts&play_token=pacEFD0scx
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HBOMAX.png" group-title="*AR* HBO",HBO ASIAN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909094&extension=ts&play_token=dlmVaAmjWo
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HBOMAX.png" group-title="*AR* HBO",HBO BOLLYWOOD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909093&extension=ts&play_token=6stkMit7YQ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HBOMAX.png" group-title="*AR* HBO",HBO ANIMATION
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909092&extension=ts&play_token=FixxvVFjtO
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HULU.png" group-title="*AR* HULU",##### HULU #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909382&extension=ts&play_token=pYP1K6qCO3
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HULU.png" group-title="*AR* HULU",HULU ADVENTURE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909381&extension=ts&play_token=LuYlu1OZOE
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HULU.png" group-title="*AR* HULU",HULU COMEDY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909380&extension=ts&play_token=7BiInOdbQO
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HULU.png" group-title="*AR* HULU",HULU CRIME
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909379&extension=ts&play_token=RMRl8hQN3x
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HULU.png" group-title="*AR* HULU",HULU MYSTERY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909378&extension=ts&play_token=D6LdOq4308
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HULU.png" group-title="*AR* HULU",HULU SCI- FI
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909377&extension=ts&play_token=UuYeltEEh2
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HULU.png" group-title="*AR* HULU",HULU FANTASY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909376&extension=ts&play_token=PWtZ7nRcvO
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HULU.png" group-title="*AR* HULU",HULU FRENCH
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909375&extension=ts&play_token=sYMGQbpPzC
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HULU.png" group-title="*AR* HULU",HULU ITALIAN
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909374&extension=ts&play_token=dEXduz3cw5
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HULU.png" group-title="*AR* HULU",HULU GERMANY
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=909373&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HULU.png" group-title="*AR* HULU",HULU SPANISH
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=0/play/live.php?mac=00:1A:79:81:41:3f&stream=909372&extension=ts&play&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/HULU.png" group-title="*AR* HULU",HULU ANIMATION
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909371&extension=ts&play_token=a5I5C3E0fh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png" group-title="*AR* TOD",##### TOD #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909573&extension=ts&play_token=m2xkSQNhX7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png" group-title="*AR* TOD",TOD UNA
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909572&extension=ts&play_token=I9yKMPN7f2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png" group-title="*AR* TOD",TOD DOS
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909571&extension=ts&play_token=BCytx9rQZs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png" group-title="*AR* TOD",TOD TRES
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909570&extension=ts&play_token=cdLj38mXtS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png" group-title="*AR* TOD",TOD CUATRO
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909569&extension=ts&play_token=zGJm0VTyoA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png" group-title="*AR* TOD",TOD CINCO
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909568&extension=ts&play_token=r7d7DVHN8m
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png" group-title="*AR* TOD",TOD SEIS
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909567&extension=ts&play_token=rHVtF3o6GZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png" group-title="*AR* TOD",TOD SIETE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909566&extension=ts&play_token=RgI3hzRA2m
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png" group-title="*AR* TOD",TOD OCHO
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909565&extension=ts&play_token=Gp4U0Ds4rx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png" group-title="*AR* TOD",TOD NUEVE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909564&extension=ts&play_token=xmXG2HIN1J
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png" group-title="*AR* TOD",TOD DIEZ
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909563&extension=ts&play_token=KVpDLRjktP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png" group-title="*AR* TOD",TDO ONCE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909562&extension=ts&play_token=APsjRljODH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png" group-title="*AR* TOD",TOD TRECE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909561&extension=ts&play_token=llV3NLwND0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TOD-LOGO.png" group-title="*AR* TOD",TOD CATORCE
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909560&extension=ts&play_token=DZ3oLAgcUc
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/VIVO.png" group-title="*AR* VIVO",##### VIVO #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909978&extension=ts&play_token=Lelh4Fqmir
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/VIVO.png" group-title="*AR* VIVO",VIVO LIVE HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=1006838&extension=ts&play_token=S3WAMQOlbM
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/VIVO.png" group-title="*AR* VIVO",VIVO CINEMA HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909977&extension=ts&play_token=ySJTBVXAu7
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/VIVO.png" group-title="*AR* VIVO",VIVO CLUB HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909976&extension=ts&play_token=bYJ1W4gs3u
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/VIVO.png" group-title="*AR* VIVO",VIVO OSCAR HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909975&extension=ts&play_token=fPg0MRi3yg
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/VIVO.png" group-title="*AR* VIVO",VIVO SHOWTIME HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909974&extension=ts&play_token=Um45H7qjxl
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/VIVO.png" group-title="*AR* VIVO",VIVO PLUS + HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909973&extension=ts&play_token=PoZsox4RTR
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/VIVO.png" group-title="*AR* VIVO",VIVO MOVIES HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909972&extension=ts&play_token=ZHiBPsjeER
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/VIVO.png" group-title="*AR* VIVO",VIVO CENTRAL HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909971&extension=ts&play_token=359UGHo7MF
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/VIVO.png" group-title="*AR* VIVO",VIVO WAR TIME HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909970&extension=ts&play_token=41ek7mtHva
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/VIVO.png" group-title="*AR* VIVO",VIVO WAR TIME GALAXY HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909969&extension=ts&play_token=XfY4tixVXx
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/VIVO.png" group-title="*AR* VIVO",VIVO ONLINE HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909968&extension=ts&play_token=Jew3XLdF3J
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/VIVO.png" group-title="*AR* VIVO",VIVO CRYSTAL HD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909967&extension=ts&play_token=YjgXsJ6fvB
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/VIVO.png" group-title="*AR* VIVO",VIVO WIPEOUT XTRA 4K
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=909966&extension=ts&play_token=Ku9oRZBANa
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BOXOFFICE.png" group-title="*AR* PREMIUM PLAY",##### BOX OFFICE #####
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=458290&extension=ts&play_token=SPDaSC7dUa
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BOXOFFICE.png" group-title="*AR* PREMIUM PLAY",BOX OFFICE 1 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=458291&extension=ts&play_token=w7UvlCsZKS
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BOXOFFICE.png" group-title="*AR* PREMIUM PLAY",BOX OFFICE 2 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=458292&extension=ts&play_token=5L4tXHbdnq
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BOXOFFICE.png" group-title="*AR* PREMIUM PLAY",BOX OFFICE 3 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=458293&extension=ts&play_token=Wj5OSSjkgV
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BOXOFFICE.png" group-title="*AR* PREMIUM PLAY",BOX OFFICE 4 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=458294&extension=ts&play_token=c1POe3Upn2
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BOXOFFICE.png" group-title="*AR* PREMIUM PLAY",BOX OFFICE 5 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=458295&extension=ts&play_token=QPuGu4uFyu
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BOXOFFICE.png" group-title="*AR* PREMIUM PLAY",BOX OFFICE 6 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=458296&extension=ts&play_token=4Y6weVpPMG
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BOXOFFICE.png" group-title="*AR* PREMIUM PLAY",BOX OFFICE 7 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=458297&extension=ts&play_token=Kz4jSJw8Zl
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BOXOFFICE.png" group-title="*AR* PREMIUM PLAY",BOX OFFICE 8 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=458298&extension=ts&play_token=fiotokWEtV
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BOXOFFICE.png" group-title="*AR* PREMIUM PLAY",BOX OFFICE 9 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=458299&extension=ts&play_token=qtmB0TtJ1Y
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BOXOFFICE.png" group-title="*AR* PREMIUM PLAY",BOX OFFICE 10 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=458300&extension=ts&play_token=aL8FpX5PX3
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BOXOFFICE.png" group-title="*AR* PREMIUM PLAY",BOX OFFICE 11 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=458301&extension=ts&play_token=MVnlGsxd44
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BOXOFFICE.png" group-title="*AR* PREMIUM PLAY",BOX OFFICE 12 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=458302&extension=ts&play_token=9mtfajhuAk
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/BOXOFFICE.png" group-title="*AR* PREMIUM PLAY",BOX OFFICE 13 FHD
+http://spaw-tv.sbs:80/play/live.php?mac=00:1A:79:81:41:3f&stream=458303&extension=ts&play_token=3xhCC8lZnS
