@@ -1,0 +1,36 @@
+# ======================================================
+# مكان الملف: في GitHub
+# اسم ومسار الملف: .github/workflows/update_vod.yml
+# ======================================================
+name: Auto Sync VOD & Series Lists
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch and Filter Xtream VOD/Series
+        run: node sync_vod.js
+
+      - name: Commit and Push JSON Cache
+        run: |
+          git config --global user.name "GAMERDZ1517-Bot"
+          git config --global user.email "bot@gamerdz1517.local"
+          git add cache/*.json
+          git diff --staged --quiet || git commit -m "Auto-update VOD & Series lists"
+          git push
