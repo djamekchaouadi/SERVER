@@ -6,9 +6,9 @@ name: Auto Sync VOD & Series Lists
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 3 */2 * *' # يعمل تلقائياً مرة واحدة كل يومين (48 ساعة) عند الساعة 3 فجراً
   workflow_dispatch:
-
+  
 permissions:
   contents: write
 
