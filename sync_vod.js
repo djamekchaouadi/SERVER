@@ -5,15 +5,33 @@
 const fs = require('fs');
 const path = require('path');
 
-const HOST = "http://new-kids.xyz:80";
+const HOST = "http://raha66.xyz:80";
 
 // حسابات لسحب القوائم تلقائياً
 const ACCOUNTS = [
-  { u: "8W5KX2H91S4323Z", p: "g4KdE3BKdn" },
-  { u: "6WG9V8SNURYS25F", p: "r4m0vcwwfZ" },
-  { u: "649040128000902", p: "0cYUKKV8wF" },
-  { u: "630343888081164", p: "1IkWgPBSzG" },
-  { u: "81D9TA348FP2SW3", p: "v7RQdjWc3y" }
+  { u: "MAGPX8RWE6",      p: "MAG91PFESJ", exp: "2027-04-13" },
+  { u: "MAGCZ4NTYA",      p: "MAGHU4H4BY", exp: "2027-05-06" },
+  { u: "EHYAJE9B27DPLVS", p: "s0zGIayIPG", exp: "2027-01-16" },
+  { u: "MAGAY1SBCD",      p: "MAGC8B97CZ", exp: "2027-07-06" },
+  { u: "MAGL4EZGLR",      p: "MAGV5M77LT", exp: "2027-05-30" },
+  { u: "PW451B965322PX8", p: "g2ZiHclbLD", exp: "2027-02-15" },
+  { u: "966737562799446", p: "mYWdatfZ4I", exp: "2027-02-26" },
+  { u: "F03693317D21",    p: "Ht24TMVifV", exp: "2026-11-13" },
+  { u: "R3ZVDZN8KTB8H5U", p: "nn07zp51JV", exp: "2027-03-03" },
+  { u: "VTUE3527R5345W2", p: "IlrJGp2CTk", exp: "2027-09-29" },
+  { u: "C8660D71F88FD3A", p: "DiMdw4asEn", exp: "2027-01-22" },
+  { u: "6C1ZMUK472YY1NF", p: "1mHM8nRIW9", exp: "2027-10-16" },
+  { u: "0C9AC46FF415F45", p: "FEZWpyZLsv", exp: "2027-01-04" },
+  { u: "MAG4CJ6CER",      p: "MAGVGJ4T71", exp: "2027-05-30" },
+  { u: "MAGKMA7H7Y",      p: "MAG3LBYFXR", exp: "2027-08-05" },
+  { u: "MAG82MQVWG",      p: "MAGE56JF4S", exp: "2027-05-16" },
+  { u: "MAG8FRBX31",      p: "MAG3BZ4JZM", exp: "2027-10-16" },
+  { u: "071D25239A3802C", p: "JhqMjPc53v", exp: "2027-01-24" },
+  { u: "MAG7BSGFBB",      p: "MAGWCY9XHC", exp: "2027-07-30" },
+  { u: "1MH9BBK8F9M4937", p: "yGreKtLEmk", exp: "2026-12-24" },
+  { u: "MAG1E3UZV9",      p: "MAG591LJVE", exp: "2027-07-06" },
+  { u: "A263C009AC3F757", p: "4InSJJjkjM", exp: "2027-02-16" },
+  { u: "QE5RHBT5TJJ3PU1", p: "kr0t9fSRpc", exp: "2027-06-30" }
 ];
 
 function isAllowedCategory(name) {
