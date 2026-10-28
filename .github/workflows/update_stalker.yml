@@ -1,0 +1,36 @@
+# ======================================================
+# مكان الملف: في GitHub
+# اسم ومسار الملف: .github/workflows/update_stalker.yml
+# ======================================================
+name: Auto Sync Stalker VOD & Series (hey-ott)
+
+on:
+  schedule:
+    - cron: '30 4 */2 * *' # يعمل كل 48 ساعة في وقت مختلف عن السكريبت الأول
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync_stalker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch and Format Stalker VOD/Series
+        run: node sync_stalker.js
+
+      - name: Commit and Push Stalker Cache
+        run: |
+          git config --global user.name "GAMERDZ1517-Bot"
+          git config --global user.email "bot@gamerdz1517.local"
+          git add cache_stalker/*.json
+          git diff --staged --quiet || git commit -m "Auto-update Stalker VOD & Series"
+          git push
