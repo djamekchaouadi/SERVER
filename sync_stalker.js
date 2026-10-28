@@ -168,7 +168,7 @@ async function main() {
         rating_5based: 0,
         added: "1600000000",
         category_id: String(cat.category_id),
-        container_extension: "mp4",
+        container_extension: "mkv",
         custom_sid: "",
         direct_source: ""
       });
