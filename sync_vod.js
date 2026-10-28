@@ -38,7 +38,7 @@ function isAllowedCategory(name) {
   if (!name) return false;
   const clean = String(name).trim();
   if (/[\u0600-\u06FF]/.test(clean)) return true;
-  if (/(?<![a-zA-Z])(AR|FR|ARAB|ARABIC|FRANCE|FRENCH)(?![a-zA-Z])/i.test(clean)) return true;
+  if (/(?<![a-zA-Z])(AR|FR|ARAB|ARABIC|FRANCE|FRENCH|RAMADAN)(?![a-zA-Z])/i.test(clean)) return true;
   return false;
 }
 
